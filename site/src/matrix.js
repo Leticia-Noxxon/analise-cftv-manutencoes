@@ -82,10 +82,11 @@ export function criarMatriz(D, host, handlers) {
   });
 
   return {
-    atualizar(novaLista) {
+    atualizar(novaLista, vazioHtml) {
       lista = novaLista;
       inner.style.height = `${HEAD_H + lista.length * ROW_H + 4}px`;
       empty.hidden = lista.length > 0;
+      empty.innerHTML = vazioHtml || 'Nenhum veículo encontrado com estes filtros.';
       scroll.scrollTop = 0;
       desenhar();
     },

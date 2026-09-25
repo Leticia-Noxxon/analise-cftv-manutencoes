@@ -1,5 +1,9 @@
 # Análise CFTV × Manutenções
 
+> **DASHBOARD:** https://leticia-noxxon.github.io/analise-cftv-manutencoes/
+> **REPOSITÓRIO:** https://github.com/Leticia-Noxxon/analise-cftv-manutencoes
+> Publicado em 25/09/2026 (GitHub Pages, atualizado automaticamente a cada push na branch `main`).
+
 Painel web **estático** que mostra, dia a dia, a situação das câmeras de CFTV de cada veículo (prefixo) e o que aconteceu
 **antes, no dia e depois** de cada manutenção registrada pelos técnicos. Assim dá para ver se o problema foi resolvido,
 se voltou (recorrência) ou se continuou.
@@ -93,12 +97,14 @@ Scripts auxiliares: `scripts/validacao_manual.py` (validação por amostragem �
 `scripts/capturar_telas.py` (capturas → `docs/screenshots/`). Ambos exigem `site/dist` compilado e Playwright
 (`pip install playwright && playwright install chromium`).
 
-## Publicação no GitHub Pages (ainda não executada)
+## Publicação (GitHub Pages)
 
-1. Criar o repositório (sugestão: `analise-cftv-manutencoes`) e enviar: `git remote add origin <url> && git push -u origin main`.
-2. No GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-3. O workflow `.github/workflows/deploy.yml` compila `site/` e publica a cada push na `main`.
-   O endereço aparece em *Actions → Publicar dashboard* e em *Settings → Pages*.
+- Repositório público: https://github.com/Leticia-Noxxon/analise-cftv-manutencoes
+- Dashboard: https://leticia-noxxon.github.io/analise-cftv-manutencoes/ (publicado em 25/09/2026)
+- GitHub Pages configurado com **Source: GitHub Actions**. O workflow `.github/workflows/deploy.yml` compila `site/` e
+  publica a cada push na `main` (acompanhe em *Actions → Publicar dashboard (GitHub Pages)*).
+- Teste do site publicado (navegador headless, perfil limpo): `python scripts/testar_publicado.py` → capturas
+  `docs/screenshots/publicado_*.png`.
 
 ## Estrutura
 

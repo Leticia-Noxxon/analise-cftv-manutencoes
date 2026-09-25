@@ -99,7 +99,17 @@ function atualizar() {
       });
     }
     c.querySelector('#kpis').innerHTML = htmlKpisMatriz();
-    matriz.atualizar(L);
+    let vazio = '';
+    if (!L.length && f.veiculos !== 'todos') {
+      const nTodos = aplicar(D, { ...f, veiculos: 'todos' }).length;
+      if (nTodos) {
+        vazio = `Nenhum veículo na lista “${f.veiculos === 'com' ? 'Com manutenção' : 'Sem manutenção'}” com estes filtros${f.busca ? ` (busca “${esc(f.busca)}”)` : ''}.<br>
+          ${fmtN(nTodos)} veículo(s) encontrado(s) em “Todos os veículos”${f.veiculos === 'com' && f.busca ? ' — sem manutenção registrada' : ''}.<br>
+          <button class="btn" id="ver-todos" style="margin-top:10px">Mostrar em “Todos os veículos”</button>`;
+      }
+    }
+    matriz.atualizar(L, vazio);
+    c.querySelector('#ver-todos')?.addEventListener('click', () => { f.veiculos = 'todos'; renderFiltros(); atualizar(); });
     return;
   }
   matriz = null;

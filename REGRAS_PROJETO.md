@@ -170,6 +170,9 @@ Casos limítrofes conhecidos: a linha 80 do formulário foi marcada por um termo
 ## 10. Regras de publicação (§36–§39)
 - Dashboard web estático (Vite + JavaScript puro, ver §16 D8), funcionando no navegador sem Python/Node/Excel/servidor para quem abre o link.
 - Projeto Git + repositório GitHub + hospedagem gratuita (GitHub Pages, Vercel ou similar) com URL pública HTTPS. Informar REPOSITÓRIO e DASHBOARD.
+  - **REPOSITÓRIO:** https://github.com/Leticia-Noxxon/analise-cftv-manutencoes (público)
+  - **DASHBOARD:** https://leticia-noxxon.github.io/analise-cftv-manutencoes/ (GitHub Pages via GitHub Actions)
+  - **Publicado em:** 25/09/2026. Cada push na `main` republica o site automaticamente.
 - Antes de publicar: verificar dados pessoais, credenciais, senhas, tokens, chaves, informações internas sensíveis. Nunca publicar senhas/tokens/.env/chaves. `.gitignore` adequado (inclusive `data/raw/`).
 - Os dados operacionais serão publicados de forma consciente (Q12 autorizou dados completos). **Dados que ficam PÚBLICOS** (no site e no repositório):
   - `site/public/data/*.json` (e o site publicado): prefixos; empresa (CFTV) por dia; status de cada câmera 21–26 por dia (código compacto); status operacional e "última manutenção" do CFTV; nome do arquivo e linha de origem; formulários completos — prefixo, técnico (nome), data/hora, ID, garagem, tecnologia, todas as respostas das colunas de problemas/ações/quantidades, **observação integral**, números de série e MACs extraídos, alertas; resultados/histórias calculados.
@@ -189,7 +192,7 @@ Implementação: `tests/test_regras_obrigatorias.py` (casos 1–8 + regras das d
 Inventar status; preencher dias sem informação; transformar vazio em OFFLINE; tratar Corredor e Corredor 1 separadamente; usar abas de tabela/resumo; descartar observações; truncar textos longos; sobrescrever várias manutenções do mesmo veículo; considerar verde no dia seguinte como resolvido definitivo; considerar problema em outra câmera como recorrência da câmera reparada; alterar arquivos originais; publicar senha/token; deixar resultado só em localhost.
 
 ## 14. Fluxo obrigatório (§48)
-F1 ler arquivos ✅ · F2 identificar estrutura/abas/colunas ✅ · F3 apresentar diagnóstico ✅ (`docs/DIAGNOSTICO.md`) · F4 criar REGRAS_PROJETO.md ✅ · F5 consolidar Relatórios CFTV ✅ · F6 interpretar status ✅ · F7 processar Revisão_CFTV ✅ · F8 relacionar manutenção + CFTV ✅ · F9 antes/depois/recorrência ✅ · F10 validar ✅ · F11 construir dashboard ✅ · F12 testar interatividade ✅ · F13 validar amostras contra Excel ✅ (`docs/VALIDACAO.md`) · F14 documentação ✅ · F15 publicar no GitHub · F16 publicar na web · F17 testar URL pública.
+F1 ler arquivos ✅ · F2 identificar estrutura/abas/colunas ✅ · F3 apresentar diagnóstico ✅ (`docs/DIAGNOSTICO.md`) · F4 criar REGRAS_PROJETO.md ✅ · F5 consolidar Relatórios CFTV ✅ · F6 interpretar status ✅ · F7 processar Revisão_CFTV ✅ · F8 relacionar manutenção + CFTV ✅ · F9 antes/depois/recorrência ✅ · F10 validar ✅ · F11 construir dashboard ✅ · F12 testar interatividade ✅ · F13 validar amostras contra Excel ✅ (`docs/VALIDACAO.md`) · F14 documentação ✅ · F15 publicar no GitHub ✅ · F16 publicar na web ✅ · F17 testar URL pública ✅ (`scripts/testar_publicado.py`).
 
 ---
 
@@ -254,3 +257,4 @@ Nenhuma questão pendente de decisão neste momento. Novas dúvidas devem ser re
 | 25/09/2026 | Criação do documento (Fases 1–4). Regras D1–D7. Questões Q1–Q19 abertas. | Diagnóstico inicial |
 | 25/09/2026 | Decisões da usuária Q1–Q19 registradas (§17); QUESTÕES EM ABERTO esvaziada. | Letícia |
 | 25/09/2026 | Fases 5–14 concluídas: regras detalhadas nas seções 4–12 e D8–D13; lista de dados públicos em §10; taxa de resolução em §8. Publicação (F15–F17) aguardando login do GitHub. | Execução |
+| 25/09/2026 | Fases 15–17: repositório público e dashboard no GitHub Pages publicados e testados; na matriz, busca de prefixo fora da lista atual passa a oferecer “Mostrar em Todos os veículos”. | Execução |
