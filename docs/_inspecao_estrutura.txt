@@ -1,0 +1,254 @@
+====================================================================================================
+Relatório CFTV - 01.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:N23 max_row=23 max_col=14 state=visible
+    pivot tables: 1
+     ('Data', datetime.datetime(2026, 9, 1, 0, 0), None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Manutenção', '(Tudo)', None, None, None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', '100% Offline', 'Erro no SD', 'Substituição de câmera', 'Substituição de TDM', 'Substituição de UCP', 'Infiltração', 'Câmera Inexistente', 'Câmera Travada', 'Vandalismo', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral')
+  ABA: 'Relatório CFTV - 01.09.2026' dims=A1:L5554 max_row=5554 max_col=12 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Última Transmissão', 'Status', 'Manutenção')
+     (68001, datetime.datetime(2026, 9, 1, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, '01/09/2026, 10:15:09', 'OK', '#N/A')
+     (68002, datetime.datetime(2026, 9, 1, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, '01/09/2026, 10:39:16', 'OK', datetime.datetime(2026, 8, 25, 0, 0))
+     (68007, datetime.datetime(2026, 9, 1, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, '01/09/2026, 10:13:14', 'OK', datetime.datetime(2026, 8, 3, 0, 0))
+     (68010, datetime.datetime(2026, 9, 1, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, '01/09/2026, 10:19:36', 'OK', '#N/A')
+====================================================================================================
+Relatório CFTV - 02.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:L23 max_row=23 max_col=12 state=visible
+    pivot tables: 1
+     ('Manutenção', '(Tudo)', None, None, None, None, None, None, None, None, None, None)
+     ('Data', datetime.datetime(2026, 9, 2, 0, 0), None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', '100% Offline', 'Erro no SD', 'Câmera Inexistente', 'Infiltração', 'Câmera Travada', 'Vandalismo', 'Em espera por câmera/material', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral')
+  ABA: 'Relatório CFTV - 02.09.2026' dims=A1:K5528 max_row=5528 max_col=11 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Status', 'Manutenção')
+     (68001, datetime.datetime(2026, 9, 2, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+     (68002, datetime.datetime(2026, 9, 2, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 25, 0, 0))
+     (68007, datetime.datetime(2026, 9, 2, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 3, 0, 0))
+     (68010, datetime.datetime(2026, 9, 2, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+====================================================================================================
+Relatório CFTV - 03.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:L23 max_row=23 max_col=12 state=visible
+    pivot tables: 1
+     ('Manutenção', '(Tudo)', None, None, None, None, None, None, None, None, None, None)
+     ('Data', datetime.datetime(2026, 9, 3, 0, 0), None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', '100% Offline', 'Erro no SD', 'Câmera Inexistente', 'Câmera Travada', 'Vandalismo', 'Infiltração', 'Em espera por câmera/material', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral')
+  ABA: 'Relatório CFTV - 03.09.2026' dims=A1:K5519 max_row=5519 max_col=11 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Status', 'Manutenção')
+     (68001, datetime.datetime(2026, 9, 3, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+     (68002, datetime.datetime(2026, 9, 3, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 25, 0, 0))
+     (68007, datetime.datetime(2026, 9, 3, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 3, 0, 0))
+     (68010, datetime.datetime(2026, 9, 3, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+====================================================================================================
+Relatório CFTV - 04.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:L21 max_row=21 max_col=12 state=visible
+    pivot tables: 1
+     ('Data', datetime.datetime(2026, 9, 4, 0, 0), None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', '100% Offline', 'Erro no SD', 'Câmera Inexistente', 'Infiltração', 'Câmera Travada', 'Vandalismo', 'Em espera por câmera/material', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral')
+     ('A2 TRANSPORTES', 13, 67, 14, 34, 2, 9, 2, 7, 7, 282, 437)
+  ABA: 'Relatório CFTV - 04.09.2026' dims=A1:J4790 max_row=4790 max_col=10 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Status')
+     (68001, datetime.datetime(2026, 9, 4, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK')
+     (68002, datetime.datetime(2026, 9, 4, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK')
+     (68007, datetime.datetime(2026, 9, 4, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK')
+     (68010, datetime.datetime(2026, 9, 4, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK')
+====================================================================================================
+Relatório CFTV - 08.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:N23 max_row=23 max_col=14 state=visible
+    pivot tables: 1
+     ('Data', datetime.datetime(2026, 9, 8, 0, 0), None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Manutenção', '(Tudo)', None, None, None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', 'Erro no SD', '100% Offline', 'Câmera Inexistente', 'Infiltração', 'Câmera Travada', 'Vandalismo', 'Em espera por câmera/material', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral', None, None)
+  ABA: 'Relatório CFTV - 08.09.2026' dims=A1:K5495 max_row=5495 max_col=11 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Status', 'Manutenção')
+     (68001, datetime.datetime(2026, 9, 8, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+     (68002, datetime.datetime(2026, 9, 8, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 25, 0, 0))
+     (68007, datetime.datetime(2026, 9, 8, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 3, 0, 0))
+     (68010, datetime.datetime(2026, 9, 8, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+====================================================================================================
+Relatório CFTV - 09.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:L23 max_row=23 max_col=12 state=visible
+    pivot tables: 1
+     ('Manutenção', '(Tudo)', None, None, None, None, None, None, None, None, None, None)
+     ('Data', datetime.datetime(2026, 9, 9, 0, 0), None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', '100% Offline', 'Erro no SD', 'Câmera Inexistente', 'Câmera Travada', 'Infiltração', 'Vandalismo', 'Em espera por câmera/material', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral')
+  ABA: 'Relatório CFTV - 09.09.2026' dims=A1:K5515 max_row=5515 max_col=11 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Status', 'Manutenção')
+     (68001, datetime.datetime(2026, 9, 9, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+     (68002, datetime.datetime(2026, 9, 9, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 25, 0, 0))
+     (68007, datetime.datetime(2026, 9, 9, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 3, 0, 0))
+     (68010, datetime.datetime(2026, 9, 9, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+====================================================================================================
+Relatório CFTV - 10.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:L23 max_row=23 max_col=12 state=visible
+    pivot tables: 1
+     ('Manutenção', '(Tudo)', None, None, None, None, None, None, None, None, None, None)
+     ('Data', datetime.datetime(2026, 9, 10, 0, 0), None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', '100% Offline', 'Erro no SD', 'Câmera Inexistente', 'Câmera Travada', 'Infiltração', 'Vandalismo', 'Em espera por câmera/material', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral')
+  ABA: 'Relatório CFTV - 10.09.2026' dims=A1:K5514 max_row=5514 max_col=11 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Status', 'Manutenção')
+     (68001, datetime.datetime(2026, 9, 10, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+     (68002, datetime.datetime(2026, 9, 10, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 25, 0, 0))
+     (68007, datetime.datetime(2026, 9, 10, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 3, 0, 0))
+     (68010, datetime.datetime(2026, 9, 10, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+====================================================================================================
+Relatório CFTV - 11.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:L23 max_row=23 max_col=12 state=visible
+    pivot tables: 1
+     ('Manutenção', '(Tudo)', None, None, None, None, None, None, None, None, None, None)
+     ('Data', datetime.datetime(2026, 9, 11, 0, 0), None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', '100% Offline', 'Erro no SD', 'Câmera Inexistente', 'Infiltração', 'Câmera Travada', 'Vandalismo', 'Em espera por câmera/material', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral')
+  ABA: 'Relatório CFTV - 11.09.2026' dims=A1:K5528 max_row=5528 max_col=11 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Status', 'Manutenção')
+     (68001, datetime.datetime(2026, 9, 11, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+     (68002, datetime.datetime(2026, 9, 11, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 25, 0, 0))
+     (68007, datetime.datetime(2026, 9, 11, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 3, 0, 0))
+     (68010, datetime.datetime(2026, 9, 11, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+====================================================================================================
+Relatório CFTV - 15.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:L23 max_row=23 max_col=12 state=visible
+    pivot tables: 1
+     ('Manutenção', '(Tudo)', None, None, None, None, None, None, None, None, None, None)
+     ('Data', datetime.datetime(2026, 9, 15, 0, 0), None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', '100% Offline', 'Erro no SD', 'Câmera Inexistente', 'Infiltração', 'Câmera Travada', 'Vandalismo', 'Em espera por câmera/material', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral')
+  ABA: 'Relatório CFTV - 15.09.2026' dims=A1:K5514 max_row=5514 max_col=11 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Status', 'Manutenção')
+     (68001, datetime.datetime(2026, 9, 15, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+     (68002, datetime.datetime(2026, 9, 15, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 25, 0, 0))
+     (68007, datetime.datetime(2026, 9, 15, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 3, 0, 0))
+     (68010, datetime.datetime(2026, 9, 15, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+====================================================================================================
+Relatório CFTV - 16.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:L23 max_row=23 max_col=12 state=visible
+    pivot tables: 1
+     ('Manutenção', '(Tudo)', None, None, None, None, None, None, None, None, None, None)
+     ('Data', datetime.datetime(2026, 9, 16, 0, 0), None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', '100% Offline', 'Erro no SD', 'Câmera Inexistente', 'Infiltração', 'Câmera Travada', 'Vandalismo', 'Em espera por câmera/material', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral')
+  ABA: 'Relatório CFTV - 16.09.2026' dims=A1:K5532 max_row=5532 max_col=11 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Status', 'Manutenção')
+     (68001, datetime.datetime(2026, 9, 16, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+     (68002, datetime.datetime(2026, 9, 16, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 25, 0, 0))
+     (68007, datetime.datetime(2026, 9, 16, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 3, 0, 0))
+     (68010, datetime.datetime(2026, 9, 16, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+====================================================================================================
+Relatório CFTV - 17.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:L23 max_row=23 max_col=12 state=visible
+    pivot tables: 1
+     ('Manutenção', '(Tudo)', None, None, None, None, None, None, None, None, None, None)
+     ('Data', datetime.datetime(2026, 9, 17, 0, 0), None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', '100% Offline', 'Erro no SD', 'Câmera Inexistente', 'Infiltração', 'Câmera Travada', 'Vandalismo', 'Em espera por câmera/material', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral')
+  ABA: 'Relatório CFTV - 17.09.2026' dims=A1:K5550 max_row=5550 max_col=11 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Status', 'Manutenção')
+     (68001, datetime.datetime(2026, 9, 17, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+     (68002, datetime.datetime(2026, 9, 17, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 25, 0, 0))
+     (68007, datetime.datetime(2026, 9, 17, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 3, 0, 0))
+     (68010, datetime.datetime(2026, 9, 17, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+====================================================================================================
+Relatório CFTV - 18.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:L23 max_row=23 max_col=12 state=visible
+    pivot tables: 1
+     ('Manutenção', '(Tudo)', None, None, None, None, None, None, None, None, None, None)
+     ('Data', datetime.datetime(2026, 9, 18, 0, 0), None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', '100% Offline', 'Erro no SD', 'Câmera Inexistente', 'Infiltração', 'Câmera Travada', 'Vandalismo', 'Em espera por câmera/material', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral')
+  ABA: 'Relatório CFTV - 18.09.2026' dims=A1:K5524 max_row=5524 max_col=11 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21 ', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Status', 'Manutenção')
+     (68001, datetime.datetime(2026, 9, 18, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+     (68002, datetime.datetime(2026, 9, 18, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 25, 0, 0))
+     (68007, datetime.datetime(2026, 9, 18, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 3, 0, 0))
+     (68010, datetime.datetime(2026, 9, 18, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+====================================================================================================
+Relatório CFTV - 21.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:L23 max_row=23 max_col=12 state=visible
+    pivot tables: 1
+     ('Data', datetime.datetime(2026, 9, 21, 0, 0), None, None, None, None, None, None, None, None, None, None)
+     ('Manutenção', '(Tudo)', None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', '100% Offline', 'Erro no SD', 'Câmera Inexistente', 'Infiltração', 'Vandalismo', 'Câmera Travada', 'Em espera por câmera/material', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral')
+  ABA: 'Relatório CFTV - 21.09.2026' dims=A1:K5609 max_row=5609 max_col=11 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Status', 'Manutenção')
+     (68001, datetime.datetime(2026, 9, 21, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+     (68002, datetime.datetime(2026, 9, 21, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 25, 0, 0))
+     (68007, datetime.datetime(2026, 9, 21, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 3, 0, 0))
+     (68010, datetime.datetime(2026, 9, 21, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+====================================================================================================
+Relatório CFTV - 22.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:L23 max_row=23 max_col=12 state=visible
+    pivot tables: 1
+     ('Manutenção', '(Tudo)', None, None, None, None, None, None, None, None, None, None)
+     ('Data', datetime.datetime(2026, 9, 22, 0, 0), None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', '100% Offline', 'Erro no SD', 'Câmera Inexistente', 'Infiltração', 'Vandalismo', 'Câmera Travada', 'Em espera por câmera/material', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral')
+  ABA: 'Relatório CFTV - 22.09.2026' dims=A1:K5578 max_row=5578 max_col=11 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Status', 'Manutenção')
+     (68001, datetime.datetime(2026, 9, 22, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+     (68002, datetime.datetime(2026, 9, 22, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 25, 0, 0))
+     (68007, datetime.datetime(2026, 9, 22, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 3, 0, 0))
+     (68010, datetime.datetime(2026, 9, 22, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+====================================================================================================
+Relatório CFTV - 23.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:L23 max_row=23 max_col=12 state=visible
+    pivot tables: 1
+     ('Manutenção', '(Tudo)', None, None, None, None, None, None, None, None, None, None)
+     ('Data', datetime.datetime(2026, 9, 23, 0, 0), None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', '100% Offline', 'Erro no SD', 'Câmera Inexistente', 'Infiltração', 'Câmera Travada', 'Vandalismo', 'Em espera por câmera/material', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral')
+  ABA: 'Relatório CFTV - 23.09.2026' dims=A1:K5592 max_row=5592 max_col=11 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Status', 'Manutenção')
+     (68001, datetime.datetime(2026, 9, 23, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+     (68002, datetime.datetime(2026, 9, 23, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 25, 0, 0))
+     (68007, datetime.datetime(2026, 9, 23, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 3, 0, 0))
+     (68010, datetime.datetime(2026, 9, 23, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+====================================================================================================
+Relatório CFTV - 24.09.2026.xlsx
+  ABA: 'Tabela' dims=A1:L23 max_row=23 max_col=12 state=visible
+    pivot tables: 1
+     ('Manutenção', '(Tudo)', None, None, None, None, None, None, None, None, None, None)
+     ('Data', datetime.datetime(2026, 9, 24, 0, 0), None, None, None, None, None, None, None, None, None, None)
+     (None, None, None, None, None, None, None, None, None, None, None, None)
+     ('Contagem de Prefixo', 'Rótulos de Coluna', None, None, None, None, None, None, None, None, None, None)
+     ('Rótulos de Linha', '1 ou + cam Off', '100% Offline', 'Erro no SD', 'Câmera Inexistente', 'Infiltração', 'Câmera Travada', 'Vandalismo', 'Em espera por câmera/material', 'Manutenção/Sem Transmissão', 'OK', 'Total Geral')
+  ABA: 'Relatório CFTV - 24.09.2026' dims=A1:K5599 max_row=5599 max_col=11 state=visible
+     ('Prefixo', 'Data', 'Empresa', 'Câmera 21', 'Câmera 22', 'Câmera 23', 'Câmera 24', 'Câmera 25', 'Câmera 26', 'Status', 'Manutenção')
+     (68001, datetime.datetime(2026, 9, 24, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+     (68002, datetime.datetime(2026, 9, 24, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 25, 0, 0))
+     (68007, datetime.datetime(2026, 9, 24, 0, 0), 'A2 TRANSPORTES', '-', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', datetime.datetime(2026, 8, 3, 0, 0))
+     (68010, datetime.datetime(2026, 9, 24, 0, 0), 'A2 TRANSPORTES', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', 'ONLINE (SD: ok, Login: ok, Gravação: ok)', None, None, None, None, 'OK', '#N/A')
+====================================================================================================
+Revisão_CFTV2026-09-25_13_34_23.xlsx
+  ABA: 'Sheet1' dims=A1:V325 max_row=325 max_col=22 state=visible
+     ('Prefixo', 'Nome', 'Data', 'ID', 'Garagem', 'Tecnologia', 'Câmera Utilizada', 'Problemas Detectados: Câm. Frontal', 'Ações: Câm. Frontal', 'Problemas Detectados: Câm. Frente', 'Ações: Câm. Frente', 'Problemas Detectados: Câm. Corredor 1', 'Problemas Detectados: Câm. Corredor 2', 'Ações: Câm. Corredor 2', 'Switch Utilizado', 'Problemas Detectados: Câm. Corredor 3', 'Cartão de Memória Utilizado', 'Ações: Câm. Corredor 1', 'Ações: Câm. Corredor 3', 'Problemas Detectados: Câm. Corredor 4', 'Ações: Câm. Corredor 4', 'Observações')
+     (73381, 'John Lima', 'sexta-feira, setembro 25, 2026 09:40', 35516, "Viação Metrópole M'Boi Mirim", 'Padron', None, 'Câmera inoperante\nCabeamento rompido/danificado', 'Substituição da câmera defeituosa\nSubstituição do cabeamento\nAtivação da câmera', 'Nenhuma anomalia identificada', 'Nenhuma ação realizada', 'Nenhuma anomalia identificada', None, None, None, None, None, 'Nenhuma ação realizada', None, None, None, 'Anomalias \nCamera 21 inoperante \n\nReparos \n\nSubstituído Cabeamento  UTP  e a Camera 21  \n\nNúmero de série câmera instalada \n210235UDL5F247002849\nMAC  E4F14C780CBE\n\nRETIRADA \n\n210A235UGNJ324A003395\nMAC E4F14C7F1524')
+     (52714, 'Gustavo Nunes', 'sexta-feira, setembro 25, 2026 04:23', 32000, 'Via Sudeste Sapopemba', 'Articulado', None, None, None, 'Sem gravação de imagens', 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória', None, 'Câmera inoperante', 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nSubstituição da câmera defeituosa', None, None, None, None, None, None, None, 'Troca SD câmera 22 \nTroca da câmera 24')
+     (11682, 'Leandro Resende', 'sexta-feira, setembro 25, 2026 04:02', 29314, 'Santa Brigida', 'Padron', None, None, None, 'Câmera mal reposicionada', 'Reposicionamento adequado da câmera', None, None, None, None, None, None, None, None, None, None, None)
+     (11677, 'Leandro Resende', 'sexta-feira, setembro 25, 2026 03:50', 29443, 'Santa Brigida', 'Padron', None, None, None, 'Câmera mal reposicionada', 'Reposicionamento adequado da câmera', None, None, None, None, None, None, None, None, None, None, None)
+  ABA: 'Planilha1' dims=B1:G325 max_row=325 max_col=7 state=visible
+     (None, 'Garagem', None, None, None, 'Garagem', None)
+     (None, "Viação Metrópole M'Boi Mirim", None, None, None, "Viação Metrópole M'Boi Mirim", 9)
+     (None, 'Via Sudeste Sapopemba', None, None, None, 'Via Sudeste Sapopemba', 100)
+     (None, 'Santa Brigida', None, None, None, 'Santa Brigida', 59)
+     (None, 'Santa Brigida', None, None, None, 'A2 Transportes', 12)

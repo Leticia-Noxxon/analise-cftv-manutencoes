@@ -1,0 +1,91 @@
+﻿tipo,onde,detalhe
+Coluna extra,Relatório CFTV - 01.09.2026.xlsx,Última Transmissão
+Coluna ausente,Relatório CFTV - 04.09.2026.xlsx,Sem a coluna 'Manutenção'
+Cabeçalho com espaço extra,Relatório CFTV - 18.09.2026.xlsx,'Câmera 21 ' → padronizado
+Empresa com espaço no final,Relatórios CFTV,"'GATO PRETO ', 'METROPOLE - AE CARVALHO ', 'METROPOLE - ITAIM ', 'METROPOLE PAULISTA - DEPINEDO ', 'VIA SUDESTE ' → padronizado"
+Empresa ausente no arquivo,Relatório CFTV de 04/09/2026,SANTA BRIGIDA: nenhum registro nesta data (células em branco)
+Datas sem arquivo CFTV,Período 01/09–24/09,"05/09 (sáb), 06/09 (dom), 07/09 (seg), 12/09 (sáb), 13/09 (dom), 14/09 (seg), 19/09 (sáb), 20/09 (dom) → colunas em branco"
+Prefixo muda de empresa,Relatórios CFTV,"50 prefixos (ex.: 31361, 31362, 31364, 31365, 31366, 31367, 31368, 31369, 31370, 31371, 31373, 31374…)"
+Mudança atípica no padrão de câmeras ('-'),ALFA RODOBUS em 03/09/2026,"288 trocas entre ""sem câmera"" e câmera com valor em relação ao registro anterior (possível troca de colunas na exportação). Dado mantido como está."
+Mudança atípica no padrão de câmeras ('-'),ALFA RODOBUS em 04/09/2026,"288 trocas entre ""sem câmera"" e câmera com valor em relação ao registro anterior (possível troca de colunas na exportação). Dado mantido como está."
+Mudança na grade de colunas,ALFA RODOBUS em 24/09/2026,2 colunas de câmera preenchidas (normalmente 3).
+Formulário de manutenção,linha 27 — prefixo 52113,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 29 — prefixo 52132,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 31 — prefixo 52712,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 33 — prefixo 73776,Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+Formulário de manutenção,linha 34 — prefixo 52127,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 37 — prefixo 73796,Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+Formulário de manutenção,linha 44 — prefixo 52111,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 46 — prefixo 52145,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 47 — prefixo 52935,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 48 — prefixo 52838,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 49 — prefixo 51579,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 50 — prefixo 52799,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 61 — prefixo 52126,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 62 — prefixo 52903,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 63 — prefixo 52922,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 66 — prefixo 52923,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 67 — prefixo 52911,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 68 — prefixo 51218,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 70 — prefixo 52718,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 73 — prefixo 52943,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 82 — prefixo 73004,Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+Formulário de manutenção,linha 83 — prefixo 73840,Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+Formulário de manutenção,linha 84 — prefixo 73864,Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+Formulário de manutenção,linha 85 — prefixo 61651,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 87 — prefixo 73775,Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+Formulário de manutenção,linha 103 — prefixo 61070,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 111 — prefixo 11435,Prefixo não existe em nenhum Relatório CFTV
+Formulário de manutenção,linha 130 — prefixo 51573,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 131 — prefixo 52115,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 133 — prefixo 52754,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 134 — prefixo 51573,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 135 — prefixo 52749,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 136 — prefixo 52834,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 137 — prefixo 52796,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 138 — prefixo 52775,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 139 — prefixo 52843,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 140 — prefixo 52104,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 170 — prefixo 52105,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 171 — prefixo 52103,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 173 — prefixo 52913,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 174 — prefixo 52924,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 189 — prefixo 51133,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 191 — prefixo 52074,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 191 — prefixo 52074,"Texto cita o prefixo 52023, diferente da coluna Prefixo (52074); mantido o valor da coluna Prefixo (Q11)"
+Formulário de manutenção,linha 194 — prefixo 52074,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 195 — prefixo 52078,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 196 — prefixo 52042,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 196 — prefixo 52042,"Texto cita o prefixo 52704, diferente da coluna Prefixo (52042); mantido o valor da coluna Prefixo (Q11)"
+Formulário de manutenção,linha 196 — prefixo 52042,"Texto contém ""PREFIXO INCORRETO"" — conferir"
+Formulário de manutenção,linha 197 — prefixo 51113,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 198 — prefixo 51117,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 199 — prefixo 51116,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 236 — prefixo 68582,"Texto informa ID 34142, diferente da coluna ID (34182)"
+Formulário de manutenção,linha 254 — prefixo 73767,Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+Formulário de manutenção,linha 256 — prefixo 73785,Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+Formulário de manutenção,linha 277 — prefixo 51578,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 278 — prefixo 52774,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 280 — prefixo 52835,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 281 — prefixo 52788,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 289 — prefixo 52110,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 290 — prefixo 52110,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 291 — prefixo 52901,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 292 — prefixo 52909,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 293 — prefixo 52148,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 295 — prefixo 52905,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 298 — prefixo 51057,ID 32500 repetido em 54 formulários (provável valor genérico)
+Formulário de manutenção,linha 299 — prefixo 52124,ID 32500 repetido em 54 formulários (provável valor genérico)
+Manutenção fora do período CFTV,prefixo 11457 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
+Manutenção fora do período CFTV,prefixo 11677 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
+Manutenção fora do período CFTV,prefixo 11682 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
+Manutenção fora do período CFTV,prefixo 11694 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
+Manutenção fora do período CFTV,prefixo 11786 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
+Manutenção fora do período CFTV,prefixo 11857 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
+Manutenção fora do período CFTV,prefixo 11874 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
+Manutenção fora do período CFTV,prefixo 11883 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
+Manutenção fora do período CFTV,prefixo 52714 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
+Manutenção fora do período CFTV,prefixo 52907 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
+Manutenção fora do período CFTV,prefixo 68508 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
+Manutenção fora do período CFTV,prefixo 73381 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
+Manutenção fora do período CFTV,prefixo 73642 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR

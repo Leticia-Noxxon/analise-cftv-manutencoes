@@ -1,0 +1,38 @@
+# Ambientes e dependências
+venv/
+.venv/
+env/
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Segredos (nunca versionar)
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials*.json
+token*.txt
+
+# Build do site (gerado pelo GitHub Actions / npm run build)
+site/dist/
+
+# Planilhas originais: não versionadas (ficam na máquina local; ver README "Dados públicos")
+data/raw/*.xlsx
+data/raw/*.xls
+data/raw/*.csv
+~$*.xlsx
+
+# Intermediários e arquivos grandes regeneráveis
+data/processed/*.pkl
+data/processed/cftv_consolidado.csv
+
+# Sistema/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

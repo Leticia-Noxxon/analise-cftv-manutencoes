@@ -1,0 +1,1784 @@
+﻿linha_excel,prefixo,data,hora,data_texto_original,tecnico,tecnico_original,id_formulario,garagem,tecnologia,FRONTAL (câm 21) — problemas,FRONTAL (câm 21) — ações,FRENTE (câm 22) — problemas,FRENTE (câm 22) — ações,CORREDOR 1 (câm 23) — problemas,CORREDOR 1 (câm 23) — ações,CORREDOR 2 (câm 24) — problemas,CORREDOR 2 (câm 24) — ações,CORREDOR 3 (câm 25) — problemas,CORREDOR 3 (câm 25) — ações,CORREDOR 4 (câm 26) — problemas,CORREDOR 4 (câm 26) — ações,cameras_com_anomalia,cameras_citadas_no_texto,notacao_C_no_texto,pecas_equipamentos,Câmera Utilizada,Switch Utilizado,Cartão de Memória Utilizado,serie_instalado,mac_instalado,serie_retirado,mac_retirado,serie_nao_especificado,mac_nao_especificado,pendencia,pendencia_trechos,observacoes,alertas
+2,73381,2026-09-25,09:40,"sexta-feira, setembro 25, 2026 09:40",John Lima,John Lima,35516,Viação Metrópole M'Boi Mirim,Padron,"Câmera inoperante
+Cabeamento rompido/danificado","Substituição da câmera defeituosa
+Substituição do cabeamento
+Ativação da câmera",Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,FRONTAL (câm 21),FRONTAL (câm 21),,"Substituição da câmera defeituosa — FRONTAL (câm 21)
+Substituição do cabeamento — FRONTAL (câm 21)",,,,210235UDL5F247002849,E4F14C780CBE,210A235UGNJ324A003395,E4F14C7F1524,,,NÃO,,"Anomalias 
+Camera 21 inoperante 
+
+Reparos 
+
+Substituído Cabeamento  UTP  e a Camera 21  
+
+Número de série câmera instalada 
+210235UDL5F247002849
+MAC  E4F14C780CBE
+
+RETIRADA 
+
+210A235UGNJ324A003395
+MAC E4F14C7F1524",
+3,52714,2026-09-25,04:23,"sexta-feira, setembro 25, 2026 04:23",Gustavo Nunes,Gustavo Nunes,32000,Via Sudeste Sapopemba,Articulado,,,Sem gravação de imagens,"Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória",,,Câmera inoperante,"Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Substituição da câmera defeituosa",,,,,"FRENTE (câm 22), CORREDOR 2 (câm 24)","FRENTE (câm 22), CORREDOR 2 (câm 24)",,"Inserção ou substituição do cartão de memória — FRENTE (câm 22)
+Inserção ou substituição do cartão de memória — CORREDOR 2 (câm 24)
+Substituição da câmera defeituosa — CORREDOR 2 (câm 24)",,,,,,,,,,NÃO,,"Troca SD câmera 22 
+Troca da câmera 24",
+4,11682,2026-09-25,04:02,"sexta-feira, setembro 25, 2026 04:02",Leandro Resende,Leandro Resende,29314,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+5,11677,2026-09-25,03:50,"sexta-feira, setembro 25, 2026 03:50",Leandro Resende,Leandro Resende,29443,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+6,11694,2026-09-25,03:43,"sexta-feira, setembro 25, 2026 03:43",Leandro Resende,Leandro Resende,29159,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+7,11786,2026-09-25,03:32,"sexta-feira, setembro 25, 2026 03:32",Leandro Resende,Leandro Resende,29563,Santa Brigida,Padron,,,,,Sem gravação de imagens,Normalização da gravação de imagens,,,,,,,CORREDOR 1 (câm 23),,,,,,,,,,,,,NÃO,,,
+8,11857,2026-09-25,03:19,"sexta-feira, setembro 25, 2026 03:19",Leandro Resende,Leandro Resende,29452,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+9,11457,2026-09-25,03:10,"sexta-feira, setembro 25, 2026 03:10",Leandro Resende,Leandro Resende,29672,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,Sem gravação de imagens,Normalização da gravação de imagens,,,,,,,"FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,,NÃO,,,
+10,68508,2026-09-25,02:50,"sexta-feira, setembro 25, 2026 02:50",Rafael Menezes Rocha,Rafael Menezes Rocha,34336,A2 Transportes,Midi,"Câmera inoperante
+Câmera travada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Câmera travada
+Falha na conexão dos cabos
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reinicialização da câmera
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera",,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)",FRONTAL (câm 21),,,,,,,,,,,,NÃO,,"68508 - 34336 - 2 câmeras, 21 configurada no padrão e ok, 22 estava com cartão corrompido e precisando de ajuste no posicionamento. Ajustado e gravando normalmente.",
+11,11874,2026-09-25,02:28,"sexta-feira, setembro 25, 2026 02:28",Leandro Resende,Leandro Resende,29037,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+12,52907,2026-09-25,01:49,"sexta-feira, setembro 25, 2026 01:49",Anderson Silva,Anderson Silva,30750,Via Sudeste Sapopemba,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Nenhuma anomalia identificada,Nenhuma ação realizada,"Sem gravação de imagens
+Cabeamento rompido/danificado","Normalização da gravação de imagens
+Substituição do cabeamento
+Crimpagem correta do conector RJ45
+Correção e ajuste da configuração da câmera","CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 4 (câm 26)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 2 (câm 24), CORREDOR 4 (câm 26)",,Substituição do cabeamento — CORREDOR 4 (câm 26),,0,1,,,,,,,NÃO,,"Foi feito posto uma emenda no cabo da câmera 26 que estava rompido dentro da sanfona do articulado. As câmeras 21, 22 e 24 foram reconfiguradas e seus cartões SD formatados.",
+13,11883,2026-09-25,01:51,"sexta-feira, setembro 25, 2026 01:51",Leandro Resende,Leandro Resende,29651,Santa Brigida,Padron,Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,,,,,FRONTAL (câm 21),,,,,,,,,,,,,NÃO,,,
+14,73642,2026-09-25,01:18,"sexta-feira, setembro 25, 2026 01:18",John Lima,John Lima,35410,Viação Metrópole M'Boi Mirim,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,"Câmera inoperante
+Cabeamento rompido/danificado","Reinicialização da câmera
+Reparo do cabeamento
+Correção e ajuste da configuração da câmera
+Ativação da câmera",CORREDOR 4 (câm 26),CORREDOR 4 (câm 26),,,,,,,,,,,,NÃO,,"ANOMALIAS
+
+CAMERA 26 INOPERANTE
+
+REPAROS
+
+CAMERA 26  FEITO REPARO DO CABEAMENTO UTP DENTRO DA ARTICULAÇAO",
+15,52767,2026-09-24,22:40,"quinta-feira, setembro 24, 2026 22:40",Anderson Silva,Anderson Silva,30842,Via Sudeste Sapopemba,Articulado,Sem gravação de imagens,Normalização da gravação de imagens,Sem gravação de imagens,Normalização da gravação de imagens,Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,Normalização da gravação de imagens,Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,Normalização da gravação de imagens,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 2 (câm 24), CORREDOR 4 (câm 26)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 2 (câm 24), CORREDOR 4 (câm 26)",,,,,4,,,,,,,NÃO,,"Foi colocado cartão SD nas câmeras 21, 22, 24 e 26.",
+16,31758,2026-09-24,11:41,"quinta-feira, setembro 24, 2026 11:41",Luiz Rodrigo,Luiz Rodrigo,35963,Viação Metrópole Iguatemi,Padron,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Ajuste de imagem, configuração e cartão SD formatado da câmera 21;
+
+Configuração e cartão SD formatado das câmeras 22 e 23.",
+17,31761,2026-09-24,10:18,"quinta-feira, setembro 24, 2026 10:18",Luiz Rodrigo,Luiz Rodrigo,35379,Viação Metrópole Iguatemi,Padron,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Sem gravação de imagens
+Conexões do switch incorretas","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção da falha no switch
+Correção das conexões do switch
+Correção e ajuste da configuração da câmera
+Ativação da câmera",,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Câmera 21: Ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 22: Estava com problema na conexão entre o poe do switch, foi feito a ligação, configuração e cartão SD formatado.
+
+Câmera 23: funcionando normalmente.",
+18,31635,2026-09-24,09:19,"quinta-feira, setembro 24, 2026 09:19",Luiz Rodrigo,Luiz Rodrigo,35277,Viação Metrópole Iguatemi,Padron,Sem gravação de imagens,Normalização da gravação de imagens,"Sem gravação de imagens
+Câmera mal reposicionada",Reposicionamento adequado da câmera,,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Configuração e cartão SD formatado da câmera 21;
+
+Ajuste de imagem da câmera 22;
+
+Obs: Trocar o Cartão SD da Cam22; 
+
+Câmera 23: funcionando normalmente.",
+19,73219,2026-09-24,03:22,"quinta-feira, setembro 24, 2026 03:22",John Lima,John Lima,35223,Viação Metrópole M'Boi Mirim,Padron,"Câmera mal reposicionada
+Configuração incorreta da câmera","Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Anomalias 
+
+Cameras 21  22  e  23  configuradas incorretamente 
+Camera 21 mal posicionada 
+
+Reparos 
+
+Camera  21  reposicionada 
+Todas câmeras estão ativas foram desconfiguradas para o padrão Noxxon e gravação está ativa",
+20,11471,2026-09-24,03:25,"quinta-feira, setembro 24, 2026 03:25",Leandro Resende,Leandro Resende,28983,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,"FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,,NÃO,,,
+21,11775,2026-09-24,03:00,"quinta-feira, setembro 24, 2026 03:00",Leandro Resende,Leandro Resende,29524,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+22,73612,2026-09-24,02:45,"quinta-feira, setembro 24, 2026 02:45",John Lima,John Lima,35616,Viação Metrópole M'Boi Mirim,Articulado,Câmera mal reposicionada,Reposicionamento adequado da câmera,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Câmera mal reposicionada,Reposicionamento adequado da câmera,Nenhuma anomalia identificada,Nenhuma ação realizada,"FRONTAL (câm 21), CORREDOR 3 (câm 25)","FRONTAL (câm 21), CORREDOR 3 (câm 25)",,,,,,,,,,,,NÃO,,"Anomalias 
+Cameras 21 e 25 mal posicionadas 
+
+Correções 
+
+Cameras 21 e 25  reposicionados",
+23,11829,2026-09-24,02:39,"quinta-feira, setembro 24, 2026 02:39",Leandro Resende,Leandro Resende,29115,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+24,68652,2026-09-24,02:35,"quinta-feira, setembro 24, 2026 02:35",Rafael Menezes Rocha,Rafael Menezes Rocha,34433,A2 Transportes,Midi,"Câmera inoperante
+Câmera travada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Câmera travada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)",,,,,,,,,,,,,NÃO,,"68652 - 34433 - ip em conflito, ajuste efetuado, 21 virada, configuração incorreta na 21 e 22, configurei e deixei as duas gravando.",
+25,11754,2026-09-24,02:24,"quinta-feira, setembro 24, 2026 02:24",Leandro Resende,Leandro Resende,29250,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+26,31733,2026-09-24,02:17,"quinta-feira, setembro 24, 2026 02:17",Joel,Joel,34691,Viação Metrópole Imperador,Padron,"Sem gravação de imagens
+RJ45 crimpado incorretamente
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Crimpagem correta do conector RJ45
+Correção e ajuste da configuração da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,,NÃO,,,
+27,52113,2026-09-24,02:16,"quinta-feira, setembro 24, 2026 02:16",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52113
+
+ C2/C5 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C6 CÂMERA EM CURTO/ C3/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+28,11807,2026-09-24,02:09,"quinta-feira, setembro 24, 2026 02:09",Leandro Resende,Leandro Resende,29152,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+29,52132,2026-09-24,02:05,"quinta-feira, setembro 24, 2026 02:05",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52132
+
+ C2/C5 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C6 CÂMERA EM CURTO/ C3/C4 FORMATAÇÃO DE CARTÃO/ C2 TROCA DE CARTÃO/ C3 TROCA DE CONECTOR
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+30,68603,2026-09-24,01:55,"quinta-feira, setembro 24, 2026 01:55",Rafael Menezes Rocha,Rafael Menezes Rocha,34127,A2 Transportes,Midi,"Câmera inoperante
+Câmera travada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Câmera travada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera",,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)",,,,,,,,,,,,,NÃO,,"68603 - 2 câmeras, ips incorretos e configurações também. Feito o ajuste nas duas deixei gravando normalmente.",
+31,52712,2026-09-24,01:57,"quinta-feira, setembro 24, 2026 01:57",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52712
+
+C1/C6 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C2/C5 CÂMERA EM CURTO/ C3/C4 FORMATAÇÃO DE CARTÃO/BOOT UCP 
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+32,31652,2026-09-24,01:51,"quinta-feira, setembro 24, 2026 01:51",Joel,Joel,35667,Viação Metrópole Imperador,Padron,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Correção e ajuste da configuração da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22)",,"Inserção ou substituição do cartão de memória — FRONTAL (câm 21)
+Inserção ou substituição do cartão de memória — FRENTE (câm 22)",,,,,,,,,,NÃO,,Câmeras 21 e 22 trocado cartão de memória,
+33,73776,2026-09-24,01:50,"quinta-feira, setembro 24, 2026 01:50",Abner Melo,Abner melo,36772,Viação Metrópole Pinedo,Articulado,"Câmera inoperante
+Sem gravação de imagens
+Cabeamento rompido/danificado
+RJ45 crimpado incorretamente
+Configuração incorreta da câmera
+Câmera desligada manualmente","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Reposicionamento adequado da câmera
+Reparo do cabeamento
+Correção e ajuste da configuração da câmera",,,,,,,,,,,FRONTAL (câm 21),FRONTAL (câm 21),,Inserção ou substituição do cartão de memória — FRONTAL (câm 21),0,,1,,,,,,,NÃO,,"• 73776
+• Realizado o reparo no cabo da camera 21.
+• Realizado a configuração da câmera HORA/DATA.
+• Realizado o teste de gravação, camera gravando normalmente.",Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+34,52127,2026-09-24,01:45,"quinta-feira, setembro 24, 2026 01:45",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52127
+
+ C3/C6 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C4 CÂMERA EM CURTO/ C2/C5 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+35,11903,2026-09-24,01:49,"quinta-feira, setembro 24, 2026 01:49",Leandro Resende,Leandro Resende,29556,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+36,11880,2026-09-24,01:30,"quinta-feira, setembro 24, 2026 01:30",Leandro Resende,Leandro Resende,29516,Santa Brigida,Padron,Sem gravação de imagens,Nenhuma ação realizada,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)",,,,,,,,,,,,,NÃO,,,
+37,73796,2026-09-24,01:25,"quinta-feira, setembro 24, 2026 01:25",Abner Melo,Abner melo,36719,Viação Metrópole Pinedo,Articulado,"Câmera inoperante
+Sem gravação de imagens
+Cabeamento rompido/danificado
+RJ45 crimpado incorretamente
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Crimpagem correta do conector RJ45
+Correção e ajuste da configuração da câmera",,,,,,,,,,,FRONTAL (câm 21),FRONTAL (câm 21),,Inserção ou substituição do cartão de memória — FRONTAL (câm 21),0,0,1,,,,,,,NÃO,,"• 73796
+• Realizado a recrimpagem do RJ da câmera 21.
+• Realizado a inserção de um novo cartão SD na mesma.
+• Realizado a configuração da câmera HORA/DATA.
+• Realizado o teste de gravação, camera gravando normalmente.",Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+38,31751,2026-09-24,01:07,"quinta-feira, setembro 24, 2026 01:07",Joel,Joel,35278,Viação Metrópole Imperador,Padron,"Configuração incorreta da câmera
+Câmera com sinal de vandalismo",Correção e ajuste da configuração da câmera,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Correção e ajuste da configuração da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22)",,Inserção ou substituição do cartão de memória — FRENTE (câm 22),,,,,,,,,,NÃO,,"Câmera 21 sem a capa de proteção, câmera 22 feira a troca do cartão de memória, gravação da câmera ok",
+39,11873,2026-09-24,00:54,"quinta-feira, setembro 24, 2026 00:54",Leandro Resende,Leandro Resende,29343,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+40,52748,2026-09-24,00:48,"quinta-feira, setembro 24, 2026 00:48",Gustavo Nunes,Gustavo Nunes,31090,Via Sudeste Sapopemba,Articulado,Sem gravação de imagens,"Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória",Sem gravação de imagens,"Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória",,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)","FRONTAL (câm 21), FRENTE (câm 22)",,"Inserção ou substituição do cartão de memória — FRONTAL (câm 21)
+Inserção ou substituição do cartão de memória — FRENTE (câm 22)",,,,,,,,,,NÃO,,Câmera 21 e 22 foram formadas SD,
+41,51004,2026-09-24,00:46,"quinta-feira, setembro 24, 2026 00:46",Gustavo Nunes,Gustavo Nunes,32000,Via Sudeste Sapopemba,Padron,Sem gravação de imagens,"Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória",Sem gravação de imagens,"Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória",,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)","FRONTAL (câm 21), FRENTE (câm 22)",,"Inserção ou substituição do cartão de memória — FRONTAL (câm 21)
+Inserção ou substituição do cartão de memória — FRENTE (câm 22)",,,,,,,,,,NÃO,,"Câmera 21 e 22 estavam sem cartão SD.
+
+FORAM INSERIDOS NOVOS CARTÕES",
+42,51574,2026-09-24,00:44,"quinta-feira, setembro 24, 2026 00:44",Gustavo Nunes,Gustavo Nunes,30743,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,Sem gravação de imagens,"Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória",CORREDOR 4 (câm 26),CORREDOR 4 (câm 26),,Inserção ou substituição do cartão de memória — CORREDOR 4 (câm 26),,,,,,,,,,NÃO,,Formatação SD câmera 26,
+43,73803,2026-09-24,00:37,"quinta-feira, setembro 24, 2026 00:37",Abner Melo,Abner Melo,36429,Viação Metrópole Pinedo,Articulado,"Câmera inoperante
+Sem gravação de imagens
+Câmera com infiltração","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Substituição da câmera defeituosa
+Reinicialização da câmera
+Reposicionamento adequado da câmera
+Fixação adequada da câmera
+Correção e ajuste da configuração da câmera
+Ativação da câmera",,,,,,,,,,,FRONTAL (câm 21),,,"Inserção ou substituição do cartão de memória — FRONTAL (câm 21)
+Substituição da câmera defeituosa — FRONTAL (câm 21)",1,0,1,,,,,,,NÃO,,"• 73803
+• Realizado a troca da camera frontal 21 que estava com infiltração.
+• Realizado a inserção de um novo cartão SD na mesma.
+• Realizado a configuração da câmera HORA/DATA.
+• Realizado o teste de gravação, camera gravando normalmente.",
+44,52111,2026-09-24,00:30,"quinta-feira, setembro 24, 2026 00:30",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52111
+
+ C1/C4 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C2/C6 CÂMERA EM CURTO/ C3/C5 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+45,31651,2026-09-24,00:24,"quinta-feira, setembro 24, 2026 00:24",Joel,Joel,35216,Viação Metrópole Imperador,Padron,"Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Correção e ajuste da configuração da câmera",Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,FRONTAL (câm 21),FRONTAL (câm 21),,Inserção ou substituição do cartão de memória — FRONTAL (câm 21),,,,,,,,,,NÃO,,Troca do cartão SD da câmera 21,
+46,52145,2026-09-24,00:24,"quinta-feira, setembro 24, 2026 00:24",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52145 
+
+C3/C5 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C6 CÂMERA EM CURTO/ C2/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+47,52935,2026-09-24,00:20,"quinta-feira, setembro 24, 2026 00:20",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52935
+
+ C2 TROCA DE CARTÃO/ C1/C5 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C3/C6 CÂMERA EM CURTO/ C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+48,52838,2026-09-24,00:15,"quinta-feira, setembro 24, 2026 00:15",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52838 
+
+C2/C6 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C4 CÂMERA EM CURTO/ C3/C5 FORMATAÇÃO DE CARTÃO/ C2 TROCA DE CONECTOR/ BOOT UCP
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+49,51579,2026-09-24,00:10,"quinta-feira, setembro 24, 2026 00:10",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"51579
+
+ C1/C6 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C2/C5 CÂMERA EM CURTO/ C3/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+50,52799,2026-09-24,00:07,"quinta-feira, setembro 24, 2026 00:07",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52799
+
+ C3/C6 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C4 CÂMERA EM CURTO/ C2/C5 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+51,31786,2026-09-24,00:01,"quinta-feira, setembro 24, 2026 00:01",Joel,Joel,35519,Viação Metrópole Imperador,Padron,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,,NÃO,,,
+52,31269,2026-09-23,23:28,"quarta-feira, setembro 23, 2026 23:28",Joel,Joel,34755,Viação Metrópole Imperador,Articulado,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,,NÃO,,,
+53,52752,2026-09-23,23:22,"quarta-feira, setembro 23, 2026 23:22",Anderson Silva,Anderson Silva,30691,Via Sudeste Sapopemba,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Câmera travada,Câmera encaminhada para manutenção,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Cabeamento rompido/danificado,Substituição do cabeamento,"FRENTE (câm 22), CORREDOR 4 (câm 26)","FRENTE (câm 22), CORREDOR 4 (câm 26)",,Substituição do cabeamento — CORREDOR 4 (câm 26),1,,1,,,,,,,SIM,FRENTE (câm 22): Câmera encaminhada para manutenção,Foi feito a troca da cam 22 e do cabo da câmera 26,
+54,52828,2026-09-23,04:04,"quarta-feira, setembro 23, 2026 04:04",Gustavo Nunes,Gustavo Nunes,30634,Via Sudeste Sapopemba,Articulado,Sem gravação de imagens,"Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória",RJ45 crimpado incorretamente,Crimpagem correta do conector RJ45,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,"FRONTAL (câm 21), FRENTE (câm 22)","FRONTAL (câm 21), FRENTE (câm 22)",,Inserção ou substituição do cartão de memória — FRONTAL (câm 21),,,,,,,,,,NÃO,,"Formatação SD câmera 21 
+Crimpagem câmera 22",
+55,52868,2026-09-23,03:55,"quarta-feira, setembro 23, 2026 03:55",Gustavo Nunes,Gustavo Nunes,30781,Via Sudeste Sapopemba,Articulado,Sem gravação de imagens,"Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória",,,,,,,,,,,FRONTAL (câm 21),FRONTAL (câm 21),,Inserção ou substituição do cartão de memória — FRONTAL (câm 21),,,,,,,,,,NÃO,,Formatação SD câmera 21,
+56,31763,2026-09-23,03:30,"quarta-feira, setembro 23, 2026 03:30",Joel,Joel,36104,Viação Metrópole Imperador,Padron,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,,NÃO,,,
+57,52752,2026-09-23,03:13,"quarta-feira, setembro 23, 2026 03:13",Anderson Silva,Anderson Silva,30691,Via Sudeste Sapopemba,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Cabeamento rompido/danificado,Nenhuma ação realizada,"FRENTE (câm 22), CORREDOR 4 (câm 26)","FRENTE (câm 22), CORREDOR 4 (câm 26)",,,0,0,0,,,,,,,SIM,"Não foi possível trocar a câmera 22, o motorista entrou no ônibus enquanto eu estava indo buscar a câmera na elétrica.","Cabo da câmera 26 está rompido dentro da canaleta que desce para a sanfona do articulado e a câmera 22 não está gravando, troquei o SD mesmo assim não gravou.
+Não foi possível trocar a câmera 22, o motorista entrou no ônibus enquanto eu estava indo buscar a câmera na elétrica.
+Vou trazer a fibra para passar o cabo para sanfona e deixar a câmera 26 funcionando.",
+58,31750,2026-09-23,03:10,"quarta-feira, setembro 23, 2026 03:10",Joel,Joel,36085,Viação Metrópole Imperador,Padron,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera",Correção e ajuste da configuração da câmera,"Sem gravação de imagens
+Configuração incorreta da câmera",Correção e ajuste da configuração da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Câmeras 22 e 23 cartão de memória desativado , solícito um novo para troca z câmeras sem gravação de imagem",
+59,61350,2026-09-23,02:55,"quarta-feira, setembro 23, 2026 02:55",Jonathan Gonçalves,Jonathan Gonçalves,30280,Viação Grajaú,Articulado,"Câmera removida por terceiros
+Câmera sem cartão de memória","Fixação adequada da câmera
+Correção e ajuste da configuração da câmera
+Ativação da câmera
+Instalação da câmera removida",Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,FRONTAL (câm 21),FRONTAL (câm 21),,Instalação da câmera removida — FRONTAL (câm 21),1,,,,,,,,,SIM,"Ônibus estava sem a câmera 21, foi colocado uma nova câmera no local e configurado, câmera falta colocar um cartão sd.","Ônibus estava sem a câmera 21, foi colocado uma nova câmera no local e configurado, câmera falta colocar um cartão sd.",
+60,31738,2026-09-23,02:38,"quarta-feira, setembro 23, 2026 02:38",Joel,Joel,27792,Viação Metrópole Imperador,Padron,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória",Correção e ajuste da configuração da câmera,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",FRENTE (câm 22),,,,,,,,,,,,NÃO,,Câmera 22 está com cartão de memória desativado solícito um novo para colocar a câmera 22  com gravação de imagem,
+61,52126,2026-09-23,02:12,"quarta-feira, setembro 23, 2026 02:12",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52126 
+
+C1/C4 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C2/C5 CÂMERA EM CURTO/ C3/C6 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+62,52903,2026-09-23,02:02,"quarta-feira, setembro 23, 2026 02:02",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52903 
+
+C3/C5 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C6 CÂMERA EM CURTO/ C2/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+63,52922,2026-09-23,01:51,"quarta-feira, setembro 23, 2026 01:51",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52922
+
+ C1/C4 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C2/C6 CÂMERA EM CURTO/ C3/C5 FORMATAÇÃO DE CARTÃO/ TROCA DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+64,31762,2026-09-23,01:46,"quarta-feira, setembro 23, 2026 01:46",Joel,Joel,35890,Viação Metrópole Imperador,Padron,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,,NÃO,,,
+65,52139,2026-09-23,01:06,"quarta-feira, setembro 23, 2026 01:06",Anderson Silva,Anderson Silva,30819,Via Sudeste Sapopemba,Articulado,Switch apresentando falha,Nenhuma ação realizada,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Switch apresentando falha,Nenhuma ação realizada,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","FRONTAL (câm 21), CORREDOR 2 (câm 24)",,,0,0,0,,,,,,,NÃO,,"Trocar o switch onde estão as câmeras 21 e 24, 3 dos PoE estão com os cabos rompidos na placa fonte",
+66,52923,2026-09-23,00:56,"quarta-feira, setembro 23, 2026 00:56",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52923 
+
+C3/C6 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C5 CÂMERA EM CURTO/ C2/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+67,52911,2026-09-23,00:52,"quarta-feira, setembro 23, 2026 00:52",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52911
+
+ C1/C5 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C2/C6 CÂMERA EM CURTO/ C3 TROCA DE CONECTOR/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+68,51218,2026-09-23,00:49,"quarta-feira, setembro 23, 2026 00:49",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"51218
+
+C2 TROCA DE CARTÃO/ C4 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C5 CÂMERA EM CURTO/ C3/C6 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+69,31760,2026-09-23,00:43,"quarta-feira, setembro 23, 2026 00:43",Gesnei souza,Gesnei souza,35578,Viação Metrópole Iguatemi,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Câmera travada,"Normalização da gravação de imagens
+Reinicialização da câmera",Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,Cabo do TDM danificado liguei o wi-fi no cn2 da ucp,
+70,52718,2026-09-23,00:32,"quarta-feira, setembro 23, 2026 00:32",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52718 
+
+C3/C6 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C4 CÂMERA EM CURTO/ C2/C5 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+71,31795,2026-09-23,00:14,"quarta-feira, setembro 23, 2026 00:14",Joel,Joel,35197,Viação Metrópole Imperador,Padron,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera",Correção e ajuste da configuração da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",CORREDOR 1 (câm 23),,,,,,,,,,,,SIM,"Câmara 23 cartão de memória apresentando falha , não foi possível deixar câmera 23 gravando","Câmara 23 cartão de memória apresentando falha , não foi possível deixar câmera 23 gravando",
+72,31753,2026-09-23,00:06,"quarta-feira, setembro 23, 2026 00:06",Gesnei souza,Gesnei souza,35392,Viação Metrópole Iguatemi,Padron,Sem gravação de imagens,"Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera",Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,FRONTAL (câm 21),FRONTAL (câm 21),,Inserção ou substituição do cartão de memória — FRONTAL (câm 21),,,,,,,,,,NÃO,,Troca do cartão de memória da câmera 21,
+73,52943,2026-09-22,23:42,"terça-feira, setembro 22, 2026 23:42",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52943 
+
+C2/C5 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C6 CÂMERA EM CURTO/ C3/C4 FORMATAÇÃO DE CARTÃO/BOOT UCP
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+74,31656,2026-09-22,23:31,"terça-feira, setembro 22, 2026 23:31",Gesnei souza,Gesnei souza,35567,Viação Metrópole Iguatemi,Padron,Sem gravação de imagens,Normalização da gravação de imagens,Sem gravação de imagens,Normalização da gravação de imagens,Sem gravação de imagens,Normalização da gravação de imagens,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",FRONTAL (câm 21),,,,,,,,,,,,NÃO,,Camera 21 configurada e formada,
+75,31260,2026-09-22,22:31,"terça-feira, setembro 22, 2026 22:31",Rafael Diniz,Rafael Diniz,35925,Viação Metrópole Iguatemi,Articulado,"Sem gravação de imagens
+RJ45 crimpado incorretamente
+Conexões do switch incorretas","Normalização da gravação de imagens
+Crimpagem correta do conector RJ45
+Correção das conexões do switch","Sem gravação de imagens
+RJ45 crimpado incorretamente
+Conexões do switch incorretas","Normalização da gravação de imagens
+Crimpagem correta do conector RJ45
+Correção das conexões do switch","Sem gravação de imagens
+RJ45 crimpado incorretamente
+Conexões do switch incorretas","Normalização da gravação de imagens
+Crimpagem correta do conector RJ45
+Correção das conexões do switch","Sem gravação de imagens
+RJ45 crimpado incorretamente
+Conexões do switch incorretas","Normalização da gravação de imagens
+Crimpagem correta do conector RJ45
+Correção das conexões do switch","Sem gravação de imagens
+RJ45 crimpado incorretamente
+Conexões do switch incorretas","Normalização da gravação de imagens
+Crimpagem correta do conector RJ45
+Correção das conexões do switch","Sem gravação de imagens
+RJ45 crimpado incorretamente
+Conexões do switch incorretas","Normalização da gravação de imagens
+Crimpagem correta do conector RJ45
+Correção das conexões do switch","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,,NÃO,,"Câmeras 100% off . Identificado falha nas conexões dos cabos no Switch e realizado a correção.
+Realizado nova crimpagem no cabo de rede da UCP.
+Configurações verificadas e realizado testes de gravação.
+Apos ajustes todas as câmeras voltaram a transmitir normalmente.",
+76,61454,2026-09-22,22:08,"terça-feira, setembro 22, 2026 22:08",Jonathan Gonçalves,Jonathan Gonçalves,30297,Viação Grajaú,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Câmera travada,Reinicialização da câmera,,,,,,,CORREDOR 1 (câm 23),,,,,,,,,,,,,NÃO,,"Câmera travada, após reiniciar voltou a funcionar.",
+77,52782,2026-09-22,21:13,"terça-feira, setembro 22, 2026 21:13",Gustavo Nunes,Gustavo Nunes,32000,Via Sudeste Sapopemba,Articulado,,,,,,,,,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,CORREDOR 3 (câm 25),,,,,,,,,,,,NÃO,,"Formatação câmera 25, e feito a crimpagem da mesma",
+78,31927,2026-09-22,04:26,"terça-feira, setembro 22, 2026 04:26",Joel,Joel,35815,Viação Metrópole Imperador,Articulado,"Sem gravação de imagens
+RJ45 crimpado incorretamente
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Crimpagem correta do conector RJ45
+Correção e ajuste da configuração da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,,NÃO,,,
+79,11796,2026-09-22,03:42,"terça-feira, setembro 22, 2026 03:42",Leandro Resende,Leandro Resende,29132,Santa Brigida,Padron,Switch apresentando falha,Substituição do switch,Switch apresentando falha,Substituição do switch,Switch apresentando falha,Substituição do switch,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,"Substituição do switch — FRONTAL (câm 21)
+Substituição do switch — FRENTE (câm 22)
+Substituição do switch — CORREDOR 1 (câm 23)",,1,,,,,,,,NÃO,,,
+80,31157,2026-09-22,02:58,"terça-feira, setembro 22, 2026 02:58",Joel,Joel,35310,Viação Metrópole Imperador,Articulado,"Sem gravação de imagens
+RJ45 crimpado incorretamente
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Crimpagem correta do conector RJ45
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera",Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,SIM,"Não foi possível acessar as condições, porém as câmeras seguem gravando e operando normalmente","Câmera 23 24 25 & 26 
+Não foi possível acessar as condições, porém as câmeras seguem gravando e operando normalmente",
+81,11072,2026-09-22,02:52,"terça-feira, setembro 22, 2026 02:52",Leandro Resende,Leandro Resende,29308,Santa Brigida,Articulado,"Câmera inoperante
+Câmera mal reposicionada","Normalização da gravação de imagens
+Substituição do switch","Câmera inoperante
+Sem gravação de imagens","Normalização da gravação de imagens
+Substituição do switch","Câmera inoperante
+Sem gravação de imagens","Normalização da gravação de imagens
+Substituição do switch",Câmera inoperante,"Correção da falha no switch
+Correção na conexão dos cabos","Câmera inoperante
+Sem gravação de imagens","Normalização da gravação de imagens
+Correção da falha no switch
+Correção na conexão dos cabos","Câmera inoperante
+Sem gravação de imagens","Normalização da gravação de imagens
+Correção da falha no switch
+Correção na conexão dos cabos","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,"Substituição do switch — FRONTAL (câm 21)
+Substituição do switch — FRENTE (câm 22)
+Substituição do switch — CORREDOR 1 (câm 23)",,1,,,,,,,,NÃO,,,
+82,73004,2026-09-22,01:51,"terça-feira, setembro 22, 2026 01:51",Abner Melo,Abner melo,35360,Viação Metrópole Pinedo,Articulado,,,,,,,"Câmera inoperante
+Sem gravação de imagens
+Conexões do switch incorretas
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção da falha no switch
+Correção e ajuste da configuração da câmera",,,,,CORREDOR 2 (câm 24),,,,0,0,0,,,,,,,NÃO,,"• 73004
+• Realizado o reparo na falha do cabo de rede ligado ao swicth.
+• Realizado a configuração da camera HORA/DATA.
+• Realizado o teste de gravação, camera gravando normalmente.",Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+83,73840,2026-09-22,01:39,"terça-feira, setembro 22, 2026 01:39",Abner Melo,Abner melo,35394,Viação Metrópole Pinedo,Articulado,"Câmera inoperante
+Sem gravação de imagens
+Cabeamento rompido/danificado
+RJ45 crimpado incorretamente
+Câmera não fixada corretamente
+Câmera removida por terceiros
+Câmera sem cartão de memória
+Câmera com infiltração","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Substituição da câmera defeituosa
+Reinicialização da câmera
+Reposicionamento adequado da câmera
+Fixação adequada da câmera
+Reparo do cabeamento
+Crimpagem correta do conector RJ45
+Correção e ajuste da configuração da câmera
+Ativação da câmera",,,,,,,,,,,FRONTAL (câm 21),FRONTAL (câm 21),,"Inserção ou substituição do cartão de memória — FRONTAL (câm 21)
+Substituição da câmera defeituosa — FRONTAL (câm 21)",1,0,1,,,,,,,NÃO,,"• 73840
+• Realizado a instalação da câmera 21 frontal.
+• Realizado a inserção de um novo cartão SD.
+• Realizado a configuração da HORA/DATA/REALIZADO TESTE DE GRAVAÇÃO.
+• Câmeras operando normalmente.",Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+84,73864,2026-09-22,00:55,"terça-feira, setembro 22, 2026 00:55",Abner Melo,Abner melo,35412,Viação Metrópole Pinedo,Articulado,,,,,,,,,"Câmera inoperante
+Sem gravação de imagens","Normalização da gravação de imagens
+Substituição da câmera defeituosa
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Substituição da câmera defeituosa
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,"Substituição da câmera defeituosa — CORREDOR 3 (câm 25)
+Substituição da câmera defeituosa — CORREDOR 4 (câm 26)",2,0,0,,,,,,,NÃO,,"• 73864
+• Realizado a troca das câmeras 25 e 26.
+• Realizado a configuração da HORA/DATA/REALIZADO TESTE DE GRAVAÇÃO.
+• Câmeras operando normalmente.",Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+85,61651,2026-09-22,00:37,"terça-feira, setembro 22, 2026 00:37",Jonathan Gonçalves,Jonathan Gonçalves,32500,Viação Grajaú,Articulado,Câmera mal reposicionada,Reposicionamento adequado da câmera,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Cabeamento rompido/danificado,"Reparo do cabeamento
+Crimpagem correta do conector RJ45",Nenhuma anomalia identificada,Nenhuma ação realizada,"FRONTAL (câm 21), CORREDOR 3 (câm 25)","FRONTAL (câm 21), CORREDOR 3 (câm 25)",,,,,,,,,,,,NÃO,,Ajustado posição da câmera 21 conforme pedido pela garagem e feito reparo no cabo da câmera 25   que estava rompido dentro da sanfona.,ID 32500 repetido em 54 formulários (provável valor genérico)
+86,31787,2026-09-22,00:38,"terça-feira, setembro 22, 2026 00:38",Joel,Joel,34851,Viação Metrópole Imperador,Padron,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,,NÃO,,,
+87,73775,2026-09-22,00:20,"terça-feira, setembro 22, 2026 00:20",Abner Melo,Abner melo,36689,Viação Metrópole Pinedo,Articulado,,,,,,,,,"Câmera inoperante
+Sem gravação de imagens
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Substituição da câmera defeituosa
+Reposicionamento adequado da câmera
+Fixação adequada da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Substituição da câmera defeituosa
+Reinicialização da câmera
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,"Inserção ou substituição do cartão de memória — CORREDOR 3 (câm 25)
+Substituição da câmera defeituosa — CORREDOR 3 (câm 25)
+Inserção ou substituição do cartão de memória — CORREDOR 4 (câm 26)
+Substituição da câmera defeituosa — CORREDOR 4 (câm 26)",2,,2,,,,,,,NÃO,,"• 73775
+• Realizado a troca das câmeras 25 e 26.
+• Realizado a inserção de um novo cartão SD nas câmeras 25 e 26.
+• Realizado a configuração da HORA/DATA/REALIZADO TESTE DE GRAVAÇÃO.
+• Câmeras operando normalmente.",Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+88,52734,2026-09-21,23:44,"segunda-feira, setembro 21, 2026 23:44",Anderson Silva,Anderson Silva,30607,Via Sudeste Sapopemba,Articulado,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera",Correção e ajuste da configuração da câmera,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",CORREDOR 4 (câm 26),,,0,0,0,,,,,,,SIM,É necessário trocar o cartão SD da câmera 26,É necessário trocar o cartão SD da câmera 26,
+89,61589,2026-09-21,23:31,"segunda-feira, setembro 21, 2026 23:31",Jonathan Gonçalves,Jonathan Gonçalves,30431,Viação Grajaú,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Câmera mal reposicionada,Reposicionamento adequado da câmera,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,FRENTE (câm 22),FRENTE (câm 22),,,,,,,,,,,,NÃO,,Ajustado posição da câmera 22 conforme pedido pela garagem.,
+90,31120,2026-09-21,23:09,"segunda-feira, setembro 21, 2026 23:09",Joel,Joel,35838,Viação Metrópole Imperador,Articulado,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,,NÃO,,,
+91,52133,2026-09-21,22:59,"segunda-feira, setembro 21, 2026 22:59",Gustavo Nunes,Gustavo Nunes,36654,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,CORREDOR 4 (câm 26),,,,,,,,,,,,SIM,"PENDENTE
+Necessário trocar SD câmera 26, necessário reposição de cartões","PENDENTE 
+
+Necessário trocar SD câmera 26, necessário reposição de cartões",
+92,52744,2026-09-21,22:23,"segunda-feira, setembro 21, 2026 22:23",Anderson Silva,Anderson Silva,29938,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória e um suporte para placa.,
+93,52763,2026-09-21,22:20,"segunda-feira, setembro 21, 2026 22:20",Anderson Silva,Anderson Silva,30636,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,0,,,,,,,NÃO,,UCP já atualizada.,
+94,52059,2026-09-21,22:17,"segunda-feira, setembro 21, 2026 22:17",Anderson Silva,Anderson Silva,30597,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+95,61295,2026-09-21,22:15,"segunda-feira, setembro 21, 2026 22:15",Jonathan Gonçalves,Jonathan Gonçalves,30552,Viação Grajaú,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,CORREDOR 1 (câm 23),CORREDOR 1 (câm 23),,,,,,,,,,,,NÃO,,Ajustado posição da câmera 23 conforme pedido pela garagem.,
+96,61284,2026-09-21,21:59,"segunda-feira, setembro 21, 2026 21:59",Jonathan Gonçalves,Jonathan Gonçalves,30392,Viação Grajaú,Padron,Câmera mal reposicionada,Reposicionamento adequado da câmera,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,FRONTAL (câm 21),FRONTAL (câm 21),,,,,,,,,,,,NÃO,,Ajustado posição da câmera 21 conforme pedido pela garagem.,
+97,31003,2026-09-21,14:56,"segunda-feira, setembro 21, 2026 14:56",Luiz Rodrigo,Luiz Rodrigo,35017,Viação Metrópole Iguatemi,Padron,,,Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,"FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Câmeras 22 e 23: Configuração e cartão SD formatados.
+
+Foi verificado a câmera 21, funcionando normalmente.",
+98,31667,2026-09-21,13:05,"segunda-feira, setembro 21, 2026 13:05",Luiz Rodrigo,Luiz Rodrigo,35378,Viação Metrópole Iguatemi,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Ajuste de imagem da câmera 22;
+
+Foi verificado as câmeras 21 e 23, ambas funcionando normalmente.",
+99,31859,2026-09-21,12:42,"segunda-feira, setembro 21, 2026 12:42",Luiz Rodrigo,Luiz Rodrigo,34796,Viação Metrópole Iguatemi,Articulado,Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","FRONTAL (câm 21), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,"Câmeras 21, 24, 25 e 26: Configuração e cartão SD formatado.
+
+Foi verificado as câmeras 22 e 23 ambas funcionando normalmente.",
+100,31673,2026-09-21,11:43,"segunda-feira, setembro 21, 2026 11:43",Luiz Rodrigo,Luiz Rodrigo,36005,Viação Metrópole Iguatemi,Padron,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Câmera 21: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 22: configuração e cartão SD formatado.
+
+Câmera 23: configuração e cartão SD formatado.",
+101,31245,2026-09-21,09:55,"segunda-feira, setembro 21, 2026 09:55",Luiz Rodrigo,Luiz Rodrigo,35418,Viação Metrópole Iguatemi,Articulado,Câmera com infiltração,Nenhuma ação realizada,"Switch apresentando falha
+Câmera inoperante",Nenhuma ação realizada,"Switch apresentando falha
+Câmera inoperante","Correção da falha no switch
+Correção na conexão dos cabos
+Ativação da câmera",Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Sem gravação de imagens,"Normalização da gravação de imagens
+Correção das conexões do switch
+Correção e ajuste da configuração da câmera","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,"Câmera 21: infiltração ( carro com infiltração na parte da frente)
+
+Câmera 22: inoperante ( nescessário a troca do switch)
+
+Câmera 23: instabilidade ( nescessário a troca da câmera)
+
+Câmera 24: configuração e cartão SD formatado.
+
+Câmera 25: configuração e cartão SD formatado.
+
+Câmera 26: configuração e cartão SD formatado.",
+102,31014,2026-09-21,08:28,"segunda-feira, setembro 21, 2026 08:28",Luiz Rodrigo,Luiz Rodrigo,35444,Viação Metrópole Iguatemi,Articulado,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,"FRONTAL (câm 21), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,"Ajuste de imagem das câmeras 21, 23 e 24;
+
+Foi verificado as câmeras 22,25 e 26 ( imagem, configuração e gravação), todas estão funcionando normalmente.",
+103,61070,2026-09-21,02:32,"segunda-feira, setembro 21, 2026 02:32",Jonathan Gonçalves,Jonathan Gonçalves,32500,Viação Grajaú,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Cabeamento rompido/danificado,Reparo do cabeamento,CORREDOR 4 (câm 26),CORREDOR 4 (câm 26),,,,,,,,,,,,NÃO,,Feito reparo no cabo da câmera 26 que estava rompido dentro da sanfona.,ID 32500 repetido em 54 formulários (provável valor genérico)
+104,61311,2026-09-21,01:26,"segunda-feira, setembro 21, 2026 01:26",Jonathan Gonçalves,Jonathan Gonçalves,30171,Viação Grajaú,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,Correção e ajuste da configuração da câmera,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,CORREDOR 1 (câm 23),,,,,,,,,,,,NÃO,,"Câmera 23 está com o áudio danificado, feito os ajustes na câmera e mesmo assim não tem áudio.",
+105,61793,2026-09-21,00:49,"segunda-feira, setembro 21, 2026 00:49",Jonathan Gonçalves,Jonathan Gonçalves,30426,Viação Grajaú,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Conexões do switch incorretas,Correção na conexão dos cabos,"Câmera inoperante
+Câmera com infiltração",Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Conexões do switch incorretas,Correção na conexão dos cabos,"FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 4 (câm 26)",CORREDOR 1 (câm 23),,,,,,,,,,,,SIM,"Necessário a substituição da câmera 23, com o filtração.","Necessário a substituição da câmera 23, com o filtração.",
+106,61766,2026-09-20,22:01,"domingo, setembro 20, 2026 22:01",Jonathan Gonçalves,Jonathan Gonçalves,30344,Viação Grajaú,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Cabeamento rompido/danificado,"Reparo do cabeamento
+Crimpagem correta do conector RJ45",CORREDOR 4 (câm 26),CORREDOR 4 (câm 26),,,,,,,,,,,,NÃO,,Feito reparo no cabo da câmera 26 que estava rompido dentro da sanfona.,
+107,51060,2026-09-19,04:07,"sábado, setembro 19, 2026 04:07",Anderson Silva,Anderson Silva,30671,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,0,,,,,,,NÃO,,Foi devolvido o pen drive na UCP,
+108,51060,2026-09-19,03:51,"sábado, setembro 19, 2026 03:51",Anderson Silva,Anderson Silva,30671,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+109,52024,2026-09-19,03:49,"sábado, setembro 19, 2026 03:49",Anderson Silva,Anderson Silva,30657,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+110,52021,2026-09-19,03:44,"sábado, setembro 19, 2026 03:44",Anderson Silva,Anderson Silva,30637,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+111,11435,2026-09-19,03:25,"sábado, setembro 19, 2026 03:25",Leandro Resende,Leandro Resende,29588,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,Prefixo não existe em nenhum Relatório CFTV
+112,51121,2026-09-19,03:03,"sábado, setembro 19, 2026 03:03",Anderson Silva,Anderson Silva,30613,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+113,11884,2026-09-19,02:54,"sábado, setembro 19, 2026 02:54",Leandro Resende,Leandro Resende,29003,Santa Brigida,Padron,Sem gravação de imagens,Normalização da gravação de imagens,Câmera inoperante,Nenhuma ação realizada,,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)",FRENTE (câm 22),,,,,,,,,,,,NÃO,,"Câmera 22 com IP 100, foi feito tentativa de troca de IP porém não responde.
+
+Será nescessário fazer troca da câmera.",
+114,11759,2026-09-19,02:30,"sábado, setembro 19, 2026 02:30",Leandro Resende,Leandro Resende,29148,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+115,11738,2026-09-19,02:21,"sábado, setembro 19, 2026 02:21",Leandro Resende,Leandro Resende,28985,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+116,11819,2026-09-19,02:11,"sábado, setembro 19, 2026 02:11",Leandro Resende,Leandro Resende,29417,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,Sem gravação de imagens,Nenhuma ação realizada,,,,,,,"FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,,NÃO,,Nescessário fazer troca do cartão de memória.,
+117,11755,2026-09-19,01:40,"sábado, setembro 19, 2026 01:40",Leandro Resende,Leandro Resende,29590,Santa Brigida,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Câmera inoperante,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,FRENTE (câm 22),FRENTE (câm 22),,,,,,,,,,,,SIM,"Câmera 22 não liga, aguardando chegar câmera para substituição.","Câmera 22 não liga, aguardando chegar câmera para substituição.",
+118,52014,2026-09-19,01:39,"sábado, setembro 19, 2026 01:39",Anderson Silva,Anderson Silva,30673,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+119,51578,2026-09-19,01:37,"sábado, setembro 19, 2026 01:37",Anderson Silva,Anderson Silva,30618,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+120,52119,2026-09-19,01:35,"sábado, setembro 19, 2026 01:35",Anderson Silva,Anderson Silva,30677,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+121,51122,2026-09-19,01:32,"sábado, setembro 19, 2026 01:32",Anderson Silva,Anderson Silva,30601,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+122,52906,2026-09-19,01:30,"sábado, setembro 19, 2026 01:30",Anderson Silva,Anderson Silva,30650,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+123,52904,2026-09-19,01:26,"sábado, setembro 19, 2026 01:26",Anderson Silva,Anderson Silva,30619,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+124,31136,2026-09-19,01:11,"sábado, setembro 19, 2026 01:11",Joel,Joel,35911,Viação Metrópole Imperador,Articulado,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Correção e ajuste da configuração da câmera
+Nenhuma ação realizada",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",FRENTE (câm 22),,,,,,,,,,,,NÃO,,Câmera 22 sem cartão SD,
+125,11103,2026-09-19,00:57,"sábado, setembro 19, 2026 00:57",Leandro Resende,Leandro Resende,29604,Santa Brigida,Articulado,,,,,,,Sem gravação de imagens,Normalização da gravação de imagens,,,,,CORREDOR 2 (câm 24),,,,,,,,,,,,,NÃO,,,
+126,31165,2026-09-19,00:38,"sábado, setembro 19, 2026 00:38",Joel,Joel,34830,Viação Metrópole Imperador,Articulado,"Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Correção e ajuste da configuração da câmera
+Nenhuma ação realizada",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",FRONTAL (câm 21),,,,,,,,,,,,NÃO,,Câmera 21 sem cartão de me solicito cartão SD,
+127,61273,2026-09-19,00:36,"sábado, setembro 19, 2026 00:36",Jonathan Gonçalves,Jonathan Gonçalves,30134,Viação Grajaú,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,"Sem gravação de imagens
+Câmera com infiltração",Nenhuma ação realizada,,,,,,,CORREDOR 1 (câm 23),CORREDOR 1 (câm 23),,,,,,,,,,,,SIM,Necessário a substituição.,"Câmera 23 não está reconhecendo o cartão sd, com sinal de infiltração.
+Necessário a substituição.",
+128,61282,2026-09-19,00:18,"sábado, setembro 19, 2026 00:18",Jonathan Gonçalves,Jonathan Gonçalves,30204,Viação Grajaú,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,"Sem gravação de imagens
+Câmera sem cartão de memória
+Câmera com infiltração",Inserção ou substituição do cartão de memória,,,,,,,CORREDOR 1 (câm 23),CORREDOR 1 (câm 23),,Inserção ou substituição do cartão de memória — CORREDOR 1 (câm 23),,,,,,,,,,SIM,"Slot de cartão da câmera 23 não está funcionando, coloquei um novo cartão sd e não reconhece, necessário a substituição da câmera.","Slot de cartão da câmera 23 não está funcionando, coloquei um novo cartão sd e não reconhece, necessário a substituição da câmera.",
+129,61587,2026-09-19,00:02,"sábado, setembro 19, 2026 00:02",Jonathan Gonçalves,Jonathan Gonçalves,30199,Viação Grajaú,Articulado,Câmera mal reposicionada,Reposicionamento adequado da câmera,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,FRONTAL (câm 21),FRONTAL (câm 21),,,,,,,,,,,,NÃO,,Feito Reposicionamento da câmera 21 conforme pedido pela garagem.,
+130,51573,2026-09-18,23:45,"sexta-feira, setembro 18, 2026 23:45",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"51573
+
+ C2/C4 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C5 CÂMERA EM CURTO/ C3/C6 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+131,52115,2026-09-18,23:40,"sexta-feira, setembro 18, 2026 23:40",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52115
+
+ C2/C6 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C5 CÂMERA EM CURTO/ C3/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+132,61414,2026-09-18,23:39,"sexta-feira, setembro 18, 2026 23:39",Jonathan Gonçalves,Jonathan Gonçalves,30345,Viação Grajaú,Padron,Câmera mal reposicionada,Reposicionamento adequado da câmera,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,FRONTAL (câm 21),FRONTAL (câm 21),,,,,,,,,,,,NÃO,,Feito Reposicionamento da câmera 21 conforme pedido pela garagem.,
+133,52754,2026-09-18,23:36,"sexta-feira, setembro 18, 2026 23:36",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52754
+
+ C3/C6 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C4 CÂMERA EM CURTO/ C2 TROCA DE CONECTOR/C5 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+134,51573,2026-09-18,23:29,"sexta-feira, setembro 18, 2026 23:29",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"51573
+
+ C2/C4 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C5 CÂMERA EM CURTO/ C3/C6 FORMATAÇÃO DE CARTÃO/BOOT UCP
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+135,52749,2026-09-18,23:22,"sexta-feira, setembro 18, 2026 23:22",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52749 
+
+C1/C6 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C2/C5 CÂMERA EM CURTO/ C3/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+136,52834,2026-09-18,23:13,"sexta-feira, setembro 18, 2026 23:13",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52834 
+
+C2/C5 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C6 CÂMERA EM CURTO/ C3/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+137,52796,2026-09-18,23:05,"sexta-feira, setembro 18, 2026 23:05",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52796
+
+ C1 TROCA DE CARTÃO/C4 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C2/C6 CÂMERA EM CURTO/ C3/C5 FORMATAÇÃO DE CARTÃO/BOOT UCP
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+138,52775,2026-09-18,22:56,"sexta-feira, setembro 18, 2026 22:56",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52775 
+
+C1/C5 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C2/C6 CÂMERA EM CURTO/ C3/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+139,52843,2026-09-18,22:53,"sexta-feira, setembro 18, 2026 22:53",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52843
+
+ C2/C6 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C5 CÂMERA EM CURTO/ C3/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+140,52104,2026-09-18,22:46,"sexta-feira, setembro 18, 2026 22:46",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52104
+
+ C1/C4 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C2/C6 CÂMERA EM CURTO/ C3/C5 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+141,61654,2026-09-18,22:02,"sexta-feira, setembro 18, 2026 22:02",Jonathan Gonçalves,Jonathan Gonçalves,30393,Viação Grajaú,Articulado,Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,"FRONTAL (câm 21), FRENTE (câm 22)","FRONTAL (câm 21), FRENTE (câm 22)",,,,,,,,,,,,NÃO,,Relacionamento adequado das câmeras 21 e 22 conforme pedido pela garantia.,
+142,31094,2026-09-18,14:54,"sexta-feira, setembro 18, 2026 14:54",Luiz Rodrigo,Luiz Rodrigo,36116,Viação Metrópole Iguatemi,Articulado,"Câmera inoperante
+Sem gravação de imagens
+Cabeamento rompido/danificado
+Falha na conexão dos cabos
+Câmera mal reposicionada
+Configuração incorreta da câmera
+Câmera desligada manualmente","Reposicionamento adequado da câmera
+Correção na conexão dos cabos
+Reparo do cabeamento
+Crimpagem correta do conector RJ45
+Correção das conexões do switch
+Ativação da câmera",Sem gravação de imagens,Reinicialização da câmera,"Sem gravação de imagens
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera",,,"Câmera inoperante
+Sem gravação de imagens
+Falha na conexão dos cabos
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção na conexão dos cabos
+Correção e ajuste da configuração da câmera
+Ativação da câmera",,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 3 (câm 25)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,"Câmera 21: reparo no cabo de rede, crimpagem do RJ 45, reposicionamento dos cabos e ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 22: com defeito, falhando nas gravações. ( Nescessário a troca)
+
+Câmera 23: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 24: inoperante ( nescessário a troca de switch)
+
+Câmera 25: ativação da câmera, ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 26: inoperante ( nescessário a troca de switch)
+
+
+Obs: Switch das câmeras 24 e 26 queimado.
+Câmeras 21 e 22 nescessário a troca pois está oscilando as gravações.",
+143,31771,2026-09-18,14:07,"sexta-feira, setembro 18, 2026 14:07",Luiz Rodrigo,Luiz Rodrigo,36020,Viação Metrópole Iguatemi,Padron,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,,,FRONTAL (câm 21),"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Ajuste de imagem da cam21.
+
+Verificado as câmeras 22 e 23 ( imagem, configuração e gravação) funcionando normalmente.
+
+Obs: O adesivo no vidro dianteiro está bem na frente da câmera 21, dificultando a visibilidade.",
+144,31262,2026-09-18,13:43,"sexta-feira, setembro 18, 2026 13:43",Lui,Lui,35793,Viação Metrópole Iguatemi,Articulado,,,,,,,"Câmera inoperante
+Câmera travada",Reinicialização da câmera,,,,,CORREDOR 2 (câm 24),CORREDOR 2 (câm 24),,,,,,,,,,,,NÃO,,"Câmera 24 travada ( nescessário a troca).
+
+Foi verificado as demais câmeras, todas funcionando normalmente.",
+145,31664,2026-09-18,12:18,"sexta-feira, setembro 18, 2026 12:18",Luiz Rodrigo,Luiz Rodrigo,35381,Viação Metrópole Iguatemi,Padron,"Câmera inoperante
+Falha na conexão dos cabos",Nenhuma ação realizada,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Camera 21 em curto ( nescessário a troca)
+
+Câmera 22: configuração e cartão SD formatado.
+
+Câmera 23: funcionando normalmente",
+146,31823,2026-09-18,11:45,"sexta-feira, setembro 18, 2026 11:45",Luiz Rodrigo,Luiz Rodrigo,34707,Viação Metrópole Iguatemi,Articulado,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,"Ajuste de imagem da câmera 22;
+Foram verificadas as câmeras 21, 23, 24, 25 e 26 ( imagem, configuração, gravação), todas estão funcionando normalmente.",
+147,31593,2026-09-18,11:23,"sexta-feira, setembro 18, 2026 11:23",Luiz Rodrigo,Luiz Rodrigo,35370,Viação Metrópole Iguatemi,Articulado,"Sem gravação de imagens
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,"31593
+
+Id :35370
+
+Câmera 21: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 22: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 23: configuração e cartão SD formatado.
+
+Câmera 24: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 25: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 26: configuração e cartão SD formatado.",
+148,31670,2026-09-17,11:13,"quinta-feira, setembro 17, 2026 11:13",Luiz Rodrigo,Luiz Rodrigo,35878,Viação Metrópole Iguatemi,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Verificado as câmeras 21, 22 e 23 ( imagem, configuração e gravação), tudo funcionando normalmente.",
+149,31816,2026-09-17,09:36,"quinta-feira, setembro 17, 2026 09:36",Luiz Rodrigo,Luiz Rodrigo,35068,Viação Metrópole Iguatemi,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,,,,,,,,NÃO,,"Foram verificadas todas as câmeras ( imagem, configuração e gravação), tudo funcionando normalmente.",
+150,31661,2026-09-17,09:11,"quinta-feira, setembro 17, 2026 09:11",Luiz Rodrigo,Luiz Rodrigo,35264,Viação Metrópole Iguatemi,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Ajuste de imagem da câmera 22.
+
+Foi verificado as câmeras 21 e 23 ambas funcionando normalmente.",
+151,31950,2026-09-17,08:32,"quinta-feira, setembro 17, 2026 08:32",Luiz Rodrigo,Luiz Rodrigo,35535,Viação Metrópole Iguatemi,Padron,Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Câmera 21: configuração e cartão SD formatado.
+
+Câmera 22: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 23: ajuste de imagem.",
+152,68640,2026-09-17,05:12,"quinta-feira, setembro 17, 2026 05:12",Rafael Menezes Rocha,Rafael Menezes Rocha,34258,A2 Transportes,Midi,"Câmera travada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera",,,,,,,,,,,FRONTAL (câm 21),,,,,,,,,,,,,NÃO,,"68640 - 34258 - 2 câmeras, somente a 21 estava funcionando, câmera invertida, deixei gravando normalmente, 22 provavelmente está com a crimpagem errada",
+153,31205,2026-09-17,04:51,"quinta-feira, setembro 17, 2026 04:51",Joel,Joel,35364,Viação Metrópole Imperador,Articulado,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Cabeamento rompido/danificado
+Falha na conexão dos cabos",Nenhuma ação realizada,"Sem gravação de imagens
+Cabeamento rompido/danificado
+Falha na conexão dos cabos",Nenhuma ação realizada,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,Cabo de rede câmera 25 e 26 rompidos na articulação,
+154,68657,2026-09-17,04:44,"quinta-feira, setembro 17, 2026 04:44",Rafael Menezes Rocha,Rafael Menezes Rocha,36575,A2 Transportes,Midi,"Câmera inoperante
+Câmera travada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+RJ45 crimpado incorretamente
+Câmera mal reposicionada
+Configuração incorreta da câmera",Nenhuma ação realizada,,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)","FRONTAL (câm 21), FRENTE (câm 22)",,,,,,,,,,,,NÃO,,"68657 - 36575 - 2 câmeras, as duas estão alimentadas, câmera 21 estava com o ip 22 e câmera 22 não consegui acessar. Vou checar a crimpagem. 21 gravando normalmente.",
+155,68639,2026-09-17,04:18,"quinta-feira, setembro 17, 2026 04:18",Rafael Menezes Rocha,Rafael Menezes Rocha,34268,A2 Transportes,Mini,"Câmera inoperante
+Câmera travada
+Câmera mal reposicionada
+Configuração incorreta da câmera",Substituição do switch,,,,,,,,,,,FRONTAL (câm 21),"FRONTAL (câm 21), FRENTE (câm 22)",,Substituição do switch — FRONTAL (câm 21),,,,,,,,,,NÃO,,"68639 - 34268 - 2 câmeras, 21 e 22 estavam funcionando intermitente, crimpagem errada e cabo da 21 estava rompido, passei um novo cabo para testar mas entrada estava queimada, parafuso estava na placa, trocarei o switch para averiguar se câmeras ainda funcionam.",
+156,73357,2026-09-17,03:44,"quinta-feira, setembro 17, 2026 03:44",John Lima,John Lima,35133,Viação Metrópole M'Boi Mirim,Padron,"Câmera inoperante
+Cabeamento rompido/danificado","Substituição da câmera defeituosa
+Substituição do cabeamento
+Ativação da câmera",Câmera mal reposicionada,Reposicionamento adequado da câmera,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)","FRONTAL (câm 21), FRENTE (câm 22)",,"Substituição da câmera defeituosa — FRONTAL (câm 21)
+Substituição do cabeamento — FRONTAL (câm 21)",1,,,210235UDL5F247000393,E4F14C743090,210235UGNJ324A000750,E4F14C7F0ACF,,,NÃO,,"Anomalias 
+Camera 21 inativa 
+Cameras  22 mal posicionadas 
+
+Reparos 
+
+Cameras 22   reposicionadas
+
+Camera 21  substituída câmera e cabeamento
+
+Número de  série instalada 
+
+210235UDL5F247000393
+MAC E4F14C743090
+
+RETIRADA
+210235UGNJ324A000750
+MAC  E4F14C7F0ACF",
+157,11536,2026-09-17,03:39,"quinta-feira, setembro 17, 2026 03:39",Leandro Resende,Leandro Resende,29364,Santa Brigida,Padron,,,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,CORREDOR 1 (câm 23),,,,,,,,,,,,,NÃO,,,
+158,31204,2026-09-17,03:33,"quinta-feira, setembro 17, 2026 03:33",Joel,Joel,35893,Viação Metrópole Imperador,Articulado,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Câmera sem cartão de memória",Nenhuma ação realizada,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Câmera sem cartão de memória",Nenhuma ação realizada,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","FRENTE (câm 22), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,Câmeras 22 e 26 sem cartão SD,
+159,11669,2026-09-17,03:29,"quinta-feira, setembro 17, 2026 03:29",Leandro Resende,Leandro Resende,29043,Santa Brigida,Padron,,,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,CORREDOR 1 (câm 23),,,,,,,,,,,,,NÃO,,,
+160,11695,2026-09-17,03:17,"quinta-feira, setembro 17, 2026 03:17",Leandro Resende,Leandro Resende,29321,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+161,51132,2026-09-17,03:08,"quinta-feira, setembro 17, 2026 03:08",Anderson Silva,Anderson Silva,30593,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+162,52055,2026-09-17,03:07,"quinta-feira, setembro 17, 2026 03:07",Anderson Silva,Anderson Silva,30642,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+163,51111,2026-09-17,03:05,"quinta-feira, setembro 17, 2026 03:05",Anderson Silva,Anderson Silva,30649,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória e um suporte para placa,
+164,51079,2026-09-17,03:02,"quinta-feira, setembro 17, 2026 03:02",Anderson Silva,Anderson Silva,30030,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+165,11714,2026-09-17,02:55,"quinta-feira, setembro 17, 2026 02:55",Leandro Resende,Leandro Resende,29416,Santa Brigida,Padron,,,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,CORREDOR 1 (câm 23),,,,,,,,,,,,,NÃO,,,
+166,61334,2026-09-17,02:53,"quinta-feira, setembro 17, 2026 02:53",Jonathan Gonçalves,Jonathan Gonçalves,30180,Viação Grajaú,Articulado,Switch apresentando falha,Substituição do switch,Switch apresentando falha,Substituição do switch,Switch apresentando falha,Substituição do switch,Switch apresentando falha,Substituição do switch,Switch apresentando falha,Substituição do switch,Switch apresentando falha,Substituição do switch,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,"Substituição do switch — FRONTAL (câm 21)
+Substituição do switch — FRENTE (câm 22)
+Substituição do switch — CORREDOR 1 (câm 23)
+Substituição do switch — CORREDOR 2 (câm 24)
+Substituição do switch — CORREDOR 3 (câm 25)
+Substituição do switch — CORREDOR 4 (câm 26)",,1,,,,,,,,NÃO,,"Feito a substituição do switch principal, estava com as conexões queimadas.
+Ônibus verificado a pedido do Romário",
+167,31180,2026-09-17,02:45,"quinta-feira, setembro 17, 2026 02:45",Joel,Joel,36036,Viação Metrópole Imperador,Articulado,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Sem gravação de imagens
+Câmera com sinal de vandalismo",Nenhuma ação realizada,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",CORREDOR 4 (câm 26),,,,,,,,,,,,SIM,"Obs: câmera 26 inoperante, conector da câmera está quebrado precisa de uma nova câmera","Obs: câmera 26 inoperante, conector da câmera está quebrado precisa de uma nova câmera",
+168,11691,2026-09-17,02:34,"quinta-feira, setembro 17, 2026 02:34",Leandro Resende,Leandro Resende,29537,Santa Brigida,Padron,Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,,NÃO,,,
+169,11689,2026-09-17,02:16,"quinta-feira, setembro 17, 2026 02:16",Leandro Resende,Leandro Resende,28954,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+170,52105,2026-09-17,02:07,"quinta-feira, setembro 17, 2026 02:07",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52105
+
+ C1 TROCA DE CARTÃO/ C2/C4 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C3/C6 CÂMERA EM CURTO/ C5 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+171,52103,2026-09-17,02:02,"quinta-feira, setembro 17, 2026 02:02",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52103
+
+ C2/C5 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C6 CÂMERA EM CURTO/ C3/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+172,11764,2026-09-17,01:55,"quinta-feira, setembro 17, 2026 01:55",Leandro Resende,Leandro Resende,29047,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+173,52913,2026-09-17,01:50,"quinta-feira, setembro 17, 2026 01:50",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52913
+
+ C2 TROCA DE CARTÃO/ C1/C4 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C3/C6 CÂMERA EM CURTO/ C5 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+174,52924,2026-09-17,01:45,"quinta-feira, setembro 17, 2026 01:45",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52924
+
+ C1/C6 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C2/C5 CÂMERA EM CURTO/ C3/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+175,11088,2026-09-17,01:42,"quinta-feira, setembro 17, 2026 01:42",Leandro Resende,Leandro Resende,29410,Santa Brigida,Articulado,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+176,31212,2026-09-17,01:21,"quinta-feira, setembro 17, 2026 01:21",Joel,Joel,36095,Viação Metrópole Imperador,Articulado,"Switch apresentando falha
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Substituição do switch
+Correção e ajuste da configuração da câmera","Switch apresentando falha
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Substituição do switch
+Correção e ajuste da configuração da câmera","Switch apresentando falha
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Substituição do switch
+Correção e ajuste da configuração da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,"Substituição do switch — FRONTAL (câm 21)
+Substituição do switch — FRENTE (câm 22)
+Substituição do switch — CORREDOR 1 (câm 23)",,,,,,,,,,NÃO,,"Obs: esqueci de tirar foto do antes do Switch, mais as duas portas POE estava queimadas 7 e 8",
+177,52745,2026-09-17,01:23,"quinta-feira, setembro 17, 2026 01:23",Anderson Silva,Anderson Silva,30666,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+178,51003,2026-09-17,01:21,"quinta-feira, setembro 17, 2026 01:21",Anderson Silva,Anderson Silva,30672,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+179,32091,2026-09-17,01:19,"quinta-feira, setembro 17, 2026 01:19",Rafael Diniz,Rafael Diniz,35061,Viação Metrópole Itaim,Padron,Sem gravação de imagens,Normalização da gravação de imagens,Nenhuma anomalia identificada,Nenhuma ação realizada,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,"FRONTAL (câm 21), CORREDOR 1 (câm 23)","FRONTAL (câm 21), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Câmera 21  cartão formatado, voltou a gravar.
+Câmera 23 realizado posicionamento adequado.
+Switch fixado.",
+180,51143,2026-09-17,01:18,"quinta-feira, setembro 17, 2026 01:18",Anderson Silva,Anderson Silva,30682,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+181,11103,2026-09-17,01:17,"quinta-feira, setembro 17, 2026 01:17",Leandro Resende,Leandro Resende,29604,Santa Brigida,Articulado,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+182,52070,2026-09-17,01:14,"quinta-feira, setembro 17, 2026 01:14",Anderson Silva,Anderson Silva,29927,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória e um suporte para placa,
+183,52041,2026-09-17,01:12,"quinta-feira, setembro 17, 2026 01:12",Anderson Silva,Anderson Silva,30647,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória.,
+184,11038,2026-09-17,01:06,"quinta-feira, setembro 17, 2026 01:06",Leandro Resende,Leandro Resende,29447,Santa Brigida,Articulado,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+185,11078,2026-09-17,00:54,"quinta-feira, setembro 17, 2026 00:54",Leandro Resende,Leandro Resende,29569,Santa Brigida,Articulado,Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)",,,,,,,,,,,,,NÃO,,,
+186,61065,2026-09-17,00:47,"quinta-feira, setembro 17, 2026 00:47",Jonathan Gonçalves,Jonathan Gonçalves,30364,Viação Grajaú,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,,,,,,,,NÃO,,"Veículo em funcionando normalmente.
+Veículo verificado a pedido do Romário.",
+187,31972,2026-09-17,00:39,"quinta-feira, setembro 17, 2026 00:39",Rafael Diniz,Rafael Diniz,34765,Viação Metrópole Itaim,Articulado,"Sem gravação de imagens
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória","Sem gravação de imagens
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória","Sem gravação de imagens
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória",Sem gravação de imagens,Normalização da gravação de imagens,Sem gravação de imagens,Normalização da gravação de imagens,Nenhuma anomalia identificada,Nenhuma ação realizada,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25)",,"Inserção ou substituição do cartão de memória — FRONTAL (câm 21)
+Inserção ou substituição do cartão de memória — FRENTE (câm 22)
+Inserção ou substituição do cartão de memória — CORREDOR 1 (câm 23)",,,3,,,,,,,NÃO,,"Câmeras 21 22 e 23 estavam sem cartão de memória. Realizado a inserção dos cartões e ajustes nas configurações.
+Câmeras 24 e 25 sem histórico de gravações, após formatação voltaram a gravar novamente.
+Configurações verificadas e realizado testes de gravações. 
+Câmeras ok.",
+188,11053,2026-09-17,00:39,"quinta-feira, setembro 17, 2026 00:39",Leandro Resende,Leandro Resende,29080,Santa Brigida,Articulado,Sem gravação de imagens,Normalização da gravação de imagens,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)",,,,,,,,,,,,,NÃO,,,
+189,51133,2026-09-17,00:32,"quinta-feira, setembro 17, 2026 00:32",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,"C1, C2, C3",,,,,,,,,,,NÃO,,"51133
+
+ C2 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C3 CÂMERA EM CURTO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+190,61571,2026-09-17,00:17,"quinta-feira, setembro 17, 2026 00:17",Jonathan Gonçalves,Jonathan Gonçalves,30512,Viação Grajaú,Articulado,"Falha na conexão dos cabos
+Conexões do switch incorretas
+Câmera mal reposicionada","Reposicionamento adequado da câmera
+Correção da falha no switch
+Correção na conexão dos cabos","Falha na conexão dos cabos
+Conexões do switch incorretas","Correção na conexão dos cabos
+Correção das conexões do switch","Falha na conexão dos cabos
+Conexões do switch incorretas","Correção na conexão dos cabos
+Correção das conexões do switch","Falha na conexão dos cabos
+Conexões do switch incorretas","Correção na conexão dos cabos
+Correção das conexões do switch","Falha na conexão dos cabos
+Conexões do switch incorretas","Correção na conexão dos cabos
+Correção das conexões do switch","Cabeamento rompido/danificado
+Falha na conexão dos cabos
+Conexões do switch incorretas","Correção na conexão dos cabos
+Reparo do cabeamento
+Correção das conexões do switch","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","FRONTAL (câm 21), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,"Feito reparo no cabeamento da câmera 26, reposicionamento da câmera 21, organização dos cabos e feito a ligação correta dos cabos do switch que estava toda errada",
+191,52074,2026-09-17,00:17,"quinta-feira, setembro 17, 2026 00:17",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,"C1, C2, C3",,,,,,,,,,,NÃO,,"52023 
+
+C3 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C2 CÂMERA EM CURTO
+
+100% ONLINE","ID 32500 repetido em 54 formulários (provável valor genérico)
+Texto cita o prefixo 52023, diferente da coluna Prefixo (52074); mantido o valor da coluna Prefixo (Q11)"
+192,32129,2026-09-17,00:14,"quinta-feira, setembro 17, 2026 00:14",Rafael Diniz,Rafael Diniz,34746,Viação Metrópole Itaim,Básico,Sem gravação de imagens,"Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória",Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,,,FRONTAL (câm 21),FRONTAL (câm 21),,Inserção ou substituição do cartão de memória — FRONTAL (câm 21),,,1,,,,,,,NÃO,,"Câmera 21 sem histórico de gravações. Identificado erro no cartão SD e realizado a substituição.
+Após ajustes, todas as câmeras voltaram a gravar normalmente.",
+193,73203,2026-09-17,00:08,"quinta-feira, setembro 17, 2026 00:08",John Lima,John Lima,35736,Viação Metrópole M'Boi Mirim,Padron,"Câmera inoperante
+Cabeamento rompido/danificado","Substituição da câmera defeituosa
+Substituição do cabeamento
+Ativação da câmera",Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,"Substituição da câmera defeituosa — FRONTAL (câm 21)
+Substituição do cabeamento — FRONTAL (câm 21)",1,,,210235UDL5F247004359,E4F14C7827B2,210235UGNJ324A004830,E4F14C7F1ABF,,,NÃO,,"Anomalias 
+Camera 21 inativa 
+Cameras  22 e  23 mal posicionadas 
+
+Reparos 
+
+Cameras 22 e  23  reposicionadas
+
+Camera 21  substituída câmera e cabeamento
+
+Número de  série instalada 
+
+H;A0
+210235UDL5
+F247004359
+MAC E4F14C7827B2
+
+RETIRADA
+HB20
+210235UGNJ
+324A004830
+MAC  E4F14C7F1ABF",
+194,52074,2026-09-17,00:13,"quinta-feira, setembro 17, 2026 00:13",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,"C1, C2, C3",,,,,,,,,,,NÃO,,"52074 
+
+C2/C3 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1 TROCA DE CONECTOR/CÂMERA EM CURTO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+195,52078,2026-09-17,00:07,"quinta-feira, setembro 17, 2026 00:07",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,"C1, C2, C3",,,,,,,,,,,NÃO,,"52078 
+
+C2/C3 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1 CÂMERA EM CURTO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+196,52042,2026-09-17,00:03,"quinta-feira, setembro 17, 2026 00:03",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,"C1, C2, C3",,,,,,,,,,,NÃO,,"52042 
+
+C1/C3 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C2 CÂMERA EM CURTO/BOOT UCP 
+
+PREFIXO INCORRETO: 52704
+
+100% ONLINE","ID 32500 repetido em 54 formulários (provável valor genérico)
+Texto cita o prefixo 52704, diferente da coluna Prefixo (52042); mantido o valor da coluna Prefixo (Q11)
+Texto contém ""PREFIXO INCORRETO"" — conferir"
+197,51113,2026-09-16,23:50,"quarta-feira, setembro 16, 2026 23:50",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,"C1, C2, C3",,,,,,,,,,,NÃO,,"51113 
+
+C1/C2 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C3 CÂMERA EM CURTO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+198,51117,2026-09-16,23:46,"quarta-feira, setembro 16, 2026 23:46",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,"C1, C2, C3",,,,,,,,,,,NÃO,,"51117 
+
+C3 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1/C2 CÂMERA EM CURTO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+199,51116,2026-09-16,23:40,"quarta-feira, setembro 16, 2026 23:40",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,"C1, C2, C3",,,,,,,,,,,NÃO,,"51116 
+
+C2/C3 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/ C1 CÂMERA EM CURTO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+200,61511,2026-09-16,22:39,"quarta-feira, setembro 16, 2026 22:39",Jonathan Gonçalves,Jonathan Gonçalves,30214,Viação Grajaú,Articulado,Fusível queimado,Substituição do fusível,Fusível queimado,Substituição do fusível,Fusível queimado,Substituição do fusível,Fusível queimado,Substituição do fusível,Fusível queimado,Substituição do fusível,Fusível queimado,Substituição do fusível,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,"Substituição do fusível — FRONTAL (câm 21)
+Substituição do fusível — FRENTE (câm 22)
+Substituição do fusível — CORREDOR 1 (câm 23)
+Substituição do fusível — CORREDOR 2 (câm 24)
+Substituição do fusível — CORREDOR 3 (câm 25)
+Substituição do fusível — CORREDOR 4 (câm 26)",,,,,,,,,,NÃO,,Feito a substituição do fusível que estava queimado.,
+201,31949,2026-09-16,14:08,"quarta-feira, setembro 16, 2026 14:08",Luiz Rodrigo,Luiz Rodrigo,36404,Viação Metrópole Iguatemi,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,,,,,,,,,,,,,,NÃO,,"Verificado as câmeras ( configuração, imagem, gravação) tudo funcionando normalmente.",
+202,31951,2026-09-16,13:51,"quarta-feira, setembro 16, 2026 13:51",Luiz Rodrigo,Luiz Rodrigo,35767,Viação Metrópole Iguatemi,Padron,"Câmera inoperante
+Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção na conexão dos cabos
+Correção e ajuste da configuração da câmera
+Ativação da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Câmera 21: Reparo nos cabos de rede, ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 22: Configuração e cartão SD formatado.
+
+Câmera 23: Configuração e cartão SD formatado.",
+203,31486,2026-09-16,13:17,"quarta-feira, setembro 16, 2026 13:17",Luiz Rodrigo,Luiz Rodrigo,35439,Viação Metrópole Iguatemi,Padron,"Câmera inoperante
+Sem gravação de imagens
+Câmera com infiltração",Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,SIM,"Câmera 21: com infiltração ( aguardando reparo no carro, para ser feito a troca).","Câmera 21: com infiltração ( aguardando reparo no carro, para ser feito a troca).
+
+Câmera 22: funcionando normalmente.
+
+Câmera 23: Configuração e cartão SD formatado;",
+204,31622,2026-09-16,12:26,"quarta-feira, setembro 16, 2026 12:26",Luiz Rodrigo,Luiz Rodrigo,34753,Viação Metrópole Iguatemi,Padron,,,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera",,,,,,,,,FRENTE (câm 22),"FRONTAL (câm 21), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Cam22: Ajuste de imagem, configuração e cartão SD formatado.
+
+Câmeras 21 e 23 foram verificadas e estão funcionando normalmente.",
+205,31100,2026-09-16,11:56,"quarta-feira, setembro 16, 2026 11:56",Luiz Rodrigo,Luiz Rodrigo,35551,Viação Metrópole Iguatemi,Articulado,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera",Câmera mal reposicionada,Reposicionamento adequado da câmera,,,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera",Câmera mal reposicionada,Reposicionamento adequado da câmera,Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,"Câmera 21: ajuste de imagem, configuração e cartão SD formatado;
+
+Câmera 22: ajuste de imagem;
+
+Câmera 24: ajuste de imagem, configuração e cartão SD formatado;
+
+Câmera 25: ajuste de imagem;
+
+Câmera 26: cartão SD formatado;",
+206,31654,2026-09-16,10:22,"quarta-feira, setembro 16, 2026 10:22",Luiz Rodrigo,Luiz Rodrigo,35934,Viação Metrópole Iguatemi,Padron,,,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera",,,,,,,,,FRENTE (câm 22),"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Ajuste, configuração e cartão SD formatado da câmera 22.
+
+Foi verificado as câmeras 21 e 23, ambas funcionando normalmente.",
+207,31948,2026-09-16,08:53,"quarta-feira, setembro 16, 2026 08:53",Luiz Rodrigo,Luiz Rodrigo,35880,Viação Metrópole Iguatemi,Padron,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,,,FRONTAL (câm 21),"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Ajuste da câmera 21;
+Verificado as câmeras 22 e 23, ambas funcionando normalmente.",
+208,52936,2026-09-16,04:29,"quarta-feira, setembro 16, 2026 04:29",Anderson Silva,Anderson Silva,30622,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,0,,,,,,,NÃO,,Foi recolocado o pen drive na UCP que ficou sem comunicação após fazermos a atualização.,
+209,52711,2026-09-16,04:26,"quarta-feira, setembro 16, 2026 04:26",Anderson Silva,Anderson Silva,30644,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,0,,,,,,,NÃO,,Foi recolocado o pen drive na UCP que ficou sem comunicação após fazermos a atualização.,
+210,52919,2026-09-16,04:22,"quarta-feira, setembro 16, 2026 04:22",Anderson Silva,Anderson Silva,30628,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,0,,,,,,,NÃO,,Foi recolocado o pen drive na UCP que ficou sem comunicação após fazermos a atualização.,
+211,31654,2026-09-16,04:07,"quarta-feira, setembro 16, 2026 04:07",Gesnei souza,Gesnei souza,35634,Viação Metrópole Iguatemi,Padron,Sem gravação de imagens,"Normalização da gravação de imagens
+Reinicialização da câmera",Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,FRONTAL (câm 21),FRONTAL (câm 21),,,,,,,,,,,,NÃO,,Trocado o cartão da câmera 21,
+212,68043,2026-09-16,03:56,"quarta-feira, setembro 16, 2026 03:56",Rafael Menezes Rocha,Rafael Menezes Rocha,34350,A2 Transportes,Midi,"Câmera travada
+Configuração incorreta da câmera","Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera travada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera",,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)",,,,,,,,,,,,,NÃO,,"68043 - 34350 - 2 câmeras, crimpagens corretas e cabo ok, câmeras só ligam e não  dão a possibilidade de acessar.",
+213,32198,2026-09-16,03:48,"quarta-feira, setembro 16, 2026 03:48",Rafael Diniz,Rafael Diniz,35193,Viação Metrópole Itaim,Padron,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",CORREDOR 1 (câm 23),,Inserção ou substituição do cartão de memória — CORREDOR 1 (câm 23),,,1,,,,,,,NÃO,,"Câmera 23 sem histórico de gravações. Foi identificado erro no SD e realizado a substituição, restabelecendo a gravação da câmera.
+Configuração de todas as câmeras foram ajustadas e feito testes de gravação.
+Após os ajustes todas as câmeras ficaram operando normalmente.",
+214,11100,2026-09-16,03:47,"quarta-feira, setembro 16, 2026 03:47",Leandro Resende,Leandro Resende,29268,Santa Brigida,Articulado,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+215,11086,2026-09-16,03:39,"quarta-feira, setembro 16, 2026 03:39",Leandro Resende,Leandro Resende,29152,Santa Brigida,Articulado,,,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reposicionamento adequado da câmera",,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+216,31818,2026-09-16,03:23,"quarta-feira, setembro 16, 2026 03:23",Gesnei souza,Gesnei souza,34817,Viação Metrópole Iguatemi,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,Normalização da gravação de imagens,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,FRENTE (câm 22),FRENTE (câm 22),,,,,,,,,,,,NÃO,,Camera 22 formatada,
+217,52936,2026-09-16,03:24,"quarta-feira, setembro 16, 2026 03:24",Anderson Silva,Anderson Silva,30622,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+218,51057,2026-09-16,03:22,"quarta-feira, setembro 16, 2026 03:22",Anderson Silva,Anderson Silva,30591,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+219,52910,2026-09-16,03:19,"quarta-feira, setembro 16, 2026 03:19",Anderson Silva,Anderson Silva,30665,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+220,11055,2026-09-16,03:19,"quarta-feira, setembro 16, 2026 03:19",Leandro Resende,Leandro Resende,29053,Santa Brigida,Articulado,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,,,FRONTAL (câm 21),,,,,,,,,,,,,NÃO,,,
+221,52919,2026-09-16,03:11,"quarta-feira, setembro 16, 2026 03:11",Anderson Silva,Anderson Silva,30628,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+222,31755,2026-09-16,03:11,"quarta-feira, setembro 16, 2026 03:11",Gesnei souza,Gesnei souza,35365,Viação Metrópole Iguatemi,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,"Normalização da gravação de imagens
+Reinicialização da câmera",,,,,,,CORREDOR 1 (câm 23),CORREDOR 1 (câm 23),,,,,,,,,,,,NÃO,,Camera 23 formatada e configurada,
+223,31210,2026-09-16,03:00,"quarta-feira, setembro 16, 2026 03:00",Joel,Joel,35459,Viação Metrópole Imperador,Articulado,Câmera com infiltração,Nenhuma ação realizada,Switch apresentando falha,Substituição do switch,Switch apresentando falha,Substituição do switch,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",FRONTAL (câm 21),,"Substituição do switch — FRENTE (câm 22)
+Substituição do switch — CORREDOR 1 (câm 23)",,,,,,,,,,NÃO,,"Câmera 21 está com infiltração, a garagem não tem câmera para fazer a troca",
+224,11101,2026-09-16,03:11,"quarta-feira, setembro 16, 2026 03:11",Leandro Resende,Leandro Resende,29688,Santa Brigida,Articulado,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+225,52932,2026-09-16,03:08,"quarta-feira, setembro 16, 2026 03:08",Anderson Silva,Anderson Silva,30620,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+226,52835,2026-09-16,03:05,"quarta-feira, setembro 16, 2026 03:05",Anderson Silva,Anderson Silva,30616,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória,
+227,52711,2026-09-16,03:02,"quarta-feira, setembro 16, 2026 03:02",Anderson Silva,Anderson Silva,30644,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,Foi feito a substituição do pen drive pelo cartão de memória.,
+228,52762,2026-09-16,03:00,"quarta-feira, setembro 16, 2026 03:00",Anderson Silva,Anderson Silva,30631,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,,,,,1,,,,,,,NÃO,,,
+229,11052,2026-09-16,02:57,"quarta-feira, setembro 16, 2026 02:57",Leandro Resende,Leandro Resende,29012,Santa Brigida,Articulado,Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)",,,,,,,,,,,,,NÃO,,,
+230,31844,2026-09-16,02:49,"quarta-feira, setembro 16, 2026 02:49",Rafael Diniz,Rafael Diniz,36506,Viação Metrópole Itaim,Articulado,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Fusível queimado,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera
+Substituição do fusível",Fusível queimado,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera
+Substituição do fusível",Fusível queimado,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera
+Substituição do fusível","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,"Substituição do fusível — CORREDOR 2 (câm 24)
+Substituição do fusível — CORREDOR 3 (câm 25)
+Substituição do fusível — CORREDOR 4 (câm 26)",,,,,,,,,,NÃO,,"Fusível queimado. Foi realizado a substituição do fusível restabelecendo a alimentação das câmeras 24 25 e 26.
+Câmera 23 sem histórico de gravação, após formatação voltou a gravar normalmente.
+Configurações de todas as câmeras foram ajustadas e realizado testes de gravação.
+Após ajustes todas as câmeras passaram a funcionar normalmente.",
+231,31503,2026-09-16,02:50,"quarta-feira, setembro 16, 2026 02:50",Gesnei souza,Gesnei souza,35402,Viação Metrópole Iguatemi,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,"Sem gravação de imagens
+Câmera desligada manualmente","Normalização da gravação de imagens
+Reinicialização da câmera",Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,FRENTE (câm 22),FRENTE (câm 22),,,,,,,,,,,,NÃO,,Camera 22 configurada,
+232,11111,2026-09-16,02:49,"quarta-feira, setembro 16, 2026 02:49",Leandro Resende,Leandro Resende,29133,Santa Brigida,Articulado,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+233,73362,2026-09-16,02:44,"quarta-feira, setembro 16, 2026 02:44",John Lima,John Lima,34821,Viação Metrópole M'Boi Mirim,Padron,"Câmera inoperante
+Cabeamento rompido/danificado","Reinicialização da câmera
+Substituição do cabeamento
+Ativação da câmera",Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,FRONTAL (câm 21),FRONTAL (câm 21),,Substituição do cabeamento — FRONTAL (câm 21),,,,,,,,,,NÃO,,"Anomalias 
+
+Camera 21  inativa 
+
+Reparos
+
+Camera 21  feita troca do cabeamento UTP o mesmo estava danificado pela borracha de vedação do para brisas",
+234,11044,2026-09-16,02:41,"quarta-feira, setembro 16, 2026 02:41",Leandro Resende,Leandro Resende,29174,Santa Brigida,Articulado,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+235,31560,2026-09-16,02:35,"quarta-feira, setembro 16, 2026 02:35",Gesnei souza,Gesnei souza,35094,Viação Metrópole Iguatemi,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,"Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória",,,,,,,CORREDOR 1 (câm 23),CORREDOR 1 (câm 23),,Inserção ou substituição do cartão de memória — CORREDOR 1 (câm 23),,,,,,,,,,NÃO,,Camera 23 trocado o cartão de memória,
+236,68582,2026-09-16,02:35,"quarta-feira, setembro 16, 2026 02:35",Rafael Menezes Rocha,Rafael Menezes Rocha,34182,A2 Transportes,Midi,"Câmera travada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Câmera travada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)",,,,,,,,,,,,,NÃO,,"68582 - 34142 - 2 câmeras, gravando normalmente, configuração foi ajustada para o padrão.","Texto informa ID 34142, diferente da coluna ID (34182)"
+237,68589,2026-09-16,02:29,"quarta-feira, setembro 16, 2026 02:29",Rafael Menezes Rocha,Rafael Menezes Rocha,34583,A2 Transportes,Midi,"Câmera travada
+Sem gravação de imagens
+RJ45 crimpado incorretamente
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera
+Ativação da câmera","Câmera inoperante
+Câmera travada
+Cabeamento rompido/danificado
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera
+Ativação da câmera",,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)","FRONTAL (câm 21), FRENTE (câm 22)",,,,,,,,,,,,NÃO,,"68589 - 34583 - 2 câmeras, 21 funcionando com o ip errado e invertida, corrigido normalmente. Câmera 22 com cabo rompido e crimpagem errada nas duas pontas, troquei o padrão 568b para o 568a, ambas câmeras deixadas. Operando normalmente.",
+238,11067,2026-09-16,02:29,"quarta-feira, setembro 16, 2026 02:29",Leandro Resende,Leandro Resende,29059,Santa Brigida,Articulado,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+239,68594,2026-09-16,02:23,"quarta-feira, setembro 16, 2026 02:23",Rafael Menezes Rocha,Rafael Menezes Rocha,34387,A2 Transportes,Midi,"Câmera travada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Câmera travada
+Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera
+Ativação da câmera",,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)","FRONTAL (câm 21), FRENTE (câm 22)",,Inserção ou substituição do cartão de memória — FRENTE (câm 22),,,,,,,,,,NÃO,,"68594 - 34387 - 2 câmeras, 21 e 22 com o mesmo ip, configurei as duas e deixei gravando. Câmera 22 foi reposicionada e colocado novamente o cartão de memória que estava solto. Câmera 21 estava invertida, já foi corrigido.",
+240,61316,2026-09-16,02:21,"quarta-feira, setembro 16, 2026 02:21",Jonathan Gonçalves,Jonathan Gonçalves,30313,Viação Grajaú,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,"Câmera travada
+Sem gravação de imagens",Reinicialização da câmera,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,CORREDOR 2 (câm 24),CORREDOR 2 (câm 24),,,,,,,,,,,,NÃO,,"Carro verificado a pedido do Romário.
+Câmera 24 está travada, reiniciei , testei o cabeamento, refiz os conectores, troquei de porta e mesmo assim. Só fica travada com o infravermelho ligado.",
+241,68594,2026-09-16,02:17,"quarta-feira, setembro 16, 2026 02:17",Rafael Menezes Rocha,Rafael Menezes Rocha,34387,A2 Transportes,Midi,"Câmera travada
+Sem gravação de imagens
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Câmera travada
+Sem gravação de imagens
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera",,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)","FRONTAL (câm 21), FRENTE (câm 22)",,"Inserção ou substituição do cartão de memória — FRONTAL (câm 21)
+Inserção ou substituição do cartão de memória — FRENTE (câm 22)",,,,,,,,,,NÃO,,"68594 - 34387 - 2 câmeras, 21 e 22 com o mesmo ip, configurei as duas e deixei gravando. Câmera 22 foi reposicionada e colocado novamente o cartão de memória que estava solto. Câmera 21 estava invertida, já foi corrigido.",
+242,11068,2026-09-16,02:19,"quarta-feira, setembro 16, 2026 02:19",Leandro Resende,Leandro Resende,29552,Santa Brigida,Articulado,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+243,68465,2026-09-16,02:12,"quarta-feira, setembro 16, 2026 02:12",Rafael Menezes Rocha,Rafael Menezes Rocha,34533,A2 Transportes,Midi,"Câmera travada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera travada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera",,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)","FRONTAL (câm 21), FRENTE (câm 22)",,,,,,,,,,,,NÃO,,"68465 - 34533 - 2 câmeras, 21 e 22 com ip trocado e configurações incorretas, deixei as duas gravando e operando normalmente.",
+244,32100,2026-09-16,02:03,"quarta-feira, setembro 16, 2026 02:03",Rafael Diniz,Rafael Diniz,35100,Viação Metrópole Itaim,Padron,"Sem gravação de imagens
+Câmera não fixada corretamente
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reposicionamento adequado da câmera
+Fixação adequada da câmera
+Correção e ajuste da configuração da câmera","Câmera mal reposicionada
+Configuração incorreta da câmera","Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",FRONTAL (câm 21),,Inserção ou substituição do cartão de memória — FRONTAL (câm 21),,,1,,,,,,,NÃO,,"Câmera 21 sem histórico de gravação, identificado erro no cartão SD e realizado a substituição. Após ajustes câmeras voltou a gravar normalmente. Também foi realizado a fixação da câmera que estava soltando e reposicionamento adequado da câmera.
+
+Realizado ajustes nas configurações das três câmeras e testes de gravações.",
+245,31624,2026-09-16,01:59,"quarta-feira, setembro 16, 2026 01:59",Gesnei souza,Gesnei souza,36098,Viação Metrópole Iguatemi,Padron,Câmera desligada manualmente,"Normalização da gravação de imagens
+Reinicialização da câmera
+Ativação da câmera",Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,FRONTAL (câm 21),FRONTAL (câm 21),,,,,,,,,,,,NÃO,,Camera 21 configurada e formatada,
+246,61327,2026-09-16,02:00,"quarta-feira, setembro 16, 2026 02:00",Jonathan Gonçalves,Jonathan Gonçalves,30336,Viação Grajaú,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Falha na conexão dos cabos,Correção na conexão dos cabos,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,CORREDOR 1 (câm 23),CORREDOR 1 (câm 23),,,,,,,,,,,,NÃO,,"Câmera 23 estava com o conector mau encaixado, após plugar corretamente, voltou a funcionar.",
+247,11064,2026-09-16,01:39,"quarta-feira, setembro 16, 2026 01:39",Leandro Resende,Leandro Resende,29347,Santa Brigida,Articulado,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+248,61228,2026-09-16,01:31,"quarta-feira, setembro 16, 2026 01:31",Jonathan Gonçalves,Jonathan Gonçalves,30482,Viação Grajaú,Padron,Câmera travada,Reinicialização da câmera,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,FRONTAL (câm 21),FRONTAL (câm 21),,,,,,,,,,,,NÃO,,"Câmera 21 estava travada, após reiniciar voltou a funcionar",
+249,11061,2026-09-16,01:30,"quarta-feira, setembro 16, 2026 01:30",Leandro Resende,Leandro Resende,29433,Santa Brigida,Articulado,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+250,31973,2026-09-16,01:25,"quarta-feira, setembro 16, 2026 01:25",Rafael Diniz,Rafael Diniz,35167,Viação Metrópole Itaim,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,Normalização da gravação de imagens,Sem gravação de imagens,"Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória",Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,"CORREDOR 1 (câm 23), CORREDOR 2 (câm 24)","CORREDOR 1 (câm 23), CORREDOR 2 (câm 24)",,Inserção ou substituição do cartão de memória — CORREDOR 2 (câm 24),,,1,,,,,,,NÃO,,"Câmeras 23 e 24 sem histórico de gravações. Realizado formatação do cartão da câmera 23 e substituição do cartão com erro da câmera 24, após ajustes as câmeras voltaram a gravar normalmente.
+Verificado configurações de todas as câmeras e teste de gravações.",
+251,31255,2026-09-16,01:22,"quarta-feira, setembro 16, 2026 01:22",Gesnei souza,Gesnei souza,35299,Viação Metrópole Iguatemi,Articulado,"Sem gravação de imagens
+Câmera desligada manualmente","Normalização da gravação de imagens
+Reinicialização da câmera
+Ativação da câmera","Sem gravação de imagens
+Câmera desligada manualmente","Normalização da gravação de imagens
+Reinicialização da câmera
+Ativação da câmera",Câmera desligada manualmente,"Normalização da gravação de imagens
+Reinicialização da câmera
+Ativação da câmera",Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,Camera 21 22 23 configuradas,
+252,31964,2026-09-16,01:00,"quarta-feira, setembro 16, 2026 01:00",Rafael Diniz,Rafael Diniz,35830,Viação Metrópole Itaim,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,Normalização da gravação de imagens,Nenhuma anomalia identificada,Nenhuma ação realizada,CORREDOR 3 (câm 25),CORREDOR 3 (câm 25),,,,,,,,,,,,NÃO,,"Câmera 25 sem histórico de gravação. Identificado erro no SD, realizado formatação e a câmera voltou a gravar normalmente.
+
+Todas as câmeras foram verificado as configurações e realizado testes de gravação.
+
+Realizado fixação da UCP.",
+253,11097,2026-09-16,00:59,"quarta-feira, setembro 16, 2026 00:59",Leandro Resende,Leandro Resende,29513,Santa Brigida,Articulado,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,"FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,,NÃO,,,
+254,73767,2026-09-16,00:55,"quarta-feira, setembro 16, 2026 00:55",Abner Melo,Abner melo,35723,Viação Metrópole Pinedo,Articulado,"Câmera inoperante
+Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,"Inserção ou substituição do cartão de memória — FRONTAL (câm 21)
+Inserção ou substituição do cartão de memória — FRENTE (câm 22)
+Inserção ou substituição do cartão de memória — CORREDOR 1 (câm 23)
+Inserção ou substituição do cartão de memória — CORREDOR 2 (câm 24)
+Inserção ou substituição do cartão de memória — CORREDOR 3 (câm 25)
+Inserção ou substituição do cartão de memória — CORREDOR 4 (câm 26)",0,0,6,,,,,,,NÃO,,"• 73767
+• Realizado a configuração das câmeras:
+• Endereço de IP.
+• HORA/DATA.
+• Realizado a inserção de um novo cartão de memória nas câmeras 21,22,23,24,25 e 26.",Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+255,31012,2026-09-16,00:49,"quarta-feira, setembro 16, 2026 00:49",Gesnei souza,Gesnei souza,35425,Viação Metrópole Iguatemi,Padron,"Câmera inoperante
+Câmera com infiltração",Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,FRONTAL (câm 21),FRONTAL (câm 21),,,,,,,,,,,,NÃO,,Camera 21 fazer a troca no decorrer da semana,
+256,73785,2026-09-16,00:43,"quarta-feira, setembro 16, 2026 00:43",Abner Melo,Abner melo,35104,Viação Metrópole Pinedo,Articulado,"Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Sem gravação de imagens
+Configuração incorreta da câmera
+Câmera sem cartão de memória","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,"Inserção ou substituição do cartão de memória — FRONTAL (câm 21)
+Inserção ou substituição do cartão de memória — FRENTE (câm 22)
+Inserção ou substituição do cartão de memória — CORREDOR 1 (câm 23)
+Inserção ou substituição do cartão de memória — CORREDOR 2 (câm 24)
+Inserção ou substituição do cartão de memória — CORREDOR 3 (câm 25)
+Inserção ou substituição do cartão de memória — CORREDOR 4 (câm 26)",,0,6,,,,,,,NÃO,,"• 73785
+• Realizado a configuração da câmera:
+• Endereço de IP
+• HORA/DATA.
+• Realizado a inserção de um novo cartão de memória nas câmeras 21,22,23,24,25 e 26.",Nome do técnico padronizado: 'Abner melo' → 'Abner Melo' (diferença só de maiúsculas)
+257,11109,2026-09-16,00:42,"quarta-feira, setembro 16, 2026 00:42",Leandro Resende,Leandro Resende,28994,Santa Brigida,Articulado,,,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reposicionamento adequado da câmera",,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+258,31984,2026-09-16,00:38,"quarta-feira, setembro 16, 2026 00:38",Rafael Diniz,Rafael Diniz,35377,Viação Metrópole Itaim,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,Normalização da gravação de imagens,Sem gravação de imagens,Normalização da gravação de imagens,Nenhuma anomalia identificada,Nenhuma ação realizada,"CORREDOR 2 (câm 24), CORREDOR 3 (câm 25)","CORREDOR 2 (câm 24), CORREDOR 3 (câm 25)",,,,,,,,,,,,NÃO,,"Câmeras 24 e 25 sem histórico de gravação, foi realizado formatação do cartão de memória e voltaram a gravar novamente.
+Verificado configurações de todas as câmeras e realizado testes de gravação.",
+259,31615,2026-09-16,00:23,"quarta-feira, setembro 16, 2026 00:23",Gesnei souza,Gesnei souza,35270,Viação Metrópole Iguatemi,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,"Normalização da gravação de imagens
+Reinicialização da câmera",,,,,,,CORREDOR 1 (câm 23),CORREDOR 1 (câm 23),,,,,,,,,,,,NÃO,,Camera 23 configurada e formatada,
+260,11452,2026-09-16,00:21,"quarta-feira, setembro 16, 2026 00:21",Leandro Resende,Leandro Resende,29305,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+261,31983,2026-09-16,00:10,"quarta-feira, setembro 16, 2026 00:10",Rafael Diniz,Rafael Diniz,34771,Viação Metrópole Itaim,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,"FRONTAL (câm 21), CORREDOR 2 (câm 24)",,,,,,,,,,,,NÃO,,"Carro identificado na planilha com erro no SD nas câmeras 21 e 24 porém no momento da manutenção todas as câmeras estavam gravando normalmente. 
+Foi verificado as configurações de todas as câmeras e realizado testes de gravação.
+Percebi que as câmeras mencionadas perderam gravação em algum momento do dia, acredito que seja devido o veículo ser elétrico e a bateria apresentou problema.
+Realizado fixação da UCP.",
+262,31980,2026-09-16,00:03,"quarta-feira, setembro 16, 2026 00:03",Rafael Diniz,Rafael Diniz,35158,Viação Metrópole Itaim,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,Normalização da gravação de imagens,Nenhuma anomalia identificada,Nenhuma ação realizada,"Câmera inoperante
+Conexões do switch incorretas","Normalização da gravação de imagens
+Correção na conexão dos cabos
+Ativação da câmera","Câmera inoperante
+Falha na conexão dos cabos","Normalização da gravação de imagens
+Correção na conexão dos cabos
+Ativação da câmera","CORREDOR 1 (câm 23), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","CORREDOR 1 (câm 23), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,"Indentificado que os POE que estavam conectados as câmeras 25 e 26 estavam danificados. Foi realizado a conexão dos cabos em outros POE e as câmeras voltaram a funcionar normalmente.
+Câmera 23 sem histórico de gravações. Realizado formatação do cartão,ajustes de configuração e testes de gravação.
+Após ajustes todas as câmeras estão funcionando normalmente.",
+263,61314,2026-09-15,23:46,"terça-feira, setembro 15, 2026 23:46",Jonathan Gonçalves,Jonathan Gonçalves,30137,Viação Grajaú,Articulado,Switch apresentando falha,Substituição do switch,Switch apresentando falha,Substituição do switch,Switch apresentando falha,Substituição do switch,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,"Substituição do switch — FRONTAL (câm 21)
+Substituição do switch — FRENTE (câm 22)
+Substituição do switch — CORREDOR 1 (câm 23)",,1,,,,,,,,NÃO,,Feito a troca do switch que estava com as portas PoE queimadas. Ônibus verificado a pedido do Romário.,
+264,31182,2026-09-15,23:26,"terça-feira, setembro 15, 2026 23:26",Joel,Joel,36072,Viação Metrópole Imperador,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,CORREDOR 3 (câm 25),CORREDOR 3 (câm 25),,,,,,,,,,,,SIM,"Câmeras gravando e funcionando normalmente, exceto câmera 25 precisa de um novo cartão SD","Câmeras gravando e funcionando normalmente, exceto câmera 25 precisa de um novo cartão SD",
+265,61213,2026-09-15,22:15,"terça-feira, setembro 15, 2026 22:15",Jonathan Gonçalves,Jonathan Gonçalves,30346,Viação Grajaú,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,,,,,,,,,,,,,,NÃO,,"Carro funcionando normalmente.
+Carro verificado a pedido do Romário.",
+266,61224,2026-09-15,22:04,"terça-feira, setembro 15, 2026 22:04",Jonathan Gonçalves,Jonathan Gonçalves,30253,Viação Grajaú,Padron,Câmera removida por terceiros,Nenhuma ação realizada,Câmera removida por terceiros,Nenhuma ação realizada,Câmera removida por terceiros,Nenhuma ação realizada,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Carro está sem as câmeras 21, 22 e 23, 
+Carro verificado a pedido do Romário.",
+267,31753,2026-09-15,15:41,"terça-feira, setembro 15, 2026 15:41",Luiz Rodrigo,Luiz Rodrigo,35392,Viação Metrópole Iguatemi,Padron,Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera",Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Câmera 21: cartão SD apresentando falhas, foi formatado, voltou a funcionar ( verificar depois se continua gravando);
+
+Câmera 22: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 23: ajuste de imagem",
+268,31818,2026-09-15,13:28,"terça-feira, setembro 15, 2026 13:28",Luiz Rodrigo,Luiz Rodrigo,34817,Viação Metrópole Iguatemi,Articulado,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Correção e ajuste da configuração da câmera",Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,Inserção ou substituição do cartão de memória — FRONTAL (câm 21),,,,,,,,,,NÃO,,"Ajuste de imagem das câmeras 22, 23, 24 e 25.
+
+Câmera 21: Configuração e troca do cartão SD;
+
+Câmera 26 operando normalmente.",
+269,31953,2026-09-15,12:02,"terça-feira, setembro 15, 2026 12:02",Luiz Rodrigo,Luiz Rodrigo,35977,Viação Metrópole Iguatemi,Padron,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Câmera 21: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 22: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 23: ajuste de imagem.",
+270,31657,2026-09-15,11:22,"terça-feira, setembro 15, 2026 11:22",Luiz Rodrigo,Luiz Rodrigo,36138,Viação Metrópole Iguatemi,Padron,,,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,"FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Câmeras 22 e 23 configuradas, formatados os cartões SD.
+
+Câmera 21 funcionando normalmente.",
+271,31962,2026-09-15,08:25,"terça-feira, setembro 15, 2026 08:25",Luiz Rodrigo,Luiz Rodrigo,35612,Viação Metrópole Iguatemi,Padron,,,Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,"FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Configuração e cartão SD formatado da câmera 22;
+
+Ajuste de imagem da câmera 23;
+
+Câmera 21 funcionando normalmente.",
+272,31841,2026-09-15,06:08,"terça-feira, setembro 15, 2026 06:08",Rafael Diniz,Rafael Diniz,35030,Viação Metrópole Itaim,Articulado,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"Sem gravação de imagens
+Câmera desligada manualmente","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera
+Ativação da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Correção e ajuste da configuração da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"Câmera inoperante
+Cabeamento rompido/danificado
+Switch não fixado corretamente
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Fixação adequada do switch
+Substituição do cabeamento
+Crimpagem correta do conector RJ45
+Correção e ajuste da configuração da câmera","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","FRENTE (câm 22), CORREDOR 2 (câm 24), CORREDOR 4 (câm 26)",,"Inserção ou substituição do cartão de memória — CORREDOR 2 (câm 24)
+Substituição do cabeamento — CORREDOR 4 (câm 26)",,,1,,,,,,,NÃO,,"Câmera 22 desligada manualmente. Foi realizado a ativação da câmera no switch.
+Realizado substituição do cartão de memória da câmera 24 que estava sem histórico de gravações.
+Câmera 26 estava inoperante, foi indentificado rompimento do cabo na articulação do ônibus e realizado a substituição completa do cabeamento.
+Realizado uma nova fixação do switch e acabamento dos cabos de rede. 
+Feito ajustes nas configurações de todas as câmeras e realizado testes de gravações.",
+273,11840,2026-09-15,02:14,"terça-feira, setembro 15, 2026 02:14",Leandro Resende,Leandro Resende,29351,Santa Brigida,Articulado,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+274,73932,2026-09-15,01:57,"terça-feira, setembro 15, 2026 01:57",John Lima,John Lima,36089,Viação Metrópole M'Boi Mirim,Articulado,"Câmera inoperante
+Cabeamento rompido/danificado
+Configuração incorreta da câmera","Substituição do cabeamento
+Correção e ajuste da configuração da câmera
+Ativação da câmera","Câmera mal reposicionada
+Configuração incorreta da câmera","Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Câmera inoperante
+Cabeamento rompido/danificado
+Configuração incorreta da câmera","Substituição do cabeamento
+Correção e ajuste da configuração da câmera
+Ativação da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,"Substituição do cabeamento — FRONTAL (câm 21)
+Substituição do cabeamento — CORREDOR 1 (câm 23)",,,,,,,,,,NÃO,,"ANOMALIAS
+
+CAMERAS 21  e 23 INOPERANTES
+CAMERA 22 MAL POSICIONADA
+CAMERAS 21  22  23  24 25 e 26 CONFIGURADAS INCORRETAMENTE
+
+REPAROS
+
+CAMERAS 21 e 23 FEITA TROCA DO CABEAMENTO UTP
+CAMERA  22  REPOSICIONADA
+TODAS  CAMERAS ESTAO ATIVAS FORAM RECONFIGURADAS PARA O PADRAO NOXXON E COM A GRAVAÇAO HABILITADA",
+275,31299,2026-09-15,02:01,"terça-feira, setembro 15, 2026 02:01",Joel,Joel,34959,Viação Metrópole Imperador,Articulado,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reinicialização da câmera
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,,NÃO,,,
+276,11810,2026-09-15,02:06,"terça-feira, setembro 15, 2026 02:06",Leandro Resende,Leandro Resende,29320,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+277,51578,2026-09-15,02:02,"terça-feira, setembro 15, 2026 02:02",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"51578 
+
+C2/C4 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA
+
+ C1/C5 CÂMERA EM CURTO/ C3/C6 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+278,52774,2026-09-15,01:53,"terça-feira, setembro 15, 2026 01:53",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52774
+
+ C1/C5 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA
+
+ C2/C6 CÂMERA EM CURTO/ C3/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+279,11801,2026-09-15,01:52,"terça-feira, setembro 15, 2026 01:52",Leandro Resende,Leandro Resende,29088,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+280,52835,2026-09-15,01:51,"terça-feira, setembro 15, 2026 01:51",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52835 
+
+C2/C5 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA
+
+C1/C6 CÂMERA EM CURTO/ C3/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+281,52788,2026-09-15,01:42,"terça-feira, setembro 15, 2026 01:42",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52788
+
+ C3/C6 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA
+
+C1/C5 CÂMERA EM CURTO/ C2/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+282,11661,2026-09-15,01:39,"terça-feira, setembro 15, 2026 01:39",Leandro Resende,Leandro Resende,29005,Santa Brigida,Articulado,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+283,11744,2026-09-15,01:23,"terça-feira, setembro 15, 2026 01:23",Leandro Resende,Leandro Resende,29432,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+284,11834,2026-09-15,01:10,"terça-feira, setembro 15, 2026 01:10",Leandro Resende,Leandro Resende,29064,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+285,11725,2026-09-15,00:58,"terça-feira, setembro 15, 2026 00:58",Leandro Resende,Leandro Resende,29550,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,"FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,,NÃO,,,
+286,32521,2026-09-15,00:46,"terça-feira, setembro 15, 2026 00:46",Rafael Diniz,Rafael Diniz,35285,Viação Metrópole Itaim,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,"Switch não fixado corretamente
+Câmera desligada manualmente","Normalização da gravação de imagens
+Fixação adequada do switch
+Correção e ajuste da configuração da câmera
+Ativação da câmera",Sem gravação de imagens,Normalização da gravação de imagens,"CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,"Câmera 25 desligada manualmente.
+Foi realizado a ativação da câmera e ajustes na configuração.
+Fixação do switch que estava solto.
+Realizado formatação do cartão d memória da câmera 26 que estava sem histórico de gravação.
+Configurações de todas as câmeras revisadas e realizado testes de gravação.",
+287,31700,2026-09-15,00:43,"terça-feira, setembro 15, 2026 00:43",Joel,Joel,36148,Viação Metrópole Imperador,Articulado,"Câmera travada
+Sem gravação de imagens
+Falha na conexão dos cabos","Normalização da gravação de imagens
+Correção na conexão dos cabos","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,,NÃO,,,
+288,11831,2026-09-15,00:41,"terça-feira, setembro 15, 2026 00:41",Leandro Resende,Leandro Resende,29527,Santa Brigida,Padron,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,FRENTE (câm 22),,,,,,,,,,,,,NÃO,,,
+289,52110,2026-09-15,00:34,"terça-feira, setembro 15, 2026 00:34",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52110
+
+ C1/C4 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA
+
+C2/C6 CÂMERA EM CURTO/ C3/C5 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+290,52110,2026-09-15,00:33,"terça-feira, setembro 15, 2026 00:33",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52110
+
+ C1/C4 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA
+
+C2/C6 CÂMERA EM CURTO/ C3/C5 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+291,52901,2026-09-15,00:25,"terça-feira, setembro 15, 2026 00:25",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52901 
+
+C2/C6 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA
+
+C3/C5 CÂMERA EM CURTO/ C1/C4 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+292,52909,2026-09-15,00:19,"terça-feira, setembro 15, 2026 00:19",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52909
+
+ C1/C6 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA
+
+ C2/C4 CÂMERA EM CURTO/ C3/C5 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+293,52148,2026-09-15,00:09,"terça-feira, setembro 15, 2026 00:09",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"100% ONLINE 
+
+52148
+
+ C3/C5 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA C1/C6 CÂMERA EM CURTO/ C2/C4 FORMATAÇÃO DE CARTÃO",ID 32500 repetido em 54 formulários (provável valor genérico)
+294,31629,2026-09-15,00:00,"terça-feira, setembro 15, 2026 00:00",Joel,Joel,35477,Viação Metrópole Imperador,Padron,"Câmera inoperante
+Câmera travada",Reinicialização da câmera,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,FRONTAL (câm 21),,,,,,,,,,,,,NÃO,,,
+295,52905,2026-09-15,00:01,"terça-feira, setembro 15, 2026 00:01",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C5, C6",,,,,,,,,,,NÃO,,"52905
+
+ C2/C5 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA/
+
+ C1/C4 CÂMERA EM CURTO/ C3/C6 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+296,31986,2026-09-14,23:53,"segunda-feira, setembro 14, 2026 23:53",Rafael Diniz,Rafael Diniz,36711,Viação Metrópole Itaim,Articulado,Nenhuma anomalia identificada,Nenhuma ação realizada,Câmera inoperante,"Substituição da câmera defeituosa
+Correção e ajuste da configuração da câmera",Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,FRENTE (câm 22),FRENTE (câm 22),,Substituição da câmera defeituosa — FRENTE (câm 22),1,,,,E4F14C780C6E,,E4F14C5EEED6,,,NÃO,,"Substituição da câmera 22 que estava com senha de acesso as configurações desconhecida.
+Mac câmera retirada- E4F14C5EEED6
+Mac câmera instalada - E4F14C780C6E",
+297,73614,2026-09-14,23:41,"segunda-feira, setembro 14, 2026 23:41",John Lima,John Lima,35504,Viação Metrópole M'Boi Mirim,Articulado,"Câmera mal reposicionada
+Configuração incorreta da câmera","Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera
+Ativação da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera
+Ativação da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reinicialização da câmera
+Correção e ajuste da configuração da câmera
+Ativação da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,"ANOMALIAS
+CAMERAS   21  22  23  24  25  e 26 CONFIGURADAS INCORRETAMENTE 
+CAMERA 21 MAL POSICIONADA 
+CAMERAS  23  24  e  25  SEM GRAVAÇAO DE IMAGENS 
+
+REPAROS 
+
+CAMERA 21  REPOSICIONADA 
+CAMERAS 23  24  e 25  APOS DEVIDOS TESTES FEITA A FORMATAÇAO DOS SD CARDS 
+
+TODAS AS CAMERAS FORAM RECONFIGURADAS PARA O. PADRAO NOXXON ESTAO ATIVAS E COM HRAVAÇAO HABILITADA .",
+298,51057,2026-09-14,23:45,"segunda-feira, setembro 14, 2026 23:45",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Padron,,,,,,,,,,,,,,,"C1, C2, C3",,,,,,,,,,,NÃO,,"51057
+
+ C1/C3 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA
+
+ C2 CÂMERA EM CURTO/ C1 TROCA DE CONECTOR
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+299,52124,2026-09-14,23:19,"segunda-feira, setembro 14, 2026 23:19",FELIX SECURITY GABRIEL,FELIX SECURITY GABRIEL,32500,Via Sudeste Sapopemba,Articulado,,,,,,,,,,,,,,,"C1, C2, C3, C4, C6",,,,,,,,,,,NÃO,,"52124 
+
+C2/C3 FORMATAÇÃO DE CARTÃO/CONFIGURAÇÃO ATUALIZADA
+
+C1 CÂMERA EM CURTO/ C4/C6 FORMATAÇÃO DE CARTÃO
+
+100% ONLINE",ID 32500 repetido em 54 formulários (provável valor genérico)
+300,32038,2026-09-14,22:25,"segunda-feira, setembro 14, 2026 22:25",Anderson Silva,Anderson Silva,35940,Viação Metrópole AE Carvalho,Padron,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,,NÃO,,Câmeras ok,
+301,31011,2026-09-14,11:58,"segunda-feira, setembro 14, 2026 11:58",Luiz Rodrigo,Luiz Rodrigo,36487,Viação Metrópole Iguatemi,Padron,"Câmera inoperante
+Sem gravação de imagens
+Câmera com infiltração",Nenhuma ação realizada,Nenhuma anomalia identificada,,Nenhuma anomalia identificada,,,,,,,,FRONTAL (câm 21),"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Câmera 21 com infiltração, será nescessário manutenção no veículo, após sanar essa infiltração a câmera será trocada.
+
+Câmeras 22 e 23 foram verificadas e operam normalmente.",
+302,31668,2026-09-14,11:35,"segunda-feira, setembro 14, 2026 11:35",Luiz Rodrigo,Luiz Rodrigo,35816,Viação Metrópole Iguatemi,Padron,Câmera mal reposicionada,Reposicionamento adequado da câmera,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera",,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Câmera 21: ajuste de imagem;
+Câmera 22: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 23: foi verificada, está funcionando normalmente.",
+303,31822,2026-09-14,11:15,"segunda-feira, setembro 14, 2026 11:15",Luiz Rodrigo,Luiz Rodrigo,36503,Viação Metrópole Iguatemi,Articulado,Nenhuma anomalia identificada,,Nenhuma anomalia identificada,,Nenhuma anomalia identificada,,Nenhuma anomalia identificada,,Nenhuma anomalia identificada,,Nenhuma anomalia identificada,,,,,,,,,,,,,,,NÃO,,"31822 foi verificado todas as câmeras com imagem, gravações e configurações ok",
+304,31862,2026-09-14,10:51,"segunda-feira, setembro 14, 2026 10:51",Luiz Rodrigo,Luiz Rodrigo,34867,Viação Metrópole Iguatemi,Articulado,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera inoperante,Nenhuma ação realizada,"FRONTAL (câm 21), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,"Câmeras 21,24 e 25: ajuste de imagem.
+
+Camera 23: configuração da câmera e cartão SD formatado.
+
+Câmera 26 inoperante ( nescessário a troca)
+
+Camera 22 funcionando normalmente.",
+305,31670,2026-09-14,09:15,"segunda-feira, setembro 14, 2026 09:15",Luiz Rodrigo,Luiz Rodrigo,35878,Viação Metrópole Iguatemi,Padron,Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Ajuste de imagem das câmeras 21, 22 e 23;
+Câmeras funcionando normalmente.",
+306,31955,2026-09-14,08:35,"segunda-feira, setembro 14, 2026 08:35",Luiz Rodrigo,Luiz Rodrigo,34837,Viação Metrópole Iguatemi,Padron,Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,,,,,FRONTAL (câm 21),"FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Ajuste de imagem da cam21;
+Verificado as câmeras 22 e 23, ambas funcionando normalmente.",
+307,32641,2026-09-14,03:11,"segunda-feira, setembro 14, 2026 03:11",Anderson Silva,Anderson Silva,35992,Viação Metrópole AE Carvalho,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Câmera mal reposicionada,Correção e ajuste da configuração da câmera,"Sem gravação de imagens
+Câmera mal reposicionada",Correção e ajuste da configuração da câmera,,,,,,,"FRENTE (câm 22), CORREDOR 1 (câm 23)",CORREDOR 1 (câm 23),,,,0,,,,,,,,SIM,A câmera 23 estava mal posicionada e o cartão de memória está com defeito necessitando trocar.,A câmera 23 estava mal posicionada e o cartão de memória está com defeito necessitando trocar.,
+308,32616,2026-09-14,01:50,"segunda-feira, setembro 14, 2026 01:50",Anderson Silva,Anderson Silva,36133,Viação Metrópole AE Carvalho,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,Normalização da gravação de imagens,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,FRENTE (câm 22),,,,,0,,,,,,,,NÃO,,,
+309,51022,2026-09-14,01:37,"segunda-feira, setembro 14, 2026 01:37",Gustavo Nunes,Gustavo Nunes,30762,Via Sudeste Cursino,Padron,Sem gravação de imagens,"Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória",Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,"Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória",,,,,,,"FRONTAL (câm 21), CORREDOR 1 (câm 23)","FRONTAL (câm 21), CORREDOR 1 (câm 23)",,"Inserção ou substituição do cartão de memória — FRONTAL (câm 21)
+Inserção ou substituição do cartão de memória — CORREDOR 1 (câm 23)",,,,,,,,,,NÃO,,"Formatação SD câmera 21/23
+Reecrimpagem câmera 21",
+310,51061,2026-09-14,01:25,"segunda-feira, setembro 14, 2026 01:25",Gustavo Nunes,Gustavo Nunes,32000,Via Sudeste Cursino,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,,,,,,,,,,,,,,NÃO,,Realizado a troca do switch,
+311,32062,2026-09-14,01:01,"segunda-feira, setembro 14, 2026 01:01",Anderson Silva,Anderson Silva,34985,Viação Metrópole AE Carvalho,Padron,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,1,,,,,,,,NÃO,,Foi trocado o switch pois no mesmo entrou água e oxidou a placa fonte do PoE que ficou em curto circuito.,
+312,32062,2026-09-14,00:33,"segunda-feira, setembro 14, 2026 00:33",Anderson Silva,Anderson Silva,34985,Viação Metrópole AE Carvalho,Padron,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Configuração incorreta da câmera,Correção e ajuste da configuração da câmera,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,1,,,,,,,,NÃO,,"Foi trocado o switch, pois no mesmo entrou água e oxidou a placa fonte do PoE e o deixou em curto circuito.",
+313,31775,2026-09-12,03:27,"sábado, setembro 12, 2026 03:27",Gesnei souza,Gesnei souza,35365,Viação Metrópole Iguatemi,Padron,Nenhuma anomalia identificada,Nenhuma ação realizada,Nenhuma anomalia identificada,Nenhuma ação realizada,Sem gravação de imagens,"Normalização da gravação de imagens
+Reinicialização da câmera",,,,,,,CORREDOR 1 (câm 23),CORREDOR 1 (câm 23),,,,,,,,,,,,NÃO,,Câmera 23 formatada,
+314,32272,2026-09-12,02:13,"sábado, setembro 12, 2026 02:13",Anderson Silva,Anderson Silva,35674,Viação Metrópole AE Carvalho,Padron,"Sem gravação de imagens
+Configuração incorreta da câmera",Nenhuma ação realizada,"Sem gravação de imagens
+Configuração incorreta da câmera",Nenhuma ação realizada,"Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22)",,,,,,,,,,,,NÃO,,"As câmeras 21 e 22 estão sem gravar, eu formatei os cartões de memória e mesmo assim não voltou a gravar, tem que trocar os cartões de memória.",
+315,32039,2026-09-12,00:15,"sábado, setembro 12, 2026 00:15",Anderson Silva,Anderson Silva,35853,Viação Metrópole AE Carvalho,Padron,Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Câmera travada,Câmera encaminhada para manutenção,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",FRENTE (câm 22),,,,,,,,,,,,SIM,FRENTE (câm 22): Câmera encaminhada para manutenção,"Não está sendo possível acessar a câmera 22, foi feito todas as verificações para seu funcionamento e mesmo assim ela não dá acesso e está sem comunicação, cabeamento e conectores ok.
+Recomendo que ela seja levada para manutenção.",
+316,32960,2026-09-11,22:37,"sexta-feira, setembro 11, 2026 22:37",Anderson Silva,Anderson Silva,34973,Viação Metrópole AE Carvalho,Padron,"Câmera travada
+Sem gravação de imagens
+Câmera com sinal de vandalismo","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Câmera travada
+Sem gravação de imagens","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera","Câmera travada
+Sem gravação de imagens","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",FRONTAL (câm 21),,,,,,,,,,,,SIM,É necessário fazer a troca do case da câmera 21 que está com sinais de vandalismo.,É necessário fazer a troca do case da câmera 21 que está com sinais de vandalismo.,
+317,31105,2026-09-11,15:30,"sexta-feira, setembro 11, 2026 15:30",Luiz Rodrigo,Luiz Rodrigo,36078,Viação Metrópole Iguatemi,Articulado,"Sem gravação de imagens
+Câmera mal reposicionada",Reposicionamento adequado da câmera,"Sem gravação de imagens
+Câmera mal reposicionada",Reposicionamento adequado da câmera,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera",Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,"Câmera 21: ajuste de imagem ( nescessário remover o adesivo da frente).
+
+Câmera 22: ajuste de imagem.
+
+Câmera 23: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 24: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 25: ajuste de imagem, configuração e cartão SD formatado.
+
+Obs: As câmeras 21, 22 e 26 apresentam falhas... Sendo nescessário a troca.",
+318,31095,2026-09-11,14:54,"sexta-feira, setembro 11, 2026 14:54",Luiz Rodrigo,Luiz Rodrigo,35639,Viação Metrópole Iguatemi,Articulado,,,,,,,Câmera mal reposicionada,Reposicionamento adequado da câmera,Câmera mal reposicionada,Reposicionamento adequado da câmera,"Câmera inoperante
+Câmera removida por terceiros",Nenhuma ação realizada,"CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,"Ajuste de imagem das câmeras 24 e 25.
+Câmera 26 retirada por terceiros.
+
+As 5 câmeras estão funcionando normalmente.",
+319,31956,2026-09-11,14:09,"sexta-feira, setembro 11, 2026 14:09",Luiz Rodrigo,Luiz Rodrigo,31956,Viação Metrópole Iguatemi,Padron,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Câmera 21: Ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 22: Ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 23: Configuração e cartão SD formatado.",
+320,31484,2026-09-11,12:22,"sexta-feira, setembro 11, 2026 12:22",Luiz Rodrigo,Luiz Rodrigo,35398,Viação Metrópole Iguatemi,Padron,"Switch apresentando falha
+Câmera inoperante
+Câmera travada",,"Câmera inoperante
+Câmera removida por terceiros",Nenhuma ação realizada,"Câmera inoperante
+Câmera travada
+Sem gravação de imagens",Nenhuma ação realizada,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,SIM,Não foi possível configurar a 23 devido às falhas no switch.,"Câmeras 21 com defeito;
+Câmeras 22 retirada por terceiros;
+Câmera 23 com falhas e IP errado;
+
+Não foi possível configurar a 23 devido às falhas no switch.",
+321,31960,2026-09-11,11:43,"sexta-feira, setembro 11, 2026 11:43",Luiz Rodrigo,Luiz Rodrigo,35141,Viação Metrópole Iguatemi,Padron,Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Nenhuma anomalia identificada,Nenhuma ação realizada,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Configuradas e formatado os cartões SD das câmeras 21 e 22;
+
+Camera 23 funcionando normalmente.",
+322,31952,2026-09-11,11:17,"sexta-feira, setembro 11, 2026 11:17",Luiz Rodrigo,Luiz Rodrigo,35687,Viação Metrópole Iguatemi,Padron,Câmera mal reposicionada,Reposicionamento adequado da câmera,Sem gravação de imagens,"Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRENTE (câm 22), CORREDOR 1 (câm 23)",,,,,,,,,,,,NÃO,,"Ajuste de imagem da cam21;
+
+Configuração e cartão SD formatado da câmera 22;
+
+Ajuste de imagem da câmera 23;
+
+Todas as câmeras funcionando normalmente.",
+323,31590,2026-09-11,10:24,"sexta-feira, setembro 11, 2026 10:24",Luiz Rodrigo,Luiz Rodrigo,34777,Viação Metrópole Iguatemi,Articulado,"Câmera mal reposicionada
+Configuração incorreta da câmera","Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Câmera mal reposicionada
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera",Câmera inoperante,Nenhuma ação realizada,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23), CORREDOR 2 (câm 24), CORREDOR 3 (câm 25), CORREDOR 4 (câm 26)",,,,,,,,,,,,NÃO,,"Câmera 21:  Ajuste de imagem e configuração, porém será nescessário a troca da câmera que apresenta instabilidade.
+
+Câmera 22: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 23: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 24: ajuste de imagem, configuração e cartão SD formatado.
+
+Câmera 25: inoperante, nescessário a troca.
+
+Câmera 26: ajuste de imagem, configuração e cartão SD formatado.",
+324,31005,2026-09-11,09:02,"sexta-feira, setembro 11, 2026 09:02",Luiz Rodrigo,Luiz Rodrigo,35386,Viação Metrópole Iguatemi,Padron,"Sem gravação de imagens
+Câmera mal reposicionada","Normalização da gravação de imagens
+Inserção ou substituição do cartão de memória
+Reposicionamento adequado da câmera
+Correção e ajuste da configuração da câmera","Sem gravação de imagens
+Configuração incorreta da câmera","Normalização da gravação de imagens
+Correção e ajuste da configuração da câmera",Câmera mal reposicionada,Reposicionamento adequado da câmera,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)","FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 1 (câm 23)",,Inserção ou substituição do cartão de memória — FRONTAL (câm 21),,,1,,,,,,,NÃO,,"Ajuste de imagem das câmeras 21 e 23;
+Troca do cartão SD da câmera 21;
+Configuração da câmera 21;
+Configuração da câmera 22 e cartão SD formatado.
+
+Todas as câmeras funcionando normalmente.",
+325,31093,2026-09-11,03:08,"sexta-feira, setembro 11, 2026 03:08",Gesnei souza,Gesnei souza,34956,Viação Metrópole Iguatemi,Articulado,,,,,,,,,,,,,,"FRONTAL (câm 21), FRENTE (câm 22), CORREDOR 3 (câm 25)",,,,,,,,,,,,NÃO,,Trocar os2 Switch em curto saída das câmeras 21 22 25 não tem pra trocar,

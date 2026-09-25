@@ -1,0 +1,1027 @@
+Tecnologia                                                  Articulado  Básico  Midi  Mini  Padron
+pos_preenchidas                                                                                   
+                                                                    71       0     0     0      17
+Corredor 1                                                           0       0     0     0       4
+Corredor 2                                                           3       0     0     0       0
+Corredor 2,Corredor 3,Corredor 4                                     1       0     0     0       0
+Corredor 3                                                           1       0     0     0       0
+Corredor 3,Corredor 4                                                2       0     0     0       0
+Corredor 4                                                           1       0     0     0       0
+Frente                                                              16       0     0     0      27
+Frente,Corredor 1                                                    1       0     0     0       7
+Frente,Corredor 2                                                    1       0     0     0       0
+Frontal                                                              6       0     1     1       4
+Frontal,Corredor 1,Corredor 2                                        1       0     0     0       0
+Frontal,Corredor 1,Corredor 2,Corredor 3,Corredor 4                  1       0     0     0       0
+Frontal,Corredor 2,Corredor 3,Corredor 4                             1       0     0     0       0
+Frontal,Frente                                                       4       1    10     0       7
+Frontal,Frente,Corredor 1                                            0       0     0     0      69
+Frontal,Frente,Corredor 1,Corredor 2,Corredor 3                      2       0     0     0       0
+Frontal,Frente,Corredor 1,Corredor 2,Corredor 3,Corredor 4          61       0     0     0       0
+Frontal,Frente,Corredor 1,Corredor 3                                 1       0     0     0       0
+Frontal,Frente,Corredor 2,Corredor 3,Corredor 4                      2       0     0     0       0
+
+registros com Observações citando câmera 21-26: 143
+--------------------------------------------------------------------------------
+linha 2 | prefixo 73381 | Padron | CFTV cams reais últ. dia: ['OFF', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera inoperante\nCabeamento rompido/danificado' -> 'Substituição da câmera defeituosa\nSubstituição do cabeamento\nAtivação da câmera'
+  OBS: 'Anomalias \nCamera 21 inoperante \n\nReparos \n\nSubstituído Cabeamento  UTP  e a Camera 21  \n\nNúmero de série câmera instalada \n210235UDL5F247002849\nMAC  E4F14C780CBE\n\nRETIRADA \n\n210A235UGNJ324A003395\nMAC E4F14C7F1524'
+--------------------------------------------------------------------------------
+linha 3 | prefixo 52714 | Articulado | CFTV cams reais últ. dia: ['OK', 'ERR', 'OK', 'ERR', 'OK', 'OK']
+  citadas: ['22', '24'] | posições com problema: ['Frente', 'Corredor 2']
+    Frente: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+    Corredor 2: 'Câmera inoperante' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nSubstituição da câmera defeituosa'
+  OBS: 'Troca SD câmera 22 \nTroca da câmera 24'
+--------------------------------------------------------------------------------
+linha 12 | prefixo 52907 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'ERR', 'ERR', 'OK', 'OFF']
+  citadas: ['21', '22', '24', '26'] | posições com problema: ['Corredor 1', 'Corredor 2', 'Corredor 4']
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 2: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 4: 'Sem gravação de imagens\nCabeamento rompido/danificado' -> 'Normalização da gravação de imagens\nSubstituição do cabeamento\nCrimpagem correta do conector RJ45\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Foi feito posto uma emenda no cabo da câmera 26 que estava rompido dentro da sanfona do articulado. As câmeras 21, 22 e 24 foram reconfiguradas e seus cartões SD formatados.'
+--------------------------------------------------------------------------------
+linha 14 | prefixo 73642 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OFF']
+  citadas: ['26'] | posições com problema: ['Corredor 4']
+    Corredor 4: 'Câmera inoperante\nCabeamento rompido/danificado' -> 'Reinicialização da câmera\nReparo do cabeamento\nCorreção e ajuste da configuração da câmera\nAtivação da câmera'
+  OBS: 'ANOMALIAS\n\nCAMERA 26 INOPERANTE\n\nREPAROS\n\nCAMERA 26  FEITO REPARO DO CABEAMENTO UTP DENTRO DA ARTICULAÇAO'
+--------------------------------------------------------------------------------
+linha 15 | prefixo 52767 | Articulado | CFTV cams reais últ. dia: ['ERR', 'ERR', 'OK', 'ERR', 'OK', 'ERR']
+  citadas: ['21', '22', '24', '26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 2', 'Corredor 4']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+    Frente: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+    Corredor 2: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+    Corredor 4: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+  OBS: 'Foi colocado cartão SD nas câmeras 21, 22, 24 e 26.'
+--------------------------------------------------------------------------------
+linha 16 | prefixo 31758 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Ajuste de imagem, configuração e cartão SD formatado da câmera 21;\n\nConfiguração e cartão SD formatado das câmeras 22 e 23.'
+--------------------------------------------------------------------------------
+linha 17 | prefixo 31761 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente']
+    Frontal: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Câmera inoperante\nSem gravação de imagens\nConexões do switch incorretas' -> 'Normalização da gravação de imagens\nReinicialização da câmera\nCorreção da falha no switch\nCorreção das conexões do switch\nCorreção e ajuste da configuração da câmera\nAtivação da câmera'
+  OBS: 'Câmera 21: Ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 22: Estava com problema na conexão entre o poe do switch, foi feito a ligação, configuração e cartão SD formatado.\n\nCâmera 23: funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 18 | prefixo 31635 | Padron | CFTV cams reais últ. dia: ['ERR', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+    Frente: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Configuração e cartão SD formatado da câmera 21;\n\nAjuste de imagem da câmera 22;\n\nObs: Trocar o Cartão SD da Cam22; \n\nCâmera 23: funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 19 | prefixo 73219 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Câmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Reposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 1: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+  OBS: 'Anomalias \n\nCameras 21  22  e  23  configuradas incorretamente \nCamera 21 mal posicionada \n\nReparos \n\nCamera  21  reposicionada \nTodas câmeras estão ativas foram desconfiguradas para o padrão Noxxon e gravação está ativa'
+--------------------------------------------------------------------------------
+linha 22 | prefixo 73612 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '25'] | posições com problema: ['Frontal', 'Corredor 3']
+    Frontal: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 3: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Anomalias \nCameras 21 e 25 mal posicionadas \n\nCorreções \n\nCameras 21 e 25  reposicionados'
+--------------------------------------------------------------------------------
+linha 32 | prefixo 31652 | Padron | CFTV cams reais últ. dia: ['OK', 'ERR', 'OK', '-', '-', '-']
+  citadas: ['21', '22'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+  OBS: 'Câmeras 21 e 22 trocado cartão de memória'
+--------------------------------------------------------------------------------
+linha 33 | prefixo 73776 | Articulado | CFTV cams reais últ. dia: ['OFF', 'OK', 'ERR', 'OK', 'ERR', 'ERR']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera inoperante\nSem gravação de imagens\nCabeamento rompido/danificado\nRJ45 crimpado incorretamente\nConfiguração incorreta da câmera\nCâmera desligada manualmente' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nReposicionamento adequado da câmera\nReparo do cabeamento\nCorreção e ajuste da configuração da câmera'
+  OBS: '• 73776\n• Realizado o reparo no cabo da camera 21.\n• Realizado a configuração da câmera HORA/DATA.\n• Realizado o teste de gravação, camera gravando normalmente.'
+--------------------------------------------------------------------------------
+linha 37 | prefixo 73796 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera inoperante\nSem gravação de imagens\nCabeamento rompido/danificado\nRJ45 crimpado incorretamente\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nCrimpagem correta do conector RJ45\nCorreção e ajuste da configuração da câmera'
+  OBS: '• 73796\n• Realizado a recrimpagem do RJ da câmera 21.\n• Realizado a inserção de um novo cartão SD na mesma.\n• Realizado a configuração da câmera HORA/DATA.\n• Realizado o teste de gravação, camera gravando normalmente.'
+--------------------------------------------------------------------------------
+linha 38 | prefixo 31751 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Configuração incorreta da câmera\nCâmera com sinal de vandalismo' -> 'Correção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+  OBS: 'Câmera 21 sem a capa de proteção, câmera 22 feira a troca do cartão de memória, gravação da câmera ok'
+--------------------------------------------------------------------------------
+linha 40 | prefixo 52748 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '22'] | posições com problema: ['Frontal', 'Frente']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+    Frente: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+  OBS: 'Câmera 21 e 22 foram formadas SD'
+--------------------------------------------------------------------------------
+linha 41 | prefixo 51004 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22'] | posições com problema: ['Frontal', 'Frente']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+    Frente: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+  OBS: 'Câmera 21 e 22 estavam sem cartão SD.\n\nFORAM INSERIDOS NOVOS CARTÕES'
+--------------------------------------------------------------------------------
+linha 42 | prefixo 51574 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['26'] | posições com problema: ['Corredor 4']
+    Corredor 4: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+  OBS: 'Formatação SD câmera 26'
+--------------------------------------------------------------------------------
+linha 45 | prefixo 31651 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Sem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Troca do cartão SD da câmera 21'
+--------------------------------------------------------------------------------
+linha 53 | prefixo 52752 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['22', '26'] | posições com problema: ['Frente', 'Corredor 4']
+    Frente: 'Câmera travada' -> 'Câmera encaminhada para manutenção'
+    Corredor 4: 'Cabeamento rompido/danificado' -> 'Substituição do cabeamento'
+  OBS: 'Foi feito a troca da cam 22 e do cabo da câmera 26'
+--------------------------------------------------------------------------------
+linha 54 | prefixo 52828 | Articulado | CFTV cams reais últ. dia: ['ERR', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '22'] | posições com problema: ['Frontal', 'Frente']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+    Frente: 'RJ45 crimpado incorretamente' -> 'Crimpagem correta do conector RJ45'
+  OBS: 'Formatação SD câmera 21 \nCrimpagem câmera 22'
+--------------------------------------------------------------------------------
+linha 55 | prefixo 52868 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OFF']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+  OBS: 'Formatação SD câmera 21'
+--------------------------------------------------------------------------------
+linha 57 | prefixo 52752 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['22', '26'] | posições com problema: ['Frente', 'Corredor 4']
+    Frente: 'Sem gravação de imagens' -> 'Nenhuma ação realizada'
+    Corredor 4: 'Cabeamento rompido/danificado' -> 'Nenhuma ação realizada'
+  OBS: 'Cabo da câmera 26 está rompido dentro da canaleta que desce para a sanfona do articulado e a câmera 22 não está gravando, troquei o SD mesmo assim não gravou.\nNão foi possível trocar a câmera 22, o motorista entrou no ônibus enquanto eu estava indo buscar a câmera na elétrica.\nVou trazer a fibra para passar o cabo para sanfona e deixar a câmera 26 funcionando.'
+--------------------------------------------------------------------------------
+linha 58 | prefixo 31750 | Padron | CFTV cams reais últ. dia: ['ERR', 'OK', 'ERR', '-', '-', '-']
+  citadas: ['22', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+  OBS: 'Câmeras 22 e 23 cartão de memória desativado , solícito um novo para troca z câmeras sem gravação de imagem'
+--------------------------------------------------------------------------------
+linha 59 | prefixo 61350 | Articulado | CFTV cams reais últ. dia: ['ERR', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera removida por terceiros\nCâmera sem cartão de memória' -> 'Fixação adequada da câmera\nCorreção e ajuste da configuração da câmera\nAtivação da câmera\nInstalação da câmera removida'
+  OBS: 'Ônibus estava sem a câmera 21, foi colocado uma nova câmera no local e configurado, câmera falta colocar um cartão sd.'
+--------------------------------------------------------------------------------
+linha 60 | prefixo 31738 | Padron | CFTV cams reais últ. dia: ['ERR', 'OK', 'OK', '-', '-', '-']
+  citadas: ['22'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Câmera 22 está com cartão de memória desativado solícito um novo para colocar a câmera 22  com gravação de imagem'
+--------------------------------------------------------------------------------
+linha 65 | prefixo 52139 | Articulado | CFTV cams reais últ. dia: ['OFF', 'OK', 'OK', 'OFF', 'OK', 'OK']
+  citadas: ['21', '24'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Switch apresentando falha' -> 'Nenhuma ação realizada'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 2: 'Switch apresentando falha' -> 'Nenhuma ação realizada'
+    Corredor 3: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 4: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Trocar o switch onde estão as câmeras 21 e 24, 3 dos PoE estão com os cabos rompidos na placa fonte'
+--------------------------------------------------------------------------------
+linha 71 | prefixo 31795 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'ERR', '-', '-', '-']
+  citadas: ['23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+  OBS: 'Câmara 23 cartão de memória apresentando falha , não foi possível deixar câmera 23 gravando'
+--------------------------------------------------------------------------------
+linha 72 | prefixo 31753 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera'
+  OBS: 'Troca do cartão de memória da câmera 21'
+--------------------------------------------------------------------------------
+linha 74 | prefixo 31656 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+    Frente: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+    Corredor 1: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+  OBS: 'Camera 21 configurada e formada'
+--------------------------------------------------------------------------------
+linha 77 | prefixo 52782 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['25'] | posições com problema: []
+  OBS: 'Formatação câmera 25, e feito a crimpagem da mesma'
+--------------------------------------------------------------------------------
+linha 80 | prefixo 31157 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens\nRJ45 crimpado incorretamente\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCrimpagem correta do conector RJ45\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Nenhuma ação realizada'
+  OBS: 'Câmera 23 24 25 & 26 \nNão foi possível acessar as condições, porém as câmeras seguem gravando e operando normalmente'
+--------------------------------------------------------------------------------
+linha 83 | prefixo 73840 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'ERR', 'OK']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera inoperante\nSem gravação de imagens\nCabeamento rompido/danificado\nRJ45 crimpado incorretamente\nCâmera não fixada corretamente\nCâmera removida por terceiros\nCâmera sem cartão de memória\nCâmera com infiltração' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nSubstituição da câmera defeituosa\nReinicialização da câmera\nReposicionamento adequado da câmera\nFixação adequada da câmera\nReparo do cabeamento\nCrimpagem correta do conector RJ45\nCorreção e ajuste da configuração da câmera\nAtivação da câmera'
+  OBS: '• 73840\n• Realizado a instalação da câmera 21 frontal.\n• Realizado a inserção de um novo cartão SD.\n• Realizado a configuração da HORA/DATA/REALIZADO TESTE DE GRAVAÇÃO.\n• Câmeras operando normalmente.'
+--------------------------------------------------------------------------------
+linha 84 | prefixo 73864 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OFF']
+  citadas: ['25', '26'] | posições com problema: ['Corredor 3', 'Corredor 4']
+    Corredor 3: 'Câmera inoperante\nSem gravação de imagens' -> 'Normalização da gravação de imagens\nSubstituição da câmera defeituosa\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 4: 'Câmera inoperante\nSem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nSubstituição da câmera defeituosa\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+  OBS: '• 73864\n• Realizado a troca das câmeras 25 e 26.\n• Realizado a configuração da HORA/DATA/REALIZADO TESTE DE GRAVAÇÃO.\n• Câmeras operando normalmente.'
+--------------------------------------------------------------------------------
+linha 85 | prefixo 61651 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '25'] | posições com problema: ['Frontal', 'Corredor 3']
+    Frontal: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 3: 'Cabeamento rompido/danificado' -> 'Reparo do cabeamento\nCrimpagem correta do conector RJ45'
+  OBS: 'Ajustado posição da câmera 21 conforme pedido pela garagem e feito reparo no cabo da câmera 25   que estava rompido dentro da sanfona.'
+--------------------------------------------------------------------------------
+linha 87 | prefixo 73775 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'ERR', 'OK', 'OK']
+  citadas: ['25', '26'] | posições com problema: ['Corredor 3', 'Corredor 4']
+    Corredor 3: 'Câmera inoperante\nSem gravação de imagens\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nSubstituição da câmera defeituosa\nReposicionamento adequado da câmera\nFixação adequada da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 4: 'Câmera inoperante\nSem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nSubstituição da câmera defeituosa\nReinicialização da câmera\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+  OBS: '• 73775\n• Realizado a troca das câmeras 25 e 26.\n• Realizado a inserção de um novo cartão SD nas câmeras 25 e 26.\n• Realizado a configuração da HORA/DATA/REALIZADO TESTE DE GRAVAÇÃO.\n• Câmeras operando normalmente.'
+--------------------------------------------------------------------------------
+linha 88 | prefixo 52734 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'ERR', 'OK', 'ERR']
+  citadas: ['26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 2: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 3: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 4: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+  OBS: 'É necessário trocar o cartão SD da câmera 26'
+--------------------------------------------------------------------------------
+linha 89 | prefixo 61589 | Articulado | CFTV cams reais últ. dia: ['ERR', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['22'] | posições com problema: ['Frente']
+    Frente: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Ajustado posição da câmera 22 conforme pedido pela garagem.'
+--------------------------------------------------------------------------------
+linha 91 | prefixo 52133 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OFF']
+  citadas: ['26'] | posições com problema: []
+  OBS: 'PENDENTE \n\nNecessário trocar SD câmera 26, necessário reposição de cartões'
+--------------------------------------------------------------------------------
+linha 95 | prefixo 61295 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['23'] | posições com problema: ['Corredor 1']
+    Corredor 1: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Ajustado posição da câmera 23 conforme pedido pela garagem.'
+--------------------------------------------------------------------------------
+linha 96 | prefixo 61284 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Ajustado posição da câmera 21 conforme pedido pela garagem.'
+--------------------------------------------------------------------------------
+linha 97 | prefixo 31003 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frente', 'Corredor 1']
+    Frente: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Câmeras 22 e 23: Configuração e cartão SD formatados.\n\nFoi verificado a câmera 21, funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 98 | prefixo 31667 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frente']
+    Frente: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Ajuste de imagem da câmera 22;\n\nFoi verificado as câmeras 21 e 23, ambas funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 99 | prefixo 31859 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '22', '23', '24', '25', '26'] | posições com problema: ['Frontal', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 2: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 3: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 4: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Câmeras 21, 24, 25 e 26: Configuração e cartão SD formatado.\n\nFoi verificado as câmeras 22 e 23 ambas funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 100 | prefixo 31673 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Câmera 21: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 22: configuração e cartão SD formatado.\n\nCâmera 23: configuração e cartão SD formatado.'
+--------------------------------------------------------------------------------
+linha 101 | prefixo 31245 | Articulado | CFTV cams reais últ. dia: ['OFF', 'OFF', 'OFF', 'OFF', 'OFF', 'OFF']
+  citadas: ['21', '22', '23', '24', '25', '26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Câmera com infiltração' -> 'Nenhuma ação realizada'
+    Frente: 'Switch apresentando falha\nCâmera inoperante' -> 'Nenhuma ação realizada'
+    Corredor 1: 'Switch apresentando falha\nCâmera inoperante' -> 'Correção da falha no switch\nCorreção na conexão dos cabos\nAtivação da câmera'
+    Corredor 2: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 3: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 4: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção das conexões do switch\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Câmera 21: infiltração ( carro com infiltração na parte da frente)\n\nCâmera 22: inoperante ( nescessário a troca do switch)\n\nCâmera 23: instabilidade ( nescessário a troca da câmera)\n\nCâmera 24: configuração e cartão SD formatado.\n\nCâmera 25: configuração e cartão SD formatado.\n\nCâmera 26: configuração e cartão SD formatado.'
+--------------------------------------------------------------------------------
+linha 102 | prefixo 31014 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '22', '23', '24', '25', '26'] | posições com problema: ['Frontal', 'Corredor 1', 'Corredor 2']
+    Frontal: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 1: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 2: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Ajuste de imagem das câmeras 21, 23 e 24;\n\nFoi verificado as câmeras 22,25 e 26 ( imagem, configuração e gravação), todas estão funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 103 | prefixo 61070 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OFF']
+  citadas: ['26'] | posições com problema: ['Corredor 4']
+    Corredor 4: 'Cabeamento rompido/danificado' -> 'Reparo do cabeamento'
+  OBS: 'Feito reparo no cabo da câmera 26 que estava rompido dentro da sanfona.'
+--------------------------------------------------------------------------------
+linha 104 | prefixo 61311 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['23'] | posições com problema: []
+  OBS: 'Câmera 23 está com o áudio danificado, feito os ajustes na câmera e mesmo assim não tem áudio.'
+--------------------------------------------------------------------------------
+linha 105 | prefixo 61793 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OFF', 'OK', 'OK', 'OFF']
+  citadas: ['23'] | posições com problema: ['Frente', 'Corredor 1', 'Corredor 4']
+    Frente: 'Conexões do switch incorretas' -> 'Correção na conexão dos cabos'
+    Corredor 1: 'Câmera inoperante\nCâmera com infiltração' -> 'Nenhuma ação realizada'
+    Corredor 4: 'Conexões do switch incorretas' -> 'Correção na conexão dos cabos'
+  OBS: 'Necessário a substituição da câmera 23, com o filtração.'
+--------------------------------------------------------------------------------
+linha 106 | prefixo 61766 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['26'] | posições com problema: ['Corredor 4']
+    Corredor 4: 'Cabeamento rompido/danificado' -> 'Reparo do cabeamento\nCrimpagem correta do conector RJ45'
+  OBS: 'Feito reparo no cabo da câmera 26 que estava rompido dentro da sanfona.'
+--------------------------------------------------------------------------------
+linha 113 | prefixo 11884 | Padron | CFTV cams reais últ. dia: ['OK', 'OFF', 'OK', '-', '-', '-']
+  citadas: ['22'] | posições com problema: ['Frontal', 'Frente']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+    Frente: 'Câmera inoperante' -> 'Nenhuma ação realizada'
+  OBS: 'Câmera 22 com IP 100, foi feito tentativa de troca de IP porém não responde.\n\nSerá nescessário fazer troca da câmera.'
+--------------------------------------------------------------------------------
+linha 117 | prefixo 11755 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['22'] | posições com problema: ['Frente']
+    Frente: 'Câmera inoperante' -> 'Nenhuma ação realizada'
+  OBS: 'Câmera 22 não liga, aguardando chegar câmera para substituição.'
+--------------------------------------------------------------------------------
+linha 124 | prefixo 31136 | Articulado | CFTV cams reais últ. dia: ['OK', 'ERR', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['22'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Correção e ajuste da configuração da câmera\nNenhuma ação realizada'
+    Corredor 1: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 2: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 3: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 4: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+  OBS: 'Câmera 22 sem cartão SD'
+--------------------------------------------------------------------------------
+linha 126 | prefixo 31165 | Articulado | CFTV cams reais últ. dia: ['ERR', 'ERR', 'OK', 'ERR', 'OK', 'OK']
+  citadas: ['21'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Sem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Correção e ajuste da configuração da câmera\nNenhuma ação realizada'
+    Frente: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 1: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 2: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 3: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 4: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+  OBS: 'Câmera 21 sem cartão de me solicito cartão SD'
+--------------------------------------------------------------------------------
+linha 127 | prefixo 61273 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['23'] | posições com problema: ['Corredor 1']
+    Corredor 1: 'Sem gravação de imagens\nCâmera com infiltração' -> 'Nenhuma ação realizada'
+  OBS: 'Câmera 23 não está reconhecendo o cartão sd, com sinal de infiltração.\nNecessário a substituição.'
+--------------------------------------------------------------------------------
+linha 128 | prefixo 61282 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'ERR', '-', '-', '-']
+  citadas: ['23'] | posições com problema: ['Corredor 1']
+    Corredor 1: 'Sem gravação de imagens\nCâmera sem cartão de memória\nCâmera com infiltração' -> 'Inserção ou substituição do cartão de memória'
+  OBS: 'Slot de cartão da câmera 23 não está funcionando, coloquei um novo cartão sd e não reconhece, necessário a substituição da câmera.'
+--------------------------------------------------------------------------------
+linha 129 | prefixo 61587 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Feito Reposicionamento da câmera 21 conforme pedido pela garagem.'
+--------------------------------------------------------------------------------
+linha 132 | prefixo 61414 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Feito Reposicionamento da câmera 21 conforme pedido pela garagem.'
+--------------------------------------------------------------------------------
+linha 141 | prefixo 61654 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '22'] | posições com problema: ['Frontal', 'Frente']
+    Frontal: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Frente: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Relacionamento adequado das câmeras 21 e 22 conforme pedido pela garantia.'
+--------------------------------------------------------------------------------
+linha 142 | prefixo 31094 | Articulado | CFTV cams reais últ. dia: ['OFF', 'OFF', 'OFF', 'OFF', 'OFF', 'OFF']
+  citadas: ['21', '22', '23', '24', '25', '26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 3']
+    Frontal: 'Câmera inoperante\nSem gravação de imagens\nCabeamento rompido/danificado\nFalha na conexão dos cabos\nCâmera mal reposicionada\nConfiguração incorreta da câmera\nCâmera desligada manualmente' -> 'Reposicionamento adequado da câmera\nCorreção na conexão dos cabos\nReparo do cabeamento\nCrimpagem correta do conector RJ45\nCorreção das conexões do switch\nAtivação da câmera'
+    Frente: 'Sem gravação de imagens' -> 'Reinicialização da câmera'
+    Corredor 1: 'Sem gravação de imagens\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 3: 'Câmera inoperante\nSem gravação de imagens\nFalha na conexão dos cabos\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção na conexão dos cabos\nCorreção e ajuste da configuração da câmera\nAtivação da câmera'
+  OBS: 'Câmera 21: reparo no cabo de rede, crimpagem do RJ 45, reposicionamento dos cabos e ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 22: com defeito, falhando nas gravações. ( Nescessário a troca)\n\nCâmera 23: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 24: inoperante ( nescessário a troca de switch)\n\nCâmera 25: ativação da câmera, ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 26: inoperante ( nescessário a troca de switch)\n\n\nObs: Switch das câmeras 24 e 26 queimado.\nCâmeras 21 e 22 nescessário a troca pois está oscilando as gravações.'
+--------------------------------------------------------------------------------
+linha 143 | prefixo 31771 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Ajuste de imagem da cam21.\n\nVerificado as câmeras 22 e 23 ( imagem, configuração e gravação) funcionando normalmente.\n\nObs: O adesivo no vidro dianteiro está bem na frente da câmera 21, dificultando a visibilidade.'
+--------------------------------------------------------------------------------
+linha 144 | prefixo 31262 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OFF', 'OK', 'OK']
+  citadas: ['24'] | posições com problema: ['Corredor 2']
+    Corredor 2: 'Câmera inoperante\nCâmera travada' -> 'Reinicialização da câmera'
+  OBS: 'Câmera 24 travada ( nescessário a troca).\n\nFoi verificado as demais câmeras, todas funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 145 | prefixo 31664 | Padron | CFTV cams reais últ. dia: ['OFF', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente']
+    Frontal: 'Câmera inoperante\nFalha na conexão dos cabos' -> 'Nenhuma ação realizada'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Camera 21 em curto ( nescessário a troca)\n\nCâmera 22: configuração e cartão SD formatado.\n\nCâmera 23: funcionando normalmente'
+--------------------------------------------------------------------------------
+linha 146 | prefixo 31823 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '22', '23', '24', '25', '26'] | posições com problema: ['Frente']
+    Frente: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Ajuste de imagem da câmera 22;\nForam verificadas as câmeras 21, 23, 24, 25 e 26 ( imagem, configuração, gravação), todas estão funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 147 | prefixo 31593 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '22', '23', '24', '25', '26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Sem gravação de imagens\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 2: 'Sem gravação de imagens\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 3: 'Sem gravação de imagens\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 4: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: '31593\n\nId :35370\n\nCâmera 21: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 22: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 23: configuração e cartão SD formatado.\n\nCâmera 24: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 25: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 26: configuração e cartão SD formatado.'
+--------------------------------------------------------------------------------
+linha 148 | prefixo 31670 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: []
+  OBS: 'Verificado as câmeras 21, 22 e 23 ( imagem, configuração e gravação), tudo funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 150 | prefixo 31661 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frente']
+    Frente: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Ajuste de imagem da câmera 22.\n\nFoi verificado as câmeras 21 e 23 ambas funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 151 | prefixo 31950 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Câmera 21: configuração e cartão SD formatado.\n\nCâmera 22: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 23: ajuste de imagem.'
+--------------------------------------------------------------------------------
+linha 153 | prefixo 31205 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OFF', 'OFF']
+  citadas: ['25', '26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 2: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 3: 'Sem gravação de imagens\nCabeamento rompido/danificado\nFalha na conexão dos cabos' -> 'Nenhuma ação realizada'
+    Corredor 4: 'Sem gravação de imagens\nCabeamento rompido/danificado\nFalha na conexão dos cabos' -> 'Nenhuma ação realizada'
+  OBS: 'Cabo de rede câmera 25 e 26 rompidos na articulação'
+--------------------------------------------------------------------------------
+linha 154 | prefixo 68657 | Midi | CFTV cams reais últ. dia: ['OFF', 'OK', 'VAZIO', 'VAZIO', 'VAZIO', 'VAZIO']
+  citadas: ['21', '22'] | posições com problema: ['Frontal', 'Frente']
+    Frontal: 'Câmera inoperante\nCâmera travada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Câmera inoperante\nRJ45 crimpado incorretamente\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Nenhuma ação realizada'
+  OBS: '68657 - 36575 - 2 câmeras, as duas estão alimentadas, câmera 21 estava com o ip 22 e câmera 22 não consegui acessar. Vou checar a crimpagem. 21 gravando normalmente.'
+--------------------------------------------------------------------------------
+linha 156 | prefixo 73357 | Padron | CFTV cams reais últ. dia: ['OFF', 'OFF', 'OFF', '-', '-', '-']
+  citadas: ['21', '22'] | posições com problema: ['Frontal', 'Frente']
+    Frontal: 'Câmera inoperante\nCabeamento rompido/danificado' -> 'Substituição da câmera defeituosa\nSubstituição do cabeamento\nAtivação da câmera'
+    Frente: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Anomalias \nCamera 21 inativa \nCameras  22 mal posicionadas \n\nReparos \n\nCameras 22   reposicionadas\n\nCamera 21  substituída câmera e cabeamento\n\nNúmero de  série instalada \n\n210235UDL5F247000393\nMAC E4F14C743090\n\nRETIRADA\n210235UGNJ324A000750\nMAC  E4F14C7F0ACF'
+--------------------------------------------------------------------------------
+linha 158 | prefixo 31204 | Articulado | CFTV cams reais últ. dia: ['ERR', 'OK', 'OK', 'OK', 'OK', 'ERR']
+  citadas: ['22', '26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nCâmera sem cartão de memória' -> 'Nenhuma ação realizada'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 2: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 3: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 4: 'Sem gravação de imagens\nCâmera sem cartão de memória' -> 'Nenhuma ação realizada'
+  OBS: 'Câmeras 22 e 26 sem cartão SD'
+--------------------------------------------------------------------------------
+linha 167 | prefixo 31180 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'ERR', 'OK', 'OFF']
+  citadas: ['26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 2: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 3: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 4: 'Câmera inoperante\nSem gravação de imagens\nCâmera com sinal de vandalismo' -> 'Nenhuma ação realizada'
+  OBS: 'Obs: câmera 26 inoperante, conector da câmera está quebrado precisa de uma nova câmera'
+--------------------------------------------------------------------------------
+linha 179 | prefixo 32091 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '23'] | posições com problema: ['Frontal', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+    Corredor 1: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Câmera 21  cartão formatado, voltou a gravar.\nCâmera 23 realizado posicionamento adequado.\nSwitch fixado.'
+--------------------------------------------------------------------------------
+linha 187 | prefixo 31972 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'ERR', 'OK']
+  citadas: ['21', '24', '25'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3']
+    Frontal: 'Sem gravação de imagens\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+    Frente: 'Sem gravação de imagens\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+    Corredor 1: 'Sem gravação de imagens\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+    Corredor 2: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+    Corredor 3: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+  OBS: 'Câmeras 21 22 e 23 estavam sem cartão de memória. Realizado a inserção dos cartões e ajustes nas configurações.\nCâmeras 24 e 25 sem histórico de gravações, após formatação voltaram a gravar novamente.\nConfigurações verificadas e realizado testes de gravações. \nCâmeras ok.'
+--------------------------------------------------------------------------------
+linha 190 | prefixo 61571 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Falha na conexão dos cabos\nConexões do switch incorretas\nCâmera mal reposicionada' -> 'Reposicionamento adequado da câmera\nCorreção da falha no switch\nCorreção na conexão dos cabos'
+    Frente: 'Falha na conexão dos cabos\nConexões do switch incorretas' -> 'Correção na conexão dos cabos\nCorreção das conexões do switch'
+    Corredor 1: 'Falha na conexão dos cabos\nConexões do switch incorretas' -> 'Correção na conexão dos cabos\nCorreção das conexões do switch'
+    Corredor 2: 'Falha na conexão dos cabos\nConexões do switch incorretas' -> 'Correção na conexão dos cabos\nCorreção das conexões do switch'
+    Corredor 3: 'Falha na conexão dos cabos\nConexões do switch incorretas' -> 'Correção na conexão dos cabos\nCorreção das conexões do switch'
+    Corredor 4: 'Cabeamento rompido/danificado\nFalha na conexão dos cabos\nConexões do switch incorretas' -> 'Correção na conexão dos cabos\nReparo do cabeamento\nCorreção das conexões do switch'
+  OBS: 'Feito reparo no cabeamento da câmera 26, reposicionamento da câmera 21, organização dos cabos e feito a ligação correta dos cabos do switch que estava toda errada'
+--------------------------------------------------------------------------------
+linha 192 | prefixo 32129 | Básico | CFTV cams reais últ. dia: ['OK', 'OK', '-', '-', '-', '-']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+  OBS: 'Câmera 21 sem histórico de gravações. Identificado erro no cartão SD e realizado a substituição.\nApós ajustes, todas as câmeras voltaram a gravar normalmente.'
+--------------------------------------------------------------------------------
+linha 193 | prefixo 73203 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Câmera inoperante\nCabeamento rompido/danificado' -> 'Substituição da câmera defeituosa\nSubstituição do cabeamento\nAtivação da câmera'
+    Frente: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 1: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Anomalias \nCamera 21 inativa \nCameras  22 e  23 mal posicionadas \n\nReparos \n\nCameras 22 e  23  reposicionadas\n\nCamera 21  substituída câmera e cabeamento\n\nNúmero de  série instalada \n\nH;A0\n210235UDL5\nF247004359\nMAC E4F14C7827B2\n\nRETIRADA\nHB20\n210235UGNJ\n324A004830\nMAC  E4F14C7F1ABF'
+--------------------------------------------------------------------------------
+linha 202 | prefixo 31951 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Câmera inoperante\nSem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção na conexão dos cabos\nCorreção e ajuste da configuração da câmera\nAtivação da câmera'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Câmera 21: Reparo nos cabos de rede, ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 22: Configuração e cartão SD formatado.\n\nCâmera 23: Configuração e cartão SD formatado.'
+--------------------------------------------------------------------------------
+linha 203 | prefixo 31486 | Padron | CFTV cams reais últ. dia: ['OK', 'OFF', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Corredor 1']
+    Frontal: 'Câmera inoperante\nSem gravação de imagens\nCâmera com infiltração' -> 'Nenhuma ação realizada'
+    Corredor 1: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Câmera 21: com infiltração ( aguardando reparo no carro, para ser feito a troca).\n\nCâmera 22: funcionando normalmente.\n\nCâmera 23: Configuração e cartão SD formatado;'
+--------------------------------------------------------------------------------
+linha 204 | prefixo 31622 | Padron | CFTV cams reais últ. dia: ['OK', 'ERR', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frente']
+    Frente: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Cam22: Ajuste de imagem, configuração e cartão SD formatado.\n\nCâmeras 21 e 23 foram verificadas e estão funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 205 | prefixo 31100 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '22', '24', '25', '26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 2: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 3: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 4: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Câmera 21: ajuste de imagem, configuração e cartão SD formatado;\n\nCâmera 22: ajuste de imagem;\n\nCâmera 24: ajuste de imagem, configuração e cartão SD formatado;\n\nCâmera 25: ajuste de imagem;\n\nCâmera 26: cartão SD formatado;'
+--------------------------------------------------------------------------------
+linha 206 | prefixo 31654 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frente']
+    Frente: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Ajuste, configuração e cartão SD formatado da câmera 22.\n\nFoi verificado as câmeras 21 e 23, ambas funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 207 | prefixo 31948 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Ajuste da câmera 21;\nVerificado as câmeras 22 e 23, ambas funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 211 | prefixo 31654 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nReinicialização da câmera'
+  OBS: 'Trocado o cartão da câmera 21'
+--------------------------------------------------------------------------------
+linha 213 | prefixo 32198 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Frente: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Câmera 23 sem histórico de gravações. Foi identificado erro no SD e realizado a substituição, restabelecendo a gravação da câmera.\nConfiguração de todas as câmeras foram ajustadas e feito testes de gravação.\nApós os ajustes todas as câmeras ficaram operando normalmente.'
+--------------------------------------------------------------------------------
+linha 216 | prefixo 31818 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['22'] | posições com problema: ['Frente']
+    Frente: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+  OBS: 'Camera 22 formatada'
+--------------------------------------------------------------------------------
+linha 222 | prefixo 31755 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'ERR', '-', '-', '-']
+  citadas: ['23'] | posições com problema: ['Corredor 1']
+    Corredor 1: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nReinicialização da câmera'
+  OBS: 'Camera 23 formatada e configurada'
+--------------------------------------------------------------------------------
+linha 223 | prefixo 31210 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Câmera com infiltração' -> 'Nenhuma ação realizada'
+    Frente: 'Switch apresentando falha' -> 'Substituição do switch'
+    Corredor 1: 'Switch apresentando falha' -> 'Substituição do switch'
+  OBS: 'Câmera 21 está com infiltração, a garagem não tem câmera para fazer a troca'
+--------------------------------------------------------------------------------
+linha 230 | prefixo 31844 | Articulado | CFTV cams reais últ. dia: ['OK', 'ERR', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['23', '24'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Frente: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 2: 'Fusível queimado' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera\nSubstituição do fusível'
+    Corredor 3: 'Fusível queimado' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera\nSubstituição do fusível'
+    Corredor 4: 'Fusível queimado' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera\nSubstituição do fusível'
+  OBS: 'Fusível queimado. Foi realizado a substituição do fusível restabelecendo a alimentação das câmeras 24 25 e 26.\nCâmera 23 sem histórico de gravação, após formatação voltou a gravar normalmente.\nConfigurações de todas as câmeras foram ajustadas e realizado testes de gravação.\nApós ajustes todas as câmeras passaram a funcionar normalmente.'
+--------------------------------------------------------------------------------
+linha 231 | prefixo 31503 | Padron | CFTV cams reais últ. dia: ['ERR', 'OK', 'OK', '-', '-', '-']
+  citadas: ['22'] | posições com problema: ['Frente']
+    Frente: 'Sem gravação de imagens\nCâmera desligada manualmente' -> 'Normalização da gravação de imagens\nReinicialização da câmera'
+  OBS: 'Camera 22 configurada'
+--------------------------------------------------------------------------------
+linha 233 | prefixo 73362 | Padron | CFTV cams reais últ. dia: ['OFF', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera inoperante\nCabeamento rompido/danificado' -> 'Reinicialização da câmera\nSubstituição do cabeamento\nAtivação da câmera'
+  OBS: 'Anomalias \n\nCamera 21  inativa \n\nReparos\n\nCamera 21  feita troca do cabeamento UTP o mesmo estava danificado pela borracha de vedação do para brisas'
+--------------------------------------------------------------------------------
+linha 235 | prefixo 31560 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['23'] | posições com problema: ['Corredor 1']
+    Corredor 1: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+  OBS: 'Camera 23 trocado o cartão de memória'
+--------------------------------------------------------------------------------
+linha 237 | prefixo 68589 | Midi | CFTV cams reais últ. dia: ['OK', 'OK', 'VAZIO', 'VAZIO', 'VAZIO', 'VAZIO']
+  citadas: ['22'] | posições com problema: ['Frontal', 'Frente']
+    Frontal: 'Câmera travada\nSem gravação de imagens\nRJ45 crimpado incorretamente\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera\nAtivação da câmera'
+    Frente: 'Câmera inoperante\nCâmera travada\nCabeamento rompido/danificado\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera\nAtivação da câmera'
+  OBS: '68589 - 34583 - 2 câmeras, 21 funcionando com o ip errado e invertida, corrigido normalmente. Câmera 22 com cabo rompido e crimpagem errada nas duas pontas, troquei o padrão 568b para o 568a, ambas câmeras deixadas. Operando normalmente.'
+--------------------------------------------------------------------------------
+linha 239 | prefixo 68594 | Midi | CFTV cams reais últ. dia: ['OK', 'OK', 'VAZIO', 'VAZIO', 'VAZIO', 'VAZIO']
+  citadas: ['21', '22'] | posições com problema: ['Frontal', 'Frente']
+    Frontal: 'Câmera travada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Câmera inoperante\nCâmera travada\nSem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera\nAtivação da câmera'
+  OBS: '68594 - 34387 - 2 câmeras, 21 e 22 com o mesmo ip, configurei as duas e deixei gravando. Câmera 22 foi reposicionada e colocado novamente o cartão de memória que estava solto. Câmera 21 estava invertida, já foi corrigido.'
+--------------------------------------------------------------------------------
+linha 240 | prefixo 61316 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'ERR', 'OK', 'OK']
+  citadas: ['24'] | posições com problema: ['Corredor 2']
+    Corredor 2: 'Câmera travada\nSem gravação de imagens' -> 'Reinicialização da câmera'
+  OBS: 'Carro verificado a pedido do Romário.\nCâmera 24 está travada, reiniciei , testei o cabeamento, refiz os conectores, troquei de porta e mesmo assim. Só fica travada com o infravermelho ligado.'
+--------------------------------------------------------------------------------
+linha 241 | prefixo 68594 | Midi | CFTV cams reais últ. dia: ['OK', 'OK', 'VAZIO', 'VAZIO', 'VAZIO', 'VAZIO']
+  citadas: ['21', '22'] | posições com problema: ['Frontal', 'Frente']
+    Frontal: 'Câmera travada\nSem gravação de imagens\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Câmera inoperante\nCâmera travada\nSem gravação de imagens\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+  OBS: '68594 - 34387 - 2 câmeras, 21 e 22 com o mesmo ip, configurei as duas e deixei gravando. Câmera 22 foi reposicionada e colocado novamente o cartão de memória que estava solto. Câmera 21 estava invertida, já foi corrigido.'
+--------------------------------------------------------------------------------
+linha 244 | prefixo 32100 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens\nCâmera não fixada corretamente\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReposicionamento adequado da câmera\nFixação adequada da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Câmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Reposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+  OBS: 'Câmera 21 sem histórico de gravação, identificado erro no cartão SD e realizado a substituição. Após ajustes câmeras voltou a gravar normalmente. Também foi realizado a fixação da câmera que estava soltando e reposicionamento adequado da câmera.\n\nRealizado ajustes nas configurações das três câmeras e testes de gravações.'
+--------------------------------------------------------------------------------
+linha 245 | prefixo 31624 | Padron | CFTV cams reais últ. dia: ['OFF', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera desligada manualmente' -> 'Normalização da gravação de imagens\nReinicialização da câmera\nAtivação da câmera'
+  OBS: 'Camera 21 configurada e formatada'
+--------------------------------------------------------------------------------
+linha 246 | prefixo 61327 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['23'] | posições com problema: ['Corredor 1']
+    Corredor 1: 'Falha na conexão dos cabos' -> 'Correção na conexão dos cabos'
+  OBS: 'Câmera 23 estava com o conector mau encaixado, após plugar corretamente, voltou a funcionar.'
+--------------------------------------------------------------------------------
+linha 248 | prefixo 61228 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera travada' -> 'Reinicialização da câmera'
+  OBS: 'Câmera 21 estava travada, após reiniciar voltou a funcionar'
+--------------------------------------------------------------------------------
+linha 250 | prefixo 31973 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['23', '24'] | posições com problema: ['Corredor 1', 'Corredor 2']
+    Corredor 1: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+    Corredor 2: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+  OBS: 'Câmeras 23 e 24 sem histórico de gravações. Realizado formatação do cartão da câmera 23 e substituição do cartão com erro da câmera 24, após ajustes as câmeras voltaram a gravar normalmente.\nVerificado configurações de todas as câmeras e teste de gravações.'
+--------------------------------------------------------------------------------
+linha 251 | prefixo 31255 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens\nCâmera desligada manualmente' -> 'Normalização da gravação de imagens\nReinicialização da câmera\nAtivação da câmera'
+    Frente: 'Sem gravação de imagens\nCâmera desligada manualmente' -> 'Normalização da gravação de imagens\nReinicialização da câmera\nAtivação da câmera'
+    Corredor 1: 'Câmera desligada manualmente' -> 'Normalização da gravação de imagens\nReinicialização da câmera\nAtivação da câmera'
+  OBS: 'Camera 21 22 23 configuradas'
+--------------------------------------------------------------------------------
+linha 252 | prefixo 31964 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'ERR', 'OK']
+  citadas: ['25'] | posições com problema: ['Corredor 3']
+    Corredor 3: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+  OBS: 'Câmera 25 sem histórico de gravação. Identificado erro no SD, realizado formatação e a câmera voltou a gravar normalmente.\n\nTodas as câmeras foram verificado as configurações e realizado testes de gravação.\n\nRealizado fixação da UCP.'
+--------------------------------------------------------------------------------
+linha 254 | prefixo 73767 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '22', '23', '24', '25', '26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Câmera inoperante\nSem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Câmera inoperante\nSem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Câmera inoperante\nSem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 2: 'Câmera inoperante\nSem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 3: 'Câmera inoperante\nSem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 4: 'Câmera inoperante\nSem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+  OBS: '• 73767\n• Realizado a configuração das câmeras:\n• Endereço de IP.\n• HORA/DATA.\n• Realizado a inserção de um novo cartão de memória nas câmeras 21,22,23,24,25 e 26.'
+--------------------------------------------------------------------------------
+linha 255 | prefixo 31012 | Padron | CFTV cams reais últ. dia: ['OFF', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera inoperante\nCâmera com infiltração' -> 'Nenhuma ação realizada'
+  OBS: 'Camera 21 fazer a troca no decorrer da semana'
+--------------------------------------------------------------------------------
+linha 256 | prefixo 73785 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '22', '23', '24', '25', '26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Sem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Câmera inoperante\nSem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Câmera inoperante\nSem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 2: 'Câmera inoperante\nSem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 3: 'Câmera inoperante\nSem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 4: 'Câmera inoperante\nSem gravação de imagens\nConfiguração incorreta da câmera\nCâmera sem cartão de memória' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera'
+  OBS: '• 73785\n• Realizado a configuração da câmera:\n• Endereço de IP\n• HORA/DATA.\n• Realizado a inserção de um novo cartão de memória nas câmeras 21,22,23,24,25 e 26.'
+--------------------------------------------------------------------------------
+linha 258 | prefixo 31984 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OFF', 'OK', 'OK']
+  citadas: ['24', '25'] | posições com problema: ['Corredor 2', 'Corredor 3']
+    Corredor 2: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+    Corredor 3: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+  OBS: 'Câmeras 24 e 25 sem histórico de gravação, foi realizado formatação do cartão de memória e voltaram a gravar novamente.\nVerificado configurações de todas as câmeras e realizado testes de gravação.'
+--------------------------------------------------------------------------------
+linha 259 | prefixo 31615 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['23'] | posições com problema: ['Corredor 1']
+    Corredor 1: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nReinicialização da câmera'
+  OBS: 'Camera 23 configurada e formatada'
+--------------------------------------------------------------------------------
+linha 261 | prefixo 31983 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '24'] | posições com problema: []
+  OBS: 'Carro identificado na planilha com erro no SD nas câmeras 21 e 24 porém no momento da manutenção todas as câmeras estavam gravando normalmente. \nFoi verificado as configurações de todas as câmeras e realizado testes de gravação.\nPercebi que as câmeras mencionadas perderam gravação em algum momento do dia, acredito que seja devido o veículo ser elétrico e a bateria apresentou problema.\nRealizado fixação da UCP.'
+--------------------------------------------------------------------------------
+linha 262 | prefixo 31980 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'ERR', 'OK', 'OFF', 'OFF']
+  citadas: ['23', '25', '26'] | posições com problema: ['Corredor 1', 'Corredor 3', 'Corredor 4']
+    Corredor 1: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+    Corredor 3: 'Câmera inoperante\nConexões do switch incorretas' -> 'Normalização da gravação de imagens\nCorreção na conexão dos cabos\nAtivação da câmera'
+    Corredor 4: 'Câmera inoperante\nFalha na conexão dos cabos' -> 'Normalização da gravação de imagens\nCorreção na conexão dos cabos\nAtivação da câmera'
+  OBS: 'Indentificado que os POE que estavam conectados as câmeras 25 e 26 estavam danificados. Foi realizado a conexão dos cabos em outros POE e as câmeras voltaram a funcionar normalmente.\nCâmera 23 sem histórico de gravações. Realizado formatação do cartão,ajustes de configuração e testes de gravação.\nApós ajustes todas as câmeras estão funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 264 | prefixo 31182 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'ERR', 'OK']
+  citadas: ['25'] | posições com problema: ['Corredor 3']
+    Corredor 3: 'Sem gravação de imagens' -> 'Nenhuma ação realizada'
+  OBS: 'Câmeras gravando e funcionando normalmente, exceto câmera 25 precisa de um novo cartão SD'
+--------------------------------------------------------------------------------
+linha 266 | prefixo 61224 | Padron | CFTV cams reais últ. dia: ['OFF', 'OFF', 'OFF', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Câmera removida por terceiros' -> 'Nenhuma ação realizada'
+    Frente: 'Câmera removida por terceiros' -> 'Nenhuma ação realizada'
+    Corredor 1: 'Câmera removida por terceiros' -> 'Nenhuma ação realizada'
+  OBS: 'Carro está sem as câmeras 21, 22 e 23, \nCarro verificado a pedido do Romário.'
+--------------------------------------------------------------------------------
+linha 267 | prefixo 31753 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Câmera 21: cartão SD apresentando falhas, foi formatado, voltou a funcionar ( verificar depois se continua gravando);\n\nCâmera 22: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 23: ajuste de imagem'
+--------------------------------------------------------------------------------
+linha 268 | prefixo 31818 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '22', '23', '24', '25', '26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3']
+    Frontal: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 1: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 2: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 3: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Ajuste de imagem das câmeras 22, 23, 24 e 25.\n\nCâmera 21: Configuração e troca do cartão SD;\n\nCâmera 26 operando normalmente.'
+--------------------------------------------------------------------------------
+linha 269 | prefixo 31953 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Câmera 21: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 22: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 23: ajuste de imagem.'
+--------------------------------------------------------------------------------
+linha 270 | prefixo 31657 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frente', 'Corredor 1']
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Câmeras 22 e 23 configuradas, formatados os cartões SD.\n\nCâmera 21 funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 271 | prefixo 31962 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frente', 'Corredor 1']
+    Frente: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Configuração e cartão SD formatado da câmera 22;\n\nAjuste de imagem da câmera 23;\n\nCâmera 21 funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 272 | prefixo 31841 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['22', '24', '26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nCâmera desligada manualmente' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera\nAtivação da câmera'
+    Corredor 1: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 2: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nCorreção e ajuste da configuração da câmera'
+    Corredor 3: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 4: 'Câmera inoperante\nCabeamento rompido/danificado\nSwitch não fixado corretamente\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nFixação adequada do switch\nSubstituição do cabeamento\nCrimpagem correta do conector RJ45\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Câmera 22 desligada manualmente. Foi realizado a ativação da câmera no switch.\nRealizado substituição do cartão de memória da câmera 24 que estava sem histórico de gravações.\nCâmera 26 estava inoperante, foi indentificado rompimento do cabo na articulação do ônibus e realizado a substituição completa do cabeamento.\nRealizado uma nova fixação do switch e acabamento dos cabos de rede. \nFeito ajustes nas configurações de todas as câmeras e realizado testes de gravações.'
+--------------------------------------------------------------------------------
+linha 274 | prefixo 73932 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Câmera inoperante\nCabeamento rompido/danificado\nConfiguração incorreta da câmera' -> 'Substituição do cabeamento\nCorreção e ajuste da configuração da câmera\nAtivação da câmera'
+    Frente: 'Câmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Reposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Câmera inoperante\nCabeamento rompido/danificado\nConfiguração incorreta da câmera' -> 'Substituição do cabeamento\nCorreção e ajuste da configuração da câmera\nAtivação da câmera'
+    Corredor 2: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 3: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 4: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+  OBS: 'ANOMALIAS\n\nCAMERAS 21  e 23 INOPERANTES\nCAMERA 22 MAL POSICIONADA\nCAMERAS 21  22  23  24 25 e 26 CONFIGURADAS INCORRETAMENTE\n\nREPAROS\n\nCAMERAS 21 e 23 FEITA TROCA DO CABEAMENTO UTP\nCAMERA  22  REPOSICIONADA\nTODAS  CAMERAS ESTAO ATIVAS FORAM RECONFIGURADAS PARA O PADRAO NOXXON E COM A GRAVAÇAO HABILITADA'
+--------------------------------------------------------------------------------
+linha 286 | prefixo 32521 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['25', '26'] | posições com problema: ['Corredor 3', 'Corredor 4']
+    Corredor 3: 'Switch não fixado corretamente\nCâmera desligada manualmente' -> 'Normalização da gravação de imagens\nFixação adequada do switch\nCorreção e ajuste da configuração da câmera\nAtivação da câmera'
+    Corredor 4: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens'
+  OBS: 'Câmera 25 desligada manualmente.\nFoi realizado a ativação da câmera e ajustes na configuração.\nFixação do switch que estava solto.\nRealizado formatação do cartão d memória da câmera 26 que estava sem histórico de gravação.\nConfigurações de todas as câmeras revisadas e realizado testes de gravação.'
+--------------------------------------------------------------------------------
+linha 296 | prefixo 31986 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OK']
+  citadas: ['22'] | posições com problema: ['Frente']
+    Frente: 'Câmera inoperante' -> 'Substituição da câmera defeituosa\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Substituição da câmera 22 que estava com senha de acesso as configurações desconhecida.\nMac câmera retirada- E4F14C5EEED6\nMac câmera instalada - E4F14C780C6E'
+--------------------------------------------------------------------------------
+linha 297 | prefixo 73614 | Articulado | CFTV cams reais últ. dia: ['OFF', 'OFF', 'OFF', 'OFF', 'OFF', 'OFF']
+  citadas: ['21', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Câmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Reposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera\nAtivação da câmera'
+    Corredor 2: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera\nAtivação da câmera'
+    Corredor 3: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReinicialização da câmera\nCorreção e ajuste da configuração da câmera\nAtivação da câmera'
+    Corredor 4: 'Configuração incorreta da câmera' -> 'Correção e ajuste da configuração da câmera'
+  OBS: 'ANOMALIAS\nCAMERAS   21  22  23  24  25  e 26 CONFIGURADAS INCORRETAMENTE \nCAMERA 21 MAL POSICIONADA \nCAMERAS  23  24  e  25  SEM GRAVAÇAO DE IMAGENS \n\nREPAROS \n\nCAMERA 21  REPOSICIONADA \nCAMERAS 23  24  e 25  APOS DEVIDOS TESTES FEITA A FORMATAÇAO DOS SD CARDS \n\nTODAS AS CAMERAS FORAM RECONFIGURADAS PARA O. PADRAO NOXXON ESTAO ATIVAS E COM HRAVAÇAO HABILITADA .'
+--------------------------------------------------------------------------------
+linha 301 | prefixo 31011 | Padron | CFTV cams reais últ. dia: ['OFF', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera inoperante\nSem gravação de imagens\nCâmera com infiltração' -> 'Nenhuma ação realizada'
+  OBS: 'Câmera 21 com infiltração, será nescessário manutenção no veículo, após sanar essa infiltração a câmera será trocada.\n\nCâmeras 22 e 23 foram verificadas e operam normalmente.'
+--------------------------------------------------------------------------------
+linha 302 | prefixo 31668 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente']
+    Frontal: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Frente: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Câmera 21: ajuste de imagem;\nCâmera 22: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 23: foi verificada, está funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 304 | prefixo 31862 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'OK', 'OK', 'OFF']
+  citadas: ['21', '22', '23', '24', '25', '26'] | posições com problema: ['Frontal', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 1: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 2: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 3: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 4: 'Câmera inoperante' -> 'Nenhuma ação realizada'
+  OBS: 'Câmeras 21,24 e 25: ajuste de imagem.\n\nCamera 23: configuração da câmera e cartão SD formatado.\n\nCâmera 26 inoperante ( nescessário a troca)\n\nCamera 22 funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 305 | prefixo 31670 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Frente: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 1: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Ajuste de imagem das câmeras 21, 22 e 23;\nCâmeras funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 306 | prefixo 31955 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal']
+    Frontal: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Ajuste de imagem da cam21;\nVerificado as câmeras 22 e 23, ambas funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 307 | prefixo 32641 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'ERR', 'VAZIO', 'VAZIO', 'VAZIO']
+  citadas: ['23'] | posições com problema: ['Frente', 'Corredor 1']
+    Frente: 'Câmera mal reposicionada' -> 'Correção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Correção e ajuste da configuração da câmera'
+  OBS: 'A câmera 23 estava mal posicionada e o cartão de memória está com defeito necessitando trocar.'
+--------------------------------------------------------------------------------
+linha 309 | prefixo 51022 | Padron | CFTV cams reais últ. dia: ['OK', 'ERR', 'OK', '-', '-', '-']
+  citadas: ['21', '23'] | posições com problema: ['Frontal', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+    Corredor 1: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória'
+  OBS: 'Formatação SD câmera 21/23\nReecrimpagem câmera 21'
+--------------------------------------------------------------------------------
+linha 313 | prefixo 31775 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['23'] | posições com problema: ['Corredor 1']
+    Corredor 1: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nReinicialização da câmera'
+  OBS: 'Câmera 23 formatada'
+--------------------------------------------------------------------------------
+linha 314 | prefixo 32272 | Padron | CFTV cams reais últ. dia: ['OK', 'ERR', 'OK', 'VAZIO', 'VAZIO', 'VAZIO']
+  citadas: ['21', '22'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Nenhuma ação realizada'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Nenhuma ação realizada'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'As câmeras 21 e 22 estão sem gravar, eu formatei os cartões de memória e mesmo assim não voltou a gravar, tem que trocar os cartões de memória.'
+--------------------------------------------------------------------------------
+linha 315 | prefixo 32039 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'ERR', 'VAZIO', 'VAZIO', 'VAZIO']
+  citadas: ['22'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Câmera travada' -> 'Câmera encaminhada para manutenção'
+    Corredor 1: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Não está sendo possível acessar a câmera 22, foi feito todas as verificações para seu funcionamento e mesmo assim ela não dá acesso e está sem comunicação, cabeamento e conectores ok.\nRecomendo que ela seja levada para manutenção.'
+--------------------------------------------------------------------------------
+linha 316 | prefixo 32960 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'VAZIO', 'VAZIO', 'VAZIO']
+  citadas: ['21'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Câmera travada\nSem gravação de imagens\nCâmera com sinal de vandalismo' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Câmera travada\nSem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Câmera travada\nSem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'É necessário fazer a troca do case da câmera 21 que está com sinais de vandalismo.'
+--------------------------------------------------------------------------------
+linha 317 | prefixo 31105 | Articulado | CFTV cams reais últ. dia: ['OFF', 'OFF', 'OFF', 'OFF', 'OFF', 'OFF']
+  citadas: ['21', '22', '23', '24', '25', '26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3']
+    Frontal: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Frente: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 1: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 2: 'Sem gravação de imagens\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 3: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Câmera 21: ajuste de imagem ( nescessário remover o adesivo da frente).\n\nCâmera 22: ajuste de imagem.\n\nCâmera 23: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 24: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 25: ajuste de imagem, configuração e cartão SD formatado.\n\nObs: As câmeras 21, 22 e 26 apresentam falhas... Sendo nescessário a troca.'
+--------------------------------------------------------------------------------
+linha 318 | prefixo 31095 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'ERR', 'OK', 'OFF']
+  citadas: ['24', '25', '26'] | posições com problema: ['Corredor 2', 'Corredor 3', 'Corredor 4']
+    Corredor 2: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 3: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Corredor 4: 'Câmera inoperante\nCâmera removida por terceiros' -> 'Nenhuma ação realizada'
+  OBS: 'Ajuste de imagem das câmeras 24 e 25.\nCâmera 26 retirada por terceiros.\n\nAs 5 câmeras estão funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 319 | prefixo 31956 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Câmera 21: Ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 22: Ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 23: Configuração e cartão SD formatado.'
+--------------------------------------------------------------------------------
+linha 320 | prefixo 31484 | Padron | CFTV cams reais últ. dia: ['OFF', 'OFF', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Switch apresentando falha\nCâmera inoperante\nCâmera travada' -> nan
+    Frente: 'Câmera inoperante\nCâmera removida por terceiros' -> 'Nenhuma ação realizada'
+    Corredor 1: 'Câmera inoperante\nCâmera travada\nSem gravação de imagens' -> 'Nenhuma ação realizada'
+  OBS: 'Câmeras 21 com defeito;\nCâmeras 22 retirada por terceiros;\nCâmera 23 com falhas e IP errado;\n\nNão foi possível configurar a 23 devido às falhas no switch.'
+--------------------------------------------------------------------------------
+linha 321 | prefixo 31960 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente']
+    Frontal: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Configuradas e formatado os cartões SD das câmeras 21 e 22;\n\nCamera 23 funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 322 | prefixo 31952 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+    Frente: 'Sem gravação de imagens' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Ajuste de imagem da cam21;\n\nConfiguração e cartão SD formatado da câmera 22;\n\nAjuste de imagem da câmera 23;\n\nTodas as câmeras funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 323 | prefixo 31590 | Articulado | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', 'ERR', 'OFF', 'OK']
+  citadas: ['21', '22', '23', '24', '25', '26'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1', 'Corredor 2', 'Corredor 3', 'Corredor 4']
+    Frontal: 'Câmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Reposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Sem gravação de imagens\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 2: 'Sem gravação de imagens\nCâmera mal reposicionada\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Corredor 3: 'Câmera inoperante' -> 'Nenhuma ação realizada'
+    Corredor 4: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+  OBS: 'Câmera 21:  Ajuste de imagem e configuração, porém será nescessário a troca da câmera que apresenta instabilidade.\n\nCâmera 22: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 23: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 24: ajuste de imagem, configuração e cartão SD formatado.\n\nCâmera 25: inoperante, nescessário a troca.\n\nCâmera 26: ajuste de imagem, configuração e cartão SD formatado.'
+--------------------------------------------------------------------------------
+linha 324 | prefixo 31005 | Padron | CFTV cams reais últ. dia: ['OK', 'OK', 'OK', '-', '-', '-']
+  citadas: ['21', '22', '23'] | posições com problema: ['Frontal', 'Frente', 'Corredor 1']
+    Frontal: 'Sem gravação de imagens\nCâmera mal reposicionada' -> 'Normalização da gravação de imagens\nInserção ou substituição do cartão de memória\nReposicionamento adequado da câmera\nCorreção e ajuste da configuração da câmera'
+    Frente: 'Sem gravação de imagens\nConfiguração incorreta da câmera' -> 'Normalização da gravação de imagens\nCorreção e ajuste da configuração da câmera'
+    Corredor 1: 'Câmera mal reposicionada' -> 'Reposicionamento adequado da câmera'
+  OBS: 'Ajuste de imagem das câmeras 21 e 23;\nTroca do cartão SD da câmera 21;\nConfiguração da câmera 21;\nConfiguração da câmera 22 e cartão SD formatado.\n\nTodas as câmeras funcionando normalmente.'
+--------------------------------------------------------------------------------
+linha 325 | prefixo 31093 | Articulado | CFTV cams reais últ. dia: ['OFF', 'OFF', 'OFF', 'OFF', 'OFF', 'OFF']
+  citadas: ['21'] | posições com problema: []
+  OBS: 'Trocar os2 Switch em curto saída das câmeras 21 22 25 não tem pra trocar'
+
+
+==== TESTE: registros com exatamente 1 câmera citada e exatamente 1 posição com problema ====
+pos_com_problema             Corredor 1  Corredor 2  Corredor 3  Corredor 4  Frente  Frontal
+Tecnologia cams_mencionadas                                                                 
+Articulado Câmera 21                  0           0           0           0       0        6
+           Câmera 22                  0           0           0           0       3        0
+           Câmera 23                  1           0           0           0       0        0
+           Câmera 24                  0           2           0           0       0        0
+           Câmera 25                  0           0           2           0       0        0
+           Câmera 26                  0           0           0           4       0        0
+Básico     Câmera 21                  0           0           0           0       0        1
+Padron     Câmera 21                  0           0           0           0       0       10
+           Câmera 22                  0           0           0           0       2        0
+           Câmera 23                  7           0           0           0       0        0
+
+==== mesmo nº de câmeras citadas e posições com problema (pares por ordem) ====
+12 ('Articulado', '21', 'Frontal')
+13 ('Articulado', '22', 'Frente')
+7 ('Articulado', '23', 'Corredor 1')
+11 ('Articulado', '24', 'Corredor 2')
+14 ('Articulado', '25', 'Corredor 3')
+14 ('Articulado', '26', 'Corredor 4')
+3 ('Midi', '21', 'Frontal')
+3 ('Midi', '22', 'Frente')
+17 ('Padron', '21', 'Frontal')
+15 ('Padron', '22', 'Frente')
+15 ('Padron', '23', 'Corredor 1')
+
+==== Checagem de contradições da hipótese 21=Frontal,22=Frente,23=Corredor 1,24=Corredor 2,25=Corredor 3,26=Corredor 4 ====
+menções: 316 | posição inferida com problema: 265 | posição preenchida "sem anomalia": 12 | posição vazia: 39
+   (12, '21', 'Frontal', 'Nenhuma anomalia identificada')
+   (12, '22', 'Frente', 'Nenhuma anomalia identificada')
+   (17, '23', 'Corredor 1', 'COLUNA VAZIA')
+   (18, '23', 'Corredor 1', 'COLUNA VAZIA')
+   (77, '25', 'Corredor 3', 'Nenhuma anomalia identificada')
+   (91, '26', 'Corredor 4', 'COLUNA VAZIA')
+   (97, '21', 'Frontal', 'COLUNA VAZIA')
+   (98, '21', 'Frontal', 'COLUNA VAZIA')
+   (98, '23', 'Corredor 1', 'COLUNA VAZIA')
+   (99, '22', 'Frente', 'COLUNA VAZIA')
+   (99, '23', 'Corredor 1', 'COLUNA VAZIA')
+   (102, '22', 'Frente', 'COLUNA VAZIA')
+   (102, '25', 'Corredor 3', 'COLUNA VAZIA')
+   (102, '26', 'Corredor 4', 'COLUNA VAZIA')
+   (104, '23', 'Corredor 1', 'COLUNA VAZIA')
+   (142, '24', 'Corredor 2', 'COLUNA VAZIA')
+   (142, '26', 'Corredor 4', 'COLUNA VAZIA')
+   (143, '22', 'Frente', 'COLUNA VAZIA')
+   (143, '23', 'Corredor 1', 'COLUNA VAZIA')
+   (145, '23', 'Corredor 1', 'COLUNA VAZIA')
+   (146, '21', 'Frontal', 'COLUNA VAZIA')
+   (146, '23', 'Corredor 1', 'COLUNA VAZIA')
+   (146, '24', 'Corredor 2', 'COLUNA VAZIA')
+   (146, '25', 'Corredor 3', 'COLUNA VAZIA')
+   (146, '26', 'Corredor 4', 'COLUNA VAZIA')
+   (148, '21', 'Frontal', 'Nenhuma anomalia identificada')
+   (148, '22', 'Frente', 'Nenhuma anomalia identificada')
+   (148, '23', 'Corredor 1', 'Nenhuma anomalia identificada')
+   (150, '21', 'Frontal', 'COLUNA VAZIA')
+   (150, '23', 'Corredor 1', 'COLUNA VAZIA')
+   (203, '22', 'Frente', 'Nenhuma anomalia identificada')
+   (204, '21', 'Frontal', 'COLUNA VAZIA')
+   (204, '23', 'Corredor 1', 'COLUNA VAZIA')
+   (206, '21', 'Frontal', 'COLUNA VAZIA')
+   (206, '23', 'Corredor 1', 'COLUNA VAZIA')
+   (207, '22', 'Frente', 'COLUNA VAZIA')
+   (207, '23', 'Corredor 1', 'COLUNA VAZIA')
+   (261, '21', 'Frontal', 'Nenhuma anomalia identificada')
+   (261, '24', 'Corredor 2', 'Nenhuma anomalia identificada')
+   (268, '26', 'Corredor 4', 'COLUNA VAZIA')
+   (270, '21', 'Frontal', 'COLUNA VAZIA')
+   (271, '21', 'Frontal', 'COLUNA VAZIA')
+   (301, '22', 'Frente', 'Nenhuma anomalia identificada')
+   (301, '23', 'Corredor 1', 'Nenhuma anomalia identificada')
+   (302, '23', 'Corredor 1', 'COLUNA VAZIA')
+   (304, '22', 'Frente', 'COLUNA VAZIA')
+   (306, '22', 'Frente', 'COLUNA VAZIA')
+   (306, '23', 'Corredor 1', 'COLUNA VAZIA')
+   (317, '26', 'Corredor 4', 'COLUNA VAZIA')
+   (321, '23', 'Corredor 1', 'Nenhuma anomalia identificada')
+   (325, '21', 'Frontal', 'COLUNA VAZIA')
