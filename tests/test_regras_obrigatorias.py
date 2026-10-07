@@ -154,3 +154,44 @@ def test_texto_livre_cameras_serie_mac_e_data():
     assert eq['instalado'] == {'series': ['210235UDL5F247002849'], 'macs': ['E4F14C780CBE']}
     assert eq['retirado'] == {'series': ['210A235UGNJ324A003395'], 'macs': ['E4F14C7F1524']}
     assert manutencao.parse_data('sexta-feira, setembro 25, 2026 09:40') == dt.datetime(2026, 9, 25, 9, 40)
+
+
+# Decisão da usuária em 07/10/2026 (§17-A): posições de câmera reconciliadas com o histórico ----------------------
+def _reg_completo(prefixo, data, cams):
+    r = registro(prefixo, data, cams)
+    for n in config.CAMERAS:
+        it = interpretar_camera(cams.get(n))
+        r[f'cam{n}_original'] = cams.get(n)
+        r[f'cam{n}_codigo'] = it['codigo']
+        r[f'cam{n}_classificacao'] = it['classificacao']
+        r[f'cam{n}_erros'] = ', '.join(it['erros'])
+    return r
+
+
+def test_reconciliacao_cameras_com_historico():
+    import pandas as pd
+    from cftv import reconciliacao
+    antes, novo = dt.date(2026, 9, 24), dt.date(2026, 10, 6)
+    regs = [
+        _reg_completo(1, antes, {21: OK, 22: '-'}), _reg_completo(1, novo, {21: '-', 22: OFF}),            # 22 -> 21
+        _reg_completo(2, antes, {21: OK, 22: OK, 23: '-'}), _reg_completo(2, novo, {21: '-', 22: OK, 23: ERR}),  # 22,23 -> 21,22
+        _reg_completo(3, antes, {21: OK, 22: '-'}), _reg_completo(3, novo, {21: OK, 22: OK}),              # 1 × 2: ambíguo
+        _reg_completo(4, novo, {21: '-', 22: OK}),                                                          # sem histórico
+        _reg_completo(5, dt.date(2026, 9, 1), {21: OK}), _reg_completo(5, antes, {21: '-', 22: OK}),        # antes do corte: não mexe
+    ]
+    df, rel = reconciliacao.reconciliar(pd.DataFrame(regs))
+    g = lambda p, d: df[(df.prefixo == p) & (df.data == d)].iloc[0]
+    r1 = g(1, novo)
+    assert r1['cam21_original'] == OFF and r1['cam22_original'] == '-' and r1['codigos'][:2] == 'O-'
+    assert r1['cameras_reconciliadas'] == 'Câmera 22→21' and r1['status_geral'] == 'R'
+    r2 = g(2, novo)
+    assert (r2['cam21_original'], r2['cam22_original'], r2['cam23_original']) == (OK, ERR, '-')
+    assert g(3, novo)['cam22_original'] == OK and g(3, novo)['cameras_reconciliadas'] is None
+    assert g(4, novo)['cam22_original'] == OK
+    assert g(5, antes)['cam22_original'] == OK
+    assert dict(rel.groupby('acao').size()) == {'REMAPEADO': 2, 'MANTIDO (ambíguo)': 1}
+    # nenhum valor criado ou apagado: o multiconjunto de textos de cada registro é o mesmo
+    for i, r in enumerate(regs):
+        x = df[(df.prefixo == r['prefixo']) & (df.data == r['data'])].iloc[0]
+        txt = lambda v: v if isinstance(v, str) else ''
+        assert sorted(txt(r[f'cam{n}_original']) for n in config.CAMERAS) == sorted(txt(x[f'cam{n}_original']) for n in config.CAMERAS)

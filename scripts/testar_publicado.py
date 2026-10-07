@@ -39,6 +39,19 @@ def main():
         n = pg.locator('.mx-row').count()
         ok('matriz renderizada (Com manutenção)', n > 10 and '306 veículo' in pg.inner_text('#f-count'), f'{n} linhas visíveis; {pg.inner_text("#f-count")}')
         pg.screenshot(path=OUT / 'publicado_01_matriz.png')
+        # 06/10 (Relatório CFTV - 06.10.2026) e 25/09–05/10 sem arquivo (colunas brancas, nada inventado)
+        cab = pg.evaluate("() => [...document.querySelectorAll('.mx-h')].map(h => [h.dataset.j, h.title, h.classList.contains('nofile'), h.classList.contains('fora')])")
+        rot = {c[1][:5]: c for c in cab}
+        sem = [d for d in ['25/09', '26/09', '27/09', '28/09', '29/09', '30/09', '01/10', '02/10', '03/10', '04/10', '05/10'] if d in rot and rot[d][2]]
+        ok('coluna 06/10 com arquivo', '06/10' in rot and not rot['06/10'][2] and not rot['06/10'][3], str(rot.get('06/10')))
+        ok('25/09–05/10 sem arquivo (brancas)', len(sem) == 11, ', '.join(sem))
+        pg.locator('.mx-scroll').evaluate('e => e.scrollLeft = e.scrollWidth')
+        pg.wait_for_timeout(300)
+        pg.screenshot(path=OUT / 'publicado_01b_matriz_06-10.png')
+        pg.locator('.mx-scroll').evaluate('e => e.scrollLeft = 0')
+        # reconciliação com o histórico (decisão 07/10/2026): 86001 (ALFA RODOBUS) veio na Câmera 22 e fica na 21
+        k = pg.evaluate("() => { const p = window.__D.byPrefixo[86001]; const j = window.__D.cftv.colunas.findIndex(c => c.rotulo === '06/10'); return p.k.slice(6 * j, 6 * j + 6); }")
+        ok('06/10 reconciliado com o histórico (86001 na câmera 21)', k[0] not in '-.' and k[1] in '-.', k)
 
         pg.fill('#f-busca', '32704')
         pg.wait_for_timeout(500)
@@ -98,15 +111,15 @@ def main():
             pg.wait_for_timeout(400)
             ok(f'aba {aba}', nome in pg.inner_text('#conteudo'))
             if aba == 'efetividade':
-                ok('taxa de resolução 36,4%', '36,4%' in pg.inner_text('#conteudo'))
+                ok('taxa de resolução 45,4%', '45,4%' in pg.inner_text('#conteudo'))
                 pg.screenshot(path=OUT / 'publicado_06_efetividade.png')
         pg.click('[data-tab="matriz"]')
         pg.click('[data-veic="todos"]')
         pg.wait_for_timeout(400)
-        ok('todos os veículos', '5.430 veículo' in pg.inner_text('#f-count'), pg.inner_text('#f-count'))
+        ok('todos os veículos', '5.467 veículo' in pg.inner_text('#f-count'), pg.inner_text('#f-count'))
         pg.locator('.mx-scroll').evaluate('e => e.scrollTop = 60000')
         pg.wait_for_timeout(300)
-        ok('rolagem com 5.430 linhas', pg.locator('.mx-row').count() > 10)
+        ok('rolagem com 5.467 linhas', pg.locator('.mx-row').count() > 10)
         pg.screenshot(path=OUT / 'publicado_07_todos_veiculos.png')
         ok('sem 404/falhas de rede', not falhas_rede, '; '.join(falhas_rede[:5]))
         ok('sem erros de JavaScript', not erros_js, '; '.join(erros_js[:3]))

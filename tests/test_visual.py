@@ -84,7 +84,7 @@ def test_site_abas_sem_erros_e_todos_os_veiculos(pagina):
         pagina.wait_for_timeout(150)
     pagina.click('[data-veic="todos"]')
     pagina.wait_for_timeout(200)
-    assert '5.430 veículo' in pagina.inner_text('#f-count')
+    assert '5.467 veículo' in pagina.inner_text('#f-count')
     # virtualização: só as linhas visíveis ficam no DOM
     assert pagina.locator('.mx-row').count() < 100
     assert pagina.erros == []

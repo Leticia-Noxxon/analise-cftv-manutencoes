@@ -8,8 +8,9 @@ Painel web **estático** que mostra, dia a dia, a situação das câmeras de CFT
 **antes, no dia e depois** de cada manutenção registrada pelos técnicos. Assim dá para ver se o problema foi resolvido,
 se voltou (recorrência) ou se continuou.
 
-- Período do CFTV: **01/09/2026 a 24/09/2026** (16 relatórios diários; as datas sem arquivo aparecem em branco).
-- **5.429 veículos**, 17 empresas, **17.572 câmeras** instaladas, 82.109 registros diários.
+- Período do CFTV: **01/09/2026 a 06/10/2026** (17 relatórios diários: 01–24/09 e 06/10; as datas sem arquivo, inclusive 25/09–05/10, aparecem em branco).
+- **5.466 veículos**, 17 empresas, **17.767 câmeras** instaladas, 87.329 registros diários.
+- A partir de 06/10, as posições de câmera que não batem com o histórico do veículo são **reconciliadas com o histórico** (decisão da Letícia de 07/10/2026; veja "Reconciliação de câmeras" abaixo).
 - **324 formulários de manutenção** → **313 eventos** (prefixo + data), em **306 veículos**.
 
 ![Matriz](docs/screenshots/01_matriz.png)
@@ -18,7 +19,7 @@ se voltou (recorrência) ou se continuou.
 
 | Aba | Conteúdo |
 |---|---|
-| **Matriz** (principal) | Uma linha por prefixo, uma coluna por dia. Cor = situação das câmeras: 🟩 todas ONLINE sem erro · 🟧 alguma câmera ONLINE com erro (SD/Login/Gravação) · 🟥 alguma câmera OFFLINE · ⬜ sem dados. 🔵 bolinha azul = manutenção naquele dia (número = mais de um formulário). Passe o mouse para ver cada câmera; clique no quadrado (detalhe do dia), na bolinha (manutenção completa) ou no prefixo (linha do tempo). Abre filtrada em **“Com manutenção” (306)**; o botão **“Todos os veículos”** mostra os 5.430 prefixos (5.429 do CFTV + 1 prefixo só do formulário) sem travar (linhas virtualizadas). |
+| **Matriz** (principal) | Uma linha por prefixo, uma coluna por dia. Cor = situação das câmeras: 🟩 todas ONLINE sem erro · 🟧 alguma câmera ONLINE com erro (SD/Login/Gravação) · 🟥 alguma câmera OFFLINE · ⬜ sem dados. 🔵 bolinha azul = manutenção naquele dia (número = mais de um formulário). Passe o mouse para ver cada câmera; clique no quadrado (detalhe do dia), na bolinha (manutenção completa) ou no prefixo (linha do tempo). Abre filtrada em **“Com manutenção” (306)**; o botão **“Todos os veículos”** mostra os 5.467 prefixos (5.466 do CFTV + 1 prefixo só do formulário) sem travar (linhas virtualizadas). |
 | **Manutenções** | Lista de todas as manutenções com técnico, câmeras com anomalia, situação antes e resultado. |
 | **Efetividade** | Contagem por resultado, taxa de resolução (fórmula visível) e tabelas por técnico, empresa, garagem, câmera, tipo de problema e tipo de intervenção (ordem alfabética, sem ranking). |
 | **Recorrências** | Casos em que a mesma câmera voltou a falhar, problemas novos em outra câmera, câmeras com mais dias OFFLINE/erro, tipos de erro e prefixos com mais dias com problema. |
@@ -31,15 +32,31 @@ Exportação: **Exportar Excel** (planilhas Resumo, Histórico por prefixo, Manu
 
 | Resultado | Quando | Eventos |
 |---|---|---|
-| RESOLVIDO | todas as câmeras com problema antes normalizaram e não voltaram a falhar | 55 |
-| RESOLVIDO COM RECORRÊNCIA | normalizaram, mas a mesma câmera voltou a falhar | 12 |
-| NÃO RESOLVIDO | nenhuma câmera com problema normalizou | 69 |
-| PARCIALMENTE RESOLVIDO | parte normalizou, parte não | 15 |
-| SEM DADOS PARA VALIDAR | sem registro antes/depois, fora do período, prefixo fora do CFTV ou **veículo já estava normal antes** (100 casos, com aviso destacado) | 162 |
+| RESOLVIDO | todas as câmeras com problema antes normalizaram e não voltaram a falhar | 79 |
+| RESOLVIDO COM RECORRÊNCIA | normalizaram, mas a mesma câmera voltou a falhar | 27 |
+| NÃO RESOLVIDO | nenhuma câmera com problema normalizou | 50 |
+| PARCIALMENTE RESOLVIDO | parte normalizou, parte não | 18 |
+| SEM DADOS PARA VALIDAR | sem registro antes/depois, fora do período, prefixo fora do CFTV ou **veículo já estava normal antes** (124 casos, com aviso destacado) | 139 |
 
-**Taxa de resolução = RESOLVIDO ÷ (RESOLVIDO + RESOLVIDO COM RECORRÊNCIA + NÃO RESOLVIDO + PARCIALMENTE RESOLVIDO) = 55 ÷ 151 = 36,4%.**
+**Taxa de resolução = RESOLVIDO ÷ (RESOLVIDO + RESOLVIDO COM RECORRÊNCIA + NÃO RESOLVIDO + PARCIALMENTE RESOLVIDO) = 79 ÷ 174 = 45,4%.**
 Avisos separados (não mudam o resultado): **Pendência registrada** (17 eventos, com o trecho do formulário) e **Veículo já estava normal antes da manutenção**.
 Regras completas: [`REGRAS_PROJETO.md`](REGRAS_PROJETO.md).
+
+### Reconciliação de câmeras com o histórico (decisão de 07/10/2026)
+
+No relatório de 06/10, parte dos veículos veio com a câmera numa coluna diferente da de sempre (por exemplo, a câmera
+única da ALFA RODOBUS na coluna "Câmera 22" em vez de "Câmera 21"). Decisão da Letícia: **vale o histórico do veículo**,
+para não perder os dados dos dias atuais. Regra (`scripts/cftv/reconciliacao.py`, datas a partir de 06/10/2026):
+- compara as câmeras com valor no relatório com as do registro anterior mais recente do mesmo prefixo;
+- mesma quantidade e números diferentes → os valores passam, em ordem crescente, para os números do histórico
+  (ex.: 22 → 21). É só uma troca de coluna: nada é criado, apagado ou alterado;
+- quantidade diferente → ambíguo: fica como veio no relatório e é listado na Auditoria;
+- veículo sem histórico → fica como veio.
+
+06/10: **463 veículos remapeados** (ALFA RODOBUS 142, ALFA RODOBUS SPE 123, NORTE BUSS A2 198; 454 de 22 → 21 e 9 de 21 → 22)
+e **91 mantidos como vieram** (NORTE BUSS A2 64, GATO PRETO A1 19, GATO PRETO 6, NORTE BUSS A1 1, VIAÇÃO GRAJAÚ 1).
+Lista completa: `data/processed/reconciliacao_cameras.csv/.xlsx`; cada registro guarda a origem em
+`cameras_reconciliadas` (ex.: "Câmera 22→21") e o motivo em `reconciliacao` (`cftv_consolidado`).
 
 ## Tecnologia (e por quê)
 
@@ -49,7 +66,7 @@ Regras completas: [`REGRAS_PROJETO.md`](REGRAS_PROJETO.md).
 - **Site: Vite + JavaScript puro** (sem framework) + [SheetJS](https://sheetjs.com) para exportar Excel.
   Escolhido por ser o mais simples e leve para um painel 100% estático: não precisa de servidor, carrega rápido
   (~125 KB de JS compactado) e a matriz usa uma virtualização própria (só as linhas visíveis são desenhadas), o que
-  permite mostrar os 5.430 prefixos sem travar.
+  permite mostrar os 5.467 prefixos sem travar.
 - **Caminho relativo**: o site é compilado com `base: './'`, então funciona em qualquer endereço do GitHub Pages
   (ex.: `https://<usuario>.github.io/analise-cftv-manutencoes/`). Para forçar um caminho absoluto:
   `BASE_PATH=/analise-cftv-manutencoes/ npm run build`.
@@ -85,7 +102,7 @@ npm run build && npm run preview     # http://localhost:4173
    python scripts/atualizar_dados.py
    ```
    Ele relê tudo, mostra as abas usadas/ignoradas de cada arquivo, regrava `data/processed/` e `site/public/data/`.
-   Se chegarem arquivos de datas fora de 01–24/09, o período é ampliado automaticamente.
+   Se chegarem arquivos de datas fora de 01–24/09, o período é ampliado automaticamente (todas as datas do período aparecem; sem arquivo = branco).
 3. Confira e publique:
    ```bash
    python -m pytest                   # testes das regras (e teste visual, se o site estiver compilado)

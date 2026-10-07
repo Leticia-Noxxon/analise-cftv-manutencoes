@@ -10,6 +10,10 @@ SITE_DATA = RAIZ / 'site' / 'public' / 'data'
 PERIODO_INICIO = dt.date(2026, 9, 1)
 PERIODO_FIM = dt.date(2026, 9, 24)
 
+# Decisão da usuária em 07/10/2026 (REGRAS §17-A): a partir desta data, quando as câmeras com valor no relatório não
+# batem com as do registro anterior do veículo, as posições são ajustadas ao histórico (scripts/cftv/reconciliacao.py).
+RECONCILIAR_A_PARTIR = dt.date(2026, 10, 6)
+
 # Mapeamento CONFIRMADO pela usuária em 25/09/2026 (Q3)
 CAMERAS = [21, 22, 23, 24, 25, 26]
 POSICAO_DA_CAMERA = {21: 'FRONTAL', 22: 'FRENTE', 23: 'CORREDOR 1', 24: 'CORREDOR 2', 25: 'CORREDOR 3', 26: 'CORREDOR 4'}

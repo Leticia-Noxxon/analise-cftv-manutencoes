@@ -1,14 +1,29 @@
 ﻿tipo,onde,detalhe
+Câmeras reconciliadas com o histórico (decisão 07/10/2026),ALFA RODOBUS em 06/10/2026,142 veículos com as posições ajustadas ao registro anterior: Câmera 22→21 (142×). Valores apenas trocados de coluna.
+Câmeras reconciliadas com o histórico (decisão 07/10/2026),ALFA RODOBUS SPE em 06/10/2026,"123 veículos com as posições ajustadas ao registro anterior: Câmera 22→21 (120×), Câmera 21→22 (3×). Valores apenas trocados de coluna."
+Câmeras não reconciliadas (ambíguo),GATO PRETO em 06/10/2026,"6 veículos mantidos como no relatório (quantidade diferente do histórico (2 agora × 3 antes)): 82718, 82733, 82734, 82735, 82757, 82758"
+Câmeras não reconciliadas (ambíguo),GATO PRETO A1 em 06/10/2026,"19 veículos mantidos como no relatório (quantidade diferente do histórico (2 agora × 3 antes)): 12666, 12667, 12668, 12669, 12677, 12678, 12679, 12680, 12683, 12684, 12685, 12686, 12732, 13670, 13671…"
+Câmeras não reconciliadas (ambíguo),NORTE BUSS A1 em 06/10/2026,1 veículo mantido como no relatório (quantidade diferente do histórico (1 agora × 2 antes)): 16517
+Câmeras não reconciliadas (ambíguo),NORTE BUSS A2 em 06/10/2026,"64 veículos mantidos como no relatório (quantidade diferente do histórico (2 agora × 1 antes); quantidade diferente do histórico (3 agora × 1 antes)): 26014, 26037, 26051, 26067, 26100, 26103, 26107, 26113, 26116, 26117, 26122, 26128, 26145, 26153, 26154…"
+Câmeras reconciliadas com o histórico (decisão 07/10/2026),NORTE BUSS A2 em 06/10/2026,"198 veículos com as posições ajustadas ao registro anterior: Câmera 22→21 (192×), Câmera 21→22 (6×). Valores apenas trocados de coluna."
+Câmeras não reconciliadas (ambíguo),VIACAO GRAJAU em 06/10/2026,1 veículo mantido como no relatório (quantidade diferente do histórico (6 agora × 1 antes)): 61570
 Coluna extra,Relatório CFTV - 01.09.2026.xlsx,Última Transmissão
 Coluna ausente,Relatório CFTV - 04.09.2026.xlsx,Sem a coluna 'Manutenção'
 Cabeçalho com espaço extra,Relatório CFTV - 18.09.2026.xlsx,'Câmera 21 ' → padronizado
 Empresa com espaço no final,Relatórios CFTV,"'GATO PRETO ', 'METROPOLE - AE CARVALHO ', 'METROPOLE - ITAIM ', 'METROPOLE PAULISTA - DEPINEDO ', 'VIA SUDESTE ' → padronizado"
 Empresa ausente no arquivo,Relatório CFTV de 04/09/2026,SANTA BRIGIDA: nenhum registro nesta data (células em branco)
-Datas sem arquivo CFTV,Período 01/09–24/09,"05/09 (sáb), 06/09 (dom), 07/09 (seg), 12/09 (sáb), 13/09 (dom), 14/09 (seg), 19/09 (sáb), 20/09 (dom) → colunas em branco"
-Prefixo muda de empresa,Relatórios CFTV,"50 prefixos (ex.: 31361, 31362, 31364, 31365, 31366, 31367, 31368, 31369, 31370, 31371, 31373, 31374…)"
+Datas sem arquivo CFTV,Período 01/09–06/10,"05/09 (sáb), 06/09 (dom), 07/09 (seg), 12/09 (sáb), 13/09 (dom), 14/09 (seg), 19/09 (sáb), 20/09 (dom), 25/09 (sex), 26/09 (sáb), 27/09 (dom), 28/09 (seg), 29/09 (ter), 30/09 (qua), 01/10 (qui), 02/10 (sex), 03/10 (sáb), 04/10 (dom), 05/10 (seg) → colunas em branco"
+Prefixo muda de empresa,Relatórios CFTV,"56 prefixos (ex.: 31361, 31362, 31364, 31365, 31366, 31367, 31368, 31369, 31370, 31371, 31373, 31374…)"
+Mudança atípica no padrão de câmeras ('-'),NORTE BUSS A2 em 06/10/2026,"64 trocas entre ""sem câmera"" e câmera com valor em relação ao registro anterior (possível troca de colunas na exportação). Dado mantido como está."
 Mudança atípica no padrão de câmeras ('-'),ALFA RODOBUS em 03/09/2026,"288 trocas entre ""sem câmera"" e câmera com valor em relação ao registro anterior (possível troca de colunas na exportação). Dado mantido como está."
 Mudança atípica no padrão de câmeras ('-'),ALFA RODOBUS em 04/09/2026,"288 trocas entre ""sem câmera"" e câmera com valor em relação ao registro anterior (possível troca de colunas na exportação). Dado mantido como está."
+Mudança na grade de colunas,A2 TRANSPORTES em 06/10/2026,6 colunas de câmera preenchidas (normalmente 2).
 Mudança na grade de colunas,ALFA RODOBUS em 24/09/2026,2 colunas de câmera preenchidas (normalmente 3).
+Mudança na grade de colunas,ALFA RODOBUS em 06/10/2026,6 colunas de câmera preenchidas (normalmente 3).
+Mudança na grade de colunas,ALFA RODOBUS SPE em 06/10/2026,6 colunas de câmera preenchidas (normalmente 2).
+Mudança na grade de colunas,METROPOLE - AE CARVALHO em 06/10/2026,6 colunas de câmera preenchidas (normalmente 3).
+Mudança na grade de colunas,NORTE BUSS A1 em 06/10/2026,6 colunas de câmera preenchidas (normalmente 2).
+Mudança na grade de colunas,NORTE BUSS A2 em 06/10/2026,6 colunas de câmera preenchidas (normalmente 2).
 Formulário de manutenção,linha 27 — prefixo 52113,ID 32500 repetido em 54 formulários (provável valor genérico)
 Formulário de manutenção,linha 29 — prefixo 52132,ID 32500 repetido em 54 formulários (provável valor genérico)
 Formulário de manutenção,linha 31 — prefixo 52712,ID 32500 repetido em 54 formulários (provável valor genérico)
@@ -76,16 +91,3 @@ Formulário de manutenção,linha 293 — prefixo 52148,ID 32500 repetido em 54 
 Formulário de manutenção,linha 295 — prefixo 52905,ID 32500 repetido em 54 formulários (provável valor genérico)
 Formulário de manutenção,linha 298 — prefixo 51057,ID 32500 repetido em 54 formulários (provável valor genérico)
 Formulário de manutenção,linha 299 — prefixo 52124,ID 32500 repetido em 54 formulários (provável valor genérico)
-Manutenção fora do período CFTV,prefixo 11457 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
-Manutenção fora do período CFTV,prefixo 11677 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
-Manutenção fora do período CFTV,prefixo 11682 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
-Manutenção fora do período CFTV,prefixo 11694 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
-Manutenção fora do período CFTV,prefixo 11786 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
-Manutenção fora do período CFTV,prefixo 11857 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
-Manutenção fora do período CFTV,prefixo 11874 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
-Manutenção fora do período CFTV,prefixo 11883 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
-Manutenção fora do período CFTV,prefixo 52714 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
-Manutenção fora do período CFTV,prefixo 52907 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
-Manutenção fora do período CFTV,prefixo 68508 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
-Manutenção fora do período CFTV,prefixo 73381 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR
-Manutenção fora do período CFTV,prefixo 73642 em 2026-09-25,coluna extra só com a bolinha; SEM DADOS PARA VALIDAR

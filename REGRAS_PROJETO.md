@@ -41,6 +41,7 @@ Origem: `C:\Users\letic\Downloads\analise 200 câmeras 25092026\` (computador da
 | Relatório CFTV - 22.09.2026.xlsx | Relatório CFTV - 22.09.2026 | Tabela | idem |
 | Relatório CFTV - 23.09.2026.xlsx | Relatório CFTV - 23.09.2026 | Tabela | idem |
 | Relatório CFTV - 24.09.2026.xlsx | Relatório CFTV - 24.09.2026 | Tabela | idem |
+| Relatório CFTV - 06.10.2026.xlsx | Relatório CFTV - 06.10.2026 | Tabela | idem (incluído em 07/10/2026; grade de 6 colunas em algumas empresas; posições reconciliadas — §17-A) |
 | Revisão_CFTV2026-09-25_13_34_23.xlsx | Sheet1 | Planilha1 | auxiliar: cópia da coluna Garagem + contagem COUNTIF por garagem; sem informação nova |
 | Análise 200 câmeras - Consolidado.xlsx | — | — | **NÃO é fonte** (saída de tarefa anterior) — ignorado |
 
@@ -141,8 +142,8 @@ Classificações transparentes, sempre mostrando os dados usados; sem julgamento
 - Recorrência (§22): diferenciar MESMA câmera × OUTRA câmera. Mesma câmera volta a falhar → "RECORRÊNCIA NA MESMA CÂMERA". Câmera original normalizada e outra câmera com problema → **não é recorrência**: "Problema original normalizado. Novo problema identificado em outra câmera."
 - **Resultado do evento a partir das câmeras avaliadas:** todas RESOLVIDO → RESOLVIDO; nenhuma NÃO RESOLVIDO e ≥1 RECORRÊNCIA → RESOLVIDO COM RECORRÊNCIA; todas NÃO RESOLVIDO → NÃO RESOLVIDO; mistura com ≥1 NÃO RESOLVIDO e ≥1 normalizada → PARCIALMENTE RESOLVIDO.
 - Problema surgido depois em câmera que estava normal antes → informado como "problema novo em outra câmera" (não altera o resultado; não é recorrência).
-- **Taxa de resolução** = RESOLVIDO ÷ (RESOLVIDO + RESOLVIDO COM RECORRÊNCIA + NÃO RESOLVIDO + PARCIALMENTE RESOLVIDO). SEM DADOS PARA VALIDAR fica fora do denominador. Hoje: 55 ÷ 151 = 36,4%. Referência adicional (não é a taxa oficial): "normalizou" = (RESOLVIDO + COM RECORRÊNCIA) ÷ validáveis = 67 ÷ 151 = 44,4%.
-- Resultado atual (313 eventos / 324 formulários): RESOLVIDO 55 · RESOLVIDO COM RECORRÊNCIA 12 · NÃO RESOLVIDO 69 · PARCIALMENTE RESOLVIDO 15 · SEM DADOS PARA VALIDAR 162 (100 já normais antes; 41 sem registro posterior; 13 fora do período; 5 sem registro anterior; 2 nova manutenção antes do próximo registro; 1 prefixo fora do CFTV). Pendência: 17 eventos. Problema novo em outra câmera: 19 eventos.
+- **Taxa de resolução** = RESOLVIDO ÷ (RESOLVIDO + RESOLVIDO COM RECORRÊNCIA + NÃO RESOLVIDO + PARCIALMENTE RESOLVIDO). SEM DADOS PARA VALIDAR fica fora do denominador. Hoje (dados até 06/10/2026): 79 ÷ 174 = 45,4%. Referência adicional (não é a taxa oficial): "normalizou" = (RESOLVIDO + COM RECORRÊNCIA) ÷ validáveis = 106 ÷ 174 = 60,9%. (Até 24/09: 55 ÷ 151 = 36,4%.)
+- Resultado atual (313 eventos / 324 formulários; CFTV até 06/10/2026): RESOLVIDO 79 · RESOLVIDO COM RECORRÊNCIA 27 · NÃO RESOLVIDO 50 · PARCIALMENTE RESOLVIDO 18 · SEM DADOS PARA VALIDAR 139 (124 já normais antes; 7 sem registro posterior; 5 sem registro anterior; 2 nova manutenção antes do próximo registro; 1 prefixo fora do CFTV). Pendência: 17 eventos. Problema novo em outra câmera: 44 eventos.
 
 ### 8.1 Detecção de PENDÊNCIA (Q16)
 Marcação por palavras-chave (sem acento/maiúsculas), linha a linha da observação, exibindo o trecho e o termo encontrado:
@@ -246,6 +247,14 @@ Respostas da Letícia às questões Q1–Q19 do diagnóstico. **Estas decisões 
 | Q18 | Precedência | (padrão) Resultado principal pelo CFTV (RESOLVIDO / RESOLVIDO COM RECORRÊNCIA / NÃO RESOLVIDO / PARCIALMENTE RESOLVIDO / SEM DADOS PARA VALIDAR) + **PENDÊNCIA como marcador separado**. PARCIALMENTE RESOLVIDO quando, entre as câmeras com problema no ANTES, algumas normalizaram e outras não. | §8 |
 | Q19 | Anomalia ALFA RODOBUS | (padrão) Manter o dado original e **sinalizar na auditoria**. | — |
 
+## 17-A. DECISÃO DA USUÁRIA – 07/10/2026: posições de câmera reconciliadas com o histórico
+Texto da Letícia: "analisa os dados dos dias anteriores e iguala ela junto com o dia 06 e 07, então independente se tá com 21 em uma e 22 na outra, ele considera os dados anteriores, assim não perdemos dados dos dias atuais".
+- **Exceção** à estabilidade do `-` por prefixo/câmera (§15) e à Q19 (manter o dado original), válida para registros com data ≥ 06/10/2026 (`config.RECONCILIAR_A_PARTIR`). Os registros até 24/09 não mudam.
+- Regra determinística (`scripts/cftv/reconciliacao.py`): câmeras existentes = colunas com valor (nem `-` nem vazio). Comparar com as câmeras existentes no registro anterior mais recente do mesmo prefixo. Iguais → nada muda. **Mesma quantidade, números diferentes → mapeamento posicional em ordem crescente** (k-ésima câmera de agora → k-ésima do histórico; as colunas sem câmera ocupam as que sobram, também em ordem). É só troca de coluna: nenhum valor criado, apagado ou alterado. **Quantidade diferente (ou nenhuma câmera) → ambíguo: mantém o original** e lista na Auditoria. Sem registro anterior (veículo novo) → mantém.
+- Rastreabilidade: `cameras_reconciliadas` (ex.: "Câmera 22→21") e `reconciliacao` em `cftv_consolidado`; relatório completo em `data/processed/reconciliacao_cameras.csv/.xlsx`; resumo por empresa na Auditoria.
+- Resultado em 06/10: 463 remapeados (ALFA RODOBUS 142, ALFA RODOBUS SPE 123, NORTE BUSS A2 198) e 91 mantidos (NORTE BUSS A2 64 — 2 ou 3 câmeras agora × 1 antes; GATO PRETO A1 19 e GATO PRETO 6 — 2 × 3; NORTE BUSS A1 1 — 1 × 2; VIAÇÃO GRAJAÚ 1 — 6 × 1). Nenhum dos 554 veículos tem manutenção registrada, então o resultado das manutenções não muda por causa da reconciliação.
+- Q6 com o período ampliado até 06/10: 25/09–05/10 passam a ser datas do período **sem arquivo** (colunas brancas, nada inventado); as manutenções de 25/09 deixam de ser "fora do período" e são avaliadas com o registro de 06/10 como DEPOIS.
+
 ## 18. QUESTÕES EM ABERTO
 Nenhuma questão pendente de decisão neste momento. Novas dúvidas devem ser registradas aqui antes de qualquer decisão.
 
@@ -258,3 +267,4 @@ Nenhuma questão pendente de decisão neste momento. Novas dúvidas devem ser re
 | 25/09/2026 | Decisões da usuária Q1–Q19 registradas (§17); QUESTÕES EM ABERTO esvaziada. | Letícia |
 | 25/09/2026 | Fases 5–14 concluídas: regras detalhadas nas seções 4–12 e D8–D13; lista de dados públicos em §10; taxa de resolução em §8. Publicação (F15–F17) aguardando login do GitHub. | Execução |
 | 25/09/2026 | Fases 15–17: repositório público e dashboard no GitHub Pages publicados e testados; na matriz, busca de prefixo fora da lista atual passa a oferecer “Mostrar em Todos os veículos”. | Execução |
+| 07/10/2026 | Incluído o Relatório CFTV de 06/10/2026 (período 01/09–06/10; 25/09–05/10 sem arquivo). Nova regra §17-A: posições de câmera reconciliadas com o histórico do veículo a partir de 06/10 (exceção a §15/Q19). Taxa de resolução passa a 79 ÷ 174 = 45,4%. | Letícia |

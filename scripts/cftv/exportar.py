@@ -45,8 +45,20 @@ def colunas_matriz(df, eventos):
     return out
 
 
-def detectar_inconsistencias(df, infos, forms_info, forms, eventos, duplicados):
+def detectar_inconsistencias(df, infos, forms_info, forms, eventos, duplicados, reconc=None):
     inc = []
+    if reconc is not None and len(reconc):
+        for (emp, d, acao), g in reconc.groupby(['empresa', 'data', 'acao']):
+            onde = f"{emp} em {dt.date.fromisoformat(d).strftime('%d/%m/%Y')}"
+            if acao == 'REMAPEADO':
+                mp = Counter(g['mapeamento'])
+                inc.append({'tipo': 'Câmeras reconciliadas com o histórico (decisão 07/10/2026)', 'onde': onde,
+                            'detalhe': f"{len(g)} veículo{'s' if len(g) != 1 else ''} com as posições ajustadas ao registro anterior: "
+                                       + ', '.join(f'{m} ({n}×)' for m, n in mp.most_common()) + '. Valores apenas trocados de coluna.'})
+            else:
+                ex = ', '.join(str(p) for p in g['prefixo'][:15])
+                inc.append({'tipo': 'Câmeras não reconciliadas (ambíguo)', 'onde': onde,
+                            'detalhe': f'{len(g)} veículo{"s" if len(g) != 1 else ""} mantido{"s" if len(g) != 1 else ""} como no relatório ({"; ".join(sorted(set(g["motivo"])))}): {ex}{"…" if len(g) > 15 else ""}'})
     for i in infos:
         orig = [str(c) for c in i['colunas_originais']]
         esp = [c for c in orig if c != c.strip() or '  ' in c]
@@ -78,7 +90,7 @@ def detectar_inconsistencias(df, infos, forms_info, forms, eventos, duplicados):
             sem.append(d.strftime('%d/%m') + f' ({DIAS_SEMANA[d.weekday()]})')
         d += dt.timedelta(days=1)
     if sem:
-        inc.append({'tipo': 'Datas sem arquivo CFTV', 'onde': 'Período 01/09–24/09', 'detalhe': ', '.join(sem) + ' → colunas em branco'})
+        inc.append({'tipo': 'Datas sem arquivo CFTV', 'onde': f'Período {config.PERIODO_INICIO:%d/%m}–{config.PERIODO_FIM:%d/%m}', 'detalhe': ', '.join(sem) + ' → colunas em branco'})
     # prefixos que mudam de empresa
     me = df.groupby('prefixo')['empresa'].nunique()
     if (me > 1).any():
@@ -174,7 +186,7 @@ def montar_matriz(df, eventos):
             'empresas': empresas, 'statusOp': status_op, 'manutCftv': manut_vals, 'prefixos': prefixos}
 
 
-def gerar(df, infos, forms, forms_info, eventos, duplicados, sem_data):
+def gerar(df, infos, forms, forms_info, eventos, duplicados, sem_data, reconc=None):
     cftv_json = montar_matriz(df, eventos)
 
     # auditoria: textos originais -> interpretação
@@ -186,7 +198,9 @@ def gerar(df, infos, forms, forms_info, eventos, duplicados, sem_data):
         it = interpretar_camera(None if t == '(vazio)' else t)
         auditoria_textos.append({'original': t, 'quantidade': c, **it})
 
-    inc = detectar_inconsistencias(df, infos, forms_info, forms, eventos, duplicados)
+    inc = detectar_inconsistencias(df, infos, forms_info, forms, eventos, duplicados, reconc)
+    if reconc is not None:
+        _salvar(reconc, 'reconciliacao_cameras')
 
     manut_json = {'forms': forms, 'eventos': eventos}
     meta = {

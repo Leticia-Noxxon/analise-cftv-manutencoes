@@ -1,0 +1,555 @@
+﻿prefixo,data,empresa,arquivo_origem,linha_excel,cameras_relatorio,cameras_historico,acao,mapeamento,motivo
+12666,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1125,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+12667,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1126,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+12668,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1127,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+12669,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1128,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+12677,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1130,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+12678,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1131,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+12679,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1132,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+12680,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1133,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+12683,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1135,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+12684,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1136,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+12685,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1137,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+12686,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1138,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+12732,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1145,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+13670,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1162,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+13671,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1163,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+13672,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1164,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+13673,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1165,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+13674,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1166,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+13675,2026-10-06,GATO PRETO A1,Relatório CFTV - 06.10.2026.xlsx,1167,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+16517,2026-10-06,NORTE BUSS A1,Relatório CFTV - 06.10.2026.xlsx,3056,21,"21, 22",MANTIDO (ambíguo),,quantidade diferente do histórico (1 agora × 2 antes)
+26007,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3254,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26010,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3255,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26012,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3256,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26014,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3258,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26015,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3259,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26016,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3260,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26017,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3261,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26018,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3262,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26021,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3263,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26025,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3264,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26027,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3265,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26028,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3266,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26032,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3268,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26033,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3269,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26037,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3270,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26039,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3272,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26040,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3273,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26042,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3274,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26044,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3275,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26045,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3276,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26047,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3277,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26048,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3278,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26049,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3279,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26051,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3280,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26052,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3281,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26053,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3282,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26054,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3283,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26055,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3284,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26058,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3285,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26061,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3286,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26063,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3288,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26064,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3289,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26065,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3290,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26066,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3291,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26067,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3292,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26068,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3293,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26070,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3294,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26073,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3295,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26074,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3296,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26075,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3297,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26079,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3298,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26082,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3299,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26088,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3301,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26089,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3302,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26092,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3303,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26096,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3305,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26100,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3306,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26102,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3308,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26103,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3309,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26106,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3311,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26107,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3312,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26109,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3313,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26113,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3314,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26114,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3315,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26115,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3316,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26116,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3317,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26117,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3318,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26121,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3319,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26122,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3320,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26123,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3321,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26126,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3323,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26128,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3324,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26129,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3325,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26130,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3326,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26131,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3327,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26135,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3330,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26136,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3331,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26137,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3332,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26139,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3333,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26142,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3336,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26143,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3337,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26144,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3338,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26145,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3339,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26146,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3340,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26151,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3341,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26152,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3342,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26153,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3343,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26154,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3344,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26156,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3345,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26159,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3347,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26160,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3348,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26164,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3351,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26167,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3352,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26168,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3353,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26169,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3354,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26170,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3355,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26173,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3356,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26174,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3357,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26175,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3358,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26179,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3359,"21, 22",22,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26181,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3361,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26182,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3362,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26183,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3363,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26186,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3364,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26189,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3367,21,22,REMAPEADO,Câmera 21→22,mesma quantidade de câmeras do histórico
+26192,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3369,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26196,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3370,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26197,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3371,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26198,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3372,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26200,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3374,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26202,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3375,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26203,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3376,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26206,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3378,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26209,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3379,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26211,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3380,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26213,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3381,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26217,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3383,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26219,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3384,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26220,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3385,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26224,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3387,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26225,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3388,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26227,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3389,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26228,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3390,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26229,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3391,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26230,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3392,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26233,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3394,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26239,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3395,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26240,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3396,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26242,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3397,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26243,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3398,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26246,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3400,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26251,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3402,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26252,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3403,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26259,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3404,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26263,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3406,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26271,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3408,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26273,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3409,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26274,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3410,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26275,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3411,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26278,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3413,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26281,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3414,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26283,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3415,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26286,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3416,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26287,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3417,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26288,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3418,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26289,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3419,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26293,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3420,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26297,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3422,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26298,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3423,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26302,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3424,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26309,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3426,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26317,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3428,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26322,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3429,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26323,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3430,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26324,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3431,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26326,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3432,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26336,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3433,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26341,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3436,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26342,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3437,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26346,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3438,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26347,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3439,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26348,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3440,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26349,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3441,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26352,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3443,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26353,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3444,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26356,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3445,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26365,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3447,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26368,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3449,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26370,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3450,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26371,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3451,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26373,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3452,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26374,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3453,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26375,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3454,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26376,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3455,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26378,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3456,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26379,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3457,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26381,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3458,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26382,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3459,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26386,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3460,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26387,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3461,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26390,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3462,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26391,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3463,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26399,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3464,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26404,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3467,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26408,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3470,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26409,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3471,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26410,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3472,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26412,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3473,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26416,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3476,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26419,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3477,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26420,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3478,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26450,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3479,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26455,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3481,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26457,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3482,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26459,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3483,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26460,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3484,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26462,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3485,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26466,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3486,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26469,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3488,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26471,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3490,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26472,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3491,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26476,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3492,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26478,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3493,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26481,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3495,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26482,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3496,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26483,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3497,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26490,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3501,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26491,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3502,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26492,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3503,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26493,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3504,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26494,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3505,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26495,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3506,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26502,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3507,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26504,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3509,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26505,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3510,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26506,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3511,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26507,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3512,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26509,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3513,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26510,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3514,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26511,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3515,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26512,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3516,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26513,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3517,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26514,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3518,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26515,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3519,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26516,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3520,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26519,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3521,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26521,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3522,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26523,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3523,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26524,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3524,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26525,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3525,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26526,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3526,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26529,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3528,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26531,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3529,"21, 22",21,MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 1 antes)
+26536,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3530,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26540,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3531,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26542,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3532,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26543,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3533,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26544,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3534,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26545,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3535,"21, 22, 23",21,MANTIDO (ambíguo),,quantidade diferente do histórico (3 agora × 1 antes)
+26900,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3545,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26901,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3546,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26902,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3547,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26903,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3548,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26904,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3549,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26905,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3550,21,22,REMAPEADO,Câmera 21→22,mesma quantidade de câmeras do histórico
+26908,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3551,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26910,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3552,21,22,REMAPEADO,Câmera 21→22,mesma quantidade de câmeras do histórico
+26911,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3553,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26912,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3554,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26913,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3555,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26914,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3556,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26915,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3557,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26916,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3558,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26917,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3559,21,22,REMAPEADO,Câmera 21→22,mesma quantidade de câmeras do histórico
+26918,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3560,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26919,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3561,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26920,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3562,21,22,REMAPEADO,Câmera 21→22,mesma quantidade de câmeras do histórico
+26921,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3563,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26922,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3564,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26923,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3565,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26924,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3566,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26925,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3567,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26926,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3568,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26927,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3569,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26928,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3570,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26929,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3571,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26930,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3572,21,22,REMAPEADO,Câmera 21→22,mesma quantidade de câmeras do histórico
+26931,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3573,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26932,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3574,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26933,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3575,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26934,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3576,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+26935,2026-10-06,NORTE BUSS A2,Relatório CFTV - 06.10.2026.xlsx,3577,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35104,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,667,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35201,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,668,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35202,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,669,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35203,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,670,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35204,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,671,21,22,REMAPEADO,Câmera 21→22,mesma quantidade de câmeras do histórico
+35205,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,672,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35206,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,673,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35207,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,674,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35208,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,675,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35209,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,676,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35210,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,677,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35213,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,678,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35214,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,679,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35215,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,680,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35216,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,681,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35219,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,682,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35220,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,683,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35503,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,699,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35507,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,701,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35508,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,702,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35512,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,703,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35513,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,704,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35514,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,705,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35515,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,706,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35516,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,707,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35521,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,710,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35522,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,711,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35523,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,712,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35524,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,713,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35525,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,714,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35526,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,715,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35528,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,717,21,22,REMAPEADO,Câmera 21→22,mesma quantidade de câmeras do histórico
+35529,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,718,21,22,REMAPEADO,Câmera 21→22,mesma quantidade de câmeras do histórico
+35701,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,719,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35703,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,720,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35706,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,722,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35707,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,723,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35708,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,724,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35714,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,728,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35716,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,729,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35717,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,730,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35721,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,731,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35722,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,732,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35727,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,733,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35729,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,734,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35731,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,735,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35732,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,736,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35735,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,737,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35736,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,738,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35737,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,739,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35739,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,740,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35744,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,741,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35748,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,742,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35752,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,743,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35753,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,744,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35757,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,747,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35758,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,748,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35759,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,749,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35764,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,750,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35765,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,751,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35769,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,752,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35772,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,753,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35774,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,754,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35779,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,755,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35780,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,756,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35781,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,757,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35782,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,758,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35783,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,759,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35784,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,760,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35786,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,761,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35791,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,762,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35792,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,763,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35793,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,764,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35795,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,765,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35796,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,766,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35799,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,768,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35802,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,769,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35803,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,770,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35807,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,771,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35808,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,772,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35814,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,773,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35816,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,774,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35817,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,775,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35819,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,776,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35820,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,777,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35824,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,778,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35826,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,779,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35827,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,780,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35831,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,781,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35833,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,782,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35834,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,783,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35835,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,784,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35837,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,785,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35840,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,786,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35842,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,787,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35850,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,788,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35852,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,789,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35900,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,790,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35903,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,791,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35907,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,792,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35909,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,793,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35912,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,794,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35913,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,795,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35915,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,796,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35918,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,797,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35927,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,798,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35928,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,799,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35939,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,800,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35941,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,801,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35944,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,802,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35946,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,803,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35947,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,804,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35950,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,805,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35952,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,806,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35964,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,808,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35975,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,810,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35981,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,812,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35984,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,813,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35990,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,814,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35991,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,815,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35992,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,816,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35993,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,817,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+35994,2026-10-06,ALFA RODOBUS SPE,Relatório CFTV - 06.10.2026.xlsx,818,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+61570,2026-10-06,VIACAO GRAJAU,Relatório CFTV - 06.10.2026.xlsx,5083,"21, 22, 23, 24, 25, 26",22,MANTIDO (ambíguo),,quantidade diferente do histórico (6 agora × 1 antes)
+82718,2026-10-06,GATO PRETO,Relatório CFTV - 06.10.2026.xlsx,1005,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+82733,2026-10-06,GATO PRETO,Relatório CFTV - 06.10.2026.xlsx,1019,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+82734,2026-10-06,GATO PRETO,Relatório CFTV - 06.10.2026.xlsx,1020,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+82735,2026-10-06,GATO PRETO,Relatório CFTV - 06.10.2026.xlsx,1021,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+82757,2026-10-06,GATO PRETO,Relatório CFTV - 06.10.2026.xlsx,1042,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+82758,2026-10-06,GATO PRETO,Relatório CFTV - 06.10.2026.xlsx,1043,"22, 23","21, 22, 23",MANTIDO (ambíguo),,quantidade diferente do histórico (2 agora × 3 antes)
+86001,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,492,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86002,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,493,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86003,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,494,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86004,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,495,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86005,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,496,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86009,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,497,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86010,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,498,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86014,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,499,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86017,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,500,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86018,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,501,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86019,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,502,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86020,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,503,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86022,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,504,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86023,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,505,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86024,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,506,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86025,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,507,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86026,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,508,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86027,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,509,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86029,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,510,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86030,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,511,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86031,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,512,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86032,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,513,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86033,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,514,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86034,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,515,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86035,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,516,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86036,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,517,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86037,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,518,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86038,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,519,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86044,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,520,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86045,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,521,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86046,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,522,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86047,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,523,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86049,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,524,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86050,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,525,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86070,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,526,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86076,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,527,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86077,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,528,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86079,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,529,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86100,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,534,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86116,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,543,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86117,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,544,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86119,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,545,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86120,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,546,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86121,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,547,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86122,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,548,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86123,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,549,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86124,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,550,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86125,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,551,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86126,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,552,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86127,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,553,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86128,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,554,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86131,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,556,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86132,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,557,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86135,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,558,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86136,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,559,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86137,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,560,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86138,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,561,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86140,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,563,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86141,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,564,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86142,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,565,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86143,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,566,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86144,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,567,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86145,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,568,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86146,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,569,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86147,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,570,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86148,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,571,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86149,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,572,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86153,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,573,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86154,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,574,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86155,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,575,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86156,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,576,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86157,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,577,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86162,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,578,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86163,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,579,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86169,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,580,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86170,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,581,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86171,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,582,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86172,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,583,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86173,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,584,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86174,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,585,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86175,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,586,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86176,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,587,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86177,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,588,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86182,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,589,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86184,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,590,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86200,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,591,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86201,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,592,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86205,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,593,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86206,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,594,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86224,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,595,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86225,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,596,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86239,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,597,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86244,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,598,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86265,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,599,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86270,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,600,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86274,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,601,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86286,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,602,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86300,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,603,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86301,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,604,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86303,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,605,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86308,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,606,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86316,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,608,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86320,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,609,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86321,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,610,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86322,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,611,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86323,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,612,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86327,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,613,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86329,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,614,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86330,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,615,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86336,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,616,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86337,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,617,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86338,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,618,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86339,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,619,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86341,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,620,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86343,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,621,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86346,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,622,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86347,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,623,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86349,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,624,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86350,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,625,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86351,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,626,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86352,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,627,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86353,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,628,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86354,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,629,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86357,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,630,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86362,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,631,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86364,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,632,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86365,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,633,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86366,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,634,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86367,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,635,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86417,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,636,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86463,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,637,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86474,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,638,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86482,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,639,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86483,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,640,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86487,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,641,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86500,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,642,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86506,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,643,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86516,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,644,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86521,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,645,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86522,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,646,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86616,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,662,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico
+86618,2026-10-06,ALFA RODOBUS,Relatório CFTV - 06.10.2026.xlsx,664,22,21,REMAPEADO,Câmera 22→21,mesma quantidade de câmeras do histórico

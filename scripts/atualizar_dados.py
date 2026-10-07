@@ -8,7 +8,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from cftv import analise, config, exportar, leitura_cftv, manutencao  # noqa: E402
+from cftv import analise, config, exportar, leitura_cftv, manutencao, reconciliacao  # noqa: E402
 
 
 def main():
@@ -18,6 +18,11 @@ def main():
     for i in infos:
         print(f"   {i['arquivo']}: aba '{i['aba_utilizada']}' ({i['registros']} registros); ignoradas: {[x['aba'] for x in i['abas_ignoradas']]}")
     print(f'   total: {len(df)} registros, {df.prefixo.nunique()} prefixos')
+    df, reconc = reconciliacao.reconciliar(df)
+    if len(reconc):
+        from collections import Counter as _C
+        print(f"   reconciliação de câmeras com o histórico (a partir de {config.RECONCILIAR_A_PARTIR:%d/%m/%Y}):",
+              dict(_C(reconc['acao'])))
     # período: 01/09–24/09/2026 por padrão; amplia automaticamente se chegarem arquivos de outras datas
     import pandas as pd
     dmin, dmax = pd.to_datetime(df['data']).min().date(), pd.to_datetime(df['data']).max().date()
@@ -33,7 +38,7 @@ def main():
     from collections import Counter
     print('   ', dict(Counter(e['resultado'] for e in eventos)))
     print('4/4 Gerando bases tratadas e dados do site...')
-    exportar.gerar(df, infos, forms, finfo, eventos, dup, sem_data)
+    exportar.gerar(df, infos, forms, finfo, eventos, dup, sem_data, reconc)
     print(f'Concluído em {time.time() - t0:.0f}s. Saídas: {config.PROCESSED} e {config.SITE_DATA}')
 
 
